@@ -130,5 +130,7 @@
       "type": "adblock"
     }
   ],
-  "transformations": ["RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Compress", "Validate", "InsertFinalNewLine"]
+  "transformations": ["RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Compress", "Validate", "InsertFinalNewLine"],
+  "inclusions_sources": ["inclusions.txt"],
+  "exclusions_sources": ["exclusions.txt"]
 }
