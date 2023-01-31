@@ -26,5 +26,5 @@ wget -nv -q --https-only --show-progress -O - "https://raw.githubusercontent.com
 wget -nv -q --https-only --show-progress -O - "https://gist.githubusercontent.com/ammnt/8b3d07a0ecdb48fe0f7e289525a11446/raw/4ff2818cc1aa12b5e9da2aeeb467cdc2fe8197f4/orwell1984.txt" > orwell1984.txt
 wget -nv -q --https-only --show-progress -O - "https://antipopads-re.energized.pro/formats/filter.txt" > antipopads_re.txt
 
-echo "All done..." && ls -la
+echo "Update completed..."
 exit 0
