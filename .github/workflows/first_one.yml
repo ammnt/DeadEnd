@@ -22,6 +22,7 @@ jobs:
     steps:
       - name: Update backups
         run: |
+          pwd && ls -la 
           chmod +x ./backup/start.sh
           bash ./backup/start.sh
             shell: bash
