@@ -1,0 +1,14 @@
+name: Second CI
+
+on: push
+
+jobs:
+  Second_CI:
+    name: Second Ci
+    runs-on: ubuntu-latest
+    
+    steps:
+      - run: echo "Started!"
+      - name: Checkout
+        uses: actions/checkout@3.3.0
+      - run: echo "This repo is ${{ github.repository }}..."
