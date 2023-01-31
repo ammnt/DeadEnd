@@ -5,7 +5,7 @@ on: push
 jobs:
   Second_CI:
     name: Second Ci
-    runs-on: alpine-latest
+    runs-on: ubuntu-latest
     
     steps:
       - run: echo "Started!"
