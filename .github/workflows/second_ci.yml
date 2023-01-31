@@ -1,10 +1,10 @@
 name: Second CI
 
-on: push
+on: workflow_dispatch
 
 jobs:
   Second_CI:
-    name: Second Ci
+    name: Second CI
     runs-on: ubuntu-latest
     
     steps:
