@@ -1,4 +1,4 @@
-#/bin/bash
+#/bin/sh
 
 wget -nv -q --https-only --show-progress -O - "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" > AdGuardSDNSFilter.txt 
 wget -nv -q --https-only --show-progress -O - "https://adaway.org/hosts.txt" > adaway_hosts.txt
