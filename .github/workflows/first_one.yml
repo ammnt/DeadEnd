@@ -10,19 +10,19 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: '0/30 * * * *' # Every 30 minutes
+    - cron: '0/10 * * * *' # Every 30 minutes
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  run_tests:
+  run:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: Run script file
       run: |
-         chmod +x ./start.sh
-         ./start.sh
+         chmod +x ./backup/start.sh
+         ./backup/start.sh
       shell: bash
