@@ -21,4 +21,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update backups
-        run:  bash ${PWD}/backup/start.sh
+        run:  bash ./backup/start.sh
