@@ -21,4 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update backups
-        run:  bash ./backup/start.sh
+      run: |
+          chmod +x ./backup/start.sh
+          bash ./backup/start.sh
+       shell: bash
