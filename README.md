@@ -1,4 +1,4 @@
-<center><img align="center" alt="DeadEnd logo" src="https://raw.githubusercontent.com/ammnt/DeadEnd/main/logo.png" /></center>
+<center><img align="center" alt="DeadEnd filter logo" src="https://raw.githubusercontent.com/ammnt/DeadEnd/main/logo.png" /></center>
 
 ***
 
