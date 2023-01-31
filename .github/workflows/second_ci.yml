@@ -1,6 +1,8 @@
 name: Second CI
 
-on: workflow_dispatch
+on:
+  schedule:
+    - cron: '0 */24 * * *' # Every 24 hours
 
 jobs:
   Second_CI:
