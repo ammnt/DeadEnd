@@ -3,6 +3,11 @@ name: Update filters
 on:
   schedule:
     - cron: '30 0 * * *' # Every 24 hours
+  push:
+    branches: [ "main" ]
+    tags: [ 'v*.*.*' ]
+  pull_request:
+    branches: [ "main" ]
 
 jobs:
   Update_filters:
