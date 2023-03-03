@@ -1,12 +1,12 @@
-name: Second CI
+name: Update filters
 
 on:
   schedule:
-    - cron: '0 */24 * * *' # Every 24 hours
+    - cron: '30 0 * * *' # Every 24 hours
 
 jobs:
-  Second_CI:
-    name: Second CI
+  Update_filters:
+    name: Update filters
     runs-on: ubuntu-latest
     
     steps:
