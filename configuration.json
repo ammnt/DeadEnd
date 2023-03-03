@@ -130,6 +130,6 @@
     }
   ],
   "transformations": ["RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Compress", "Validate", "InsertFinalNewLine"],
-  "exclusions_sources": ["exclusions.txt"]
+  "exclusions_sources": ["exclusions.txt"],
   "inclusions_sources": ["inclusions.txt"]
 }
