@@ -2,7 +2,6 @@
   "name": "DeadEnd",
   "description": "The compilation of filter lists - only Ads & Tracking hosts",
   "homepage": "https://msftcnsi.com/",
-  "license": "GPLv3",
   "sources": [
     {
       "name": "AdGuard DNS filter",
