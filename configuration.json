@@ -1,6 +1,6 @@
 {
   "name": "DeadEnd",
-  "description": "The compilation of filter list - only Ads & Tracking hosts",
+  "description": "The compilation of filters - only Ads & Tracking hosts",
   "homepage": "https://github.com/ammnt/DeadEnd",
   "license": "GPLv3",
   "sources": [
