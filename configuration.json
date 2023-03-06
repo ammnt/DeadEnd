@@ -1,7 +1,7 @@
 {
   "name": "DeadEnd",
   "description": "The compilation of filters - only Ads & Tracking hosts",
-  "homepage": "https://msftcnsi.com/",
+  "homepage": "https://github.com/ammnt/DeadEnd",
   "sources": [
     {
       "name": "AdGuard DNS filter",
@@ -130,6 +130,5 @@
     }
   ],
   "transformations": ["RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Compress", "Validate", "InsertFinalNewLine"],
-  "exclusions_sources": ["exclusions.txt"],
-  "inclusions_sources": ["inclusions.txt"]
+  "exclusions_sources": ["exclusions.txt"]
 }
