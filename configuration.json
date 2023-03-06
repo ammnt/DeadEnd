@@ -1,6 +1,6 @@
 {
   "name": "DeadEnd",
-  "description": "The compilation of filters - only Ads & Tracking hosts",
+  "description": "The compilation of filters for AdGuard Home",
   "homepage": "https://github.com/ammnt/DeadEnd",
   "license": "GPLv3",
   "sources": [
