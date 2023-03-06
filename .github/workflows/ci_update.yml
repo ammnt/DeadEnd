@@ -1,13 +1,15 @@
-name: Build AdGuard DNS filter
+name: Build the filter
 
 on:
-  push:
   schedule:
-    - cron: '0 */6 * * *' # Every 6th hour
-
+    - cron: '30 0 * * *'
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+    
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
