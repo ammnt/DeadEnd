@@ -1,10 +1,10 @@
-<p align="center"><img alt="DeadEnd filter logo" src="https://raw.githubusercontent.com/ammnt/DeadEnd/main/logo.png" /></div></p>
+<p align="center"><img alt="DeadEnd sign logo" src="https://raw.githubusercontent.com/ammnt/DeadEnd/main/logo.png" /></div></p>
 
 ***
 
 # Description:
 
-This repository contains my <a href="https://github.com/ammnt/DeadEnd/raw/main/filter.txt">extended filter</a> - compilation of filters for AdGuard Home that blocks:
+This repository contains my <a href="https://github.com/ammnt/DeadEnd/raw/main/filter.txt">extended filter</a> - the compilation of filters for AdGuard Home that blocks:
 - Advertising, CPA and banner domains and their subdomains💩
 - Tracking and telemetry hosts and their subdomains📡
 - CNAME cloacking, analytics and metric domains and their subdomains🕵
