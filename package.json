@@ -1,7 +1,7 @@
 {
   "name": "deadend-filter",
   "version": "1.3f",
-  "description": "The compilation of filter list - only Ads & Tracking hosts",
+  "description": "The compilation of filters - only Ads & Tracking hosts",
   "repository": "https://github.com/ammnt/DeadEnd",
   "author": "ammnt",
   "license": "GPL-3.0",

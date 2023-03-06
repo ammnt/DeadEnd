@@ -2,7 +2,7 @@ name: Build the filter🚀
 
 on:
   schedule:
-    - cron: '30 0 * * *'
+    - cron: '30 0 * * 5'
   push:
     branches: [ "main" ]
   pull_request:
