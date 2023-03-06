@@ -89,6 +89,10 @@
 ||yabs.yandex.ru^
 ||hlsvod.rambler.eaglecdn.com^
 ||images.dmca.com^
+|sematext.com^
+|cdn.sematext.com^
+|apps.sematext.com^
+|status.sematext.com^
 ||2ip.ua^
 ||ssl.kaptcha.com^
 ||i.onthe.io^
