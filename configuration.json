@@ -1,6 +1,6 @@
 {
   "name": "DeadEnd",
-  "description": "The compilation of filters - only Ads & Tracking hosts",
+  "description": "The compilation of filter list - only Ads & Tracking hosts",
   "homepage": "https://github.com/ammnt/DeadEnd",
   "sources": [
     {
@@ -132,3 +132,4 @@
   "transformations": ["RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Compress", "Validate", "InsertFinalNewLine"],
   "exclusions_sources": ["exclusions.txt"]
 }
+
