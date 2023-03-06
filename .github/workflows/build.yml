@@ -3,10 +3,6 @@ name: Build the filter🚀
 on:
   schedule:
     - cron: '30 0 * * *'
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
 
 jobs:
   build:
