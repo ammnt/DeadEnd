@@ -2,6 +2,7 @@
   "name": "DeadEnd",
   "description": "The compilation of filter list - only Ads & Tracking hosts",
   "homepage": "https://github.com/ammnt/DeadEnd",
+  "license": "GPLv3",
   "sources": [
     {
       "name": "AdGuard DNS filter",
@@ -130,6 +131,6 @@
     }
   ],
   "transformations": ["RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Compress", "Validate", "InsertFinalNewLine"],
-  "exclusions_sources": ["exclusions.txt"]
+  "exclusions_sources": ["Filters/exclusions.txt"]
 }
 
