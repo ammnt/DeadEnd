@@ -28,10 +28,10 @@ jobs:
           CI: true
 
       - name: Push files
+        if: github.event_name == 'push'
         run: |
-          git config user.name ${{ secrets.GH_USER }}
-          git config user.email ${{ secrets.GH_MAIL }}
-          git remote add origin https://${{ secrets.GH_TOKEN }}@github.com/ammnt/DeadEnd.git
-          git fetch origin && git branch -M main
-          git add filter.txt && git commit -m "regular update filter"
-          git push -u origin main
+          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+          git config --global user.email "admin@msftcnsi.com"
+          git add filter.txt
+          git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git push
