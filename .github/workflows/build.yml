@@ -29,11 +29,10 @@ jobs:
         env:
           CI: true
 
-      - name: Push files
+      - name: Push files to repo
         if: github.event_name == 'push'
         run: |
           git config --global user.name "ammnt"
           git config --global user.email "admin@msftcnsi.com"
-          git add filter.txt
-          git commit -m "regular update"
+          git add filter.txt && git commit -m "regular update"
           git push
