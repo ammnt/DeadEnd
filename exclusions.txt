@@ -124,3 +124,8 @@
 ||home^
 ||stats.gc.apple.com^
 ||stats.gc.fe.apple-dns.net^
+.1.1.1.l80.js^
+.n.2.1.js^
+.n.2.1.l50.js^
+.n.2.1.l60.js^
+||mo.vlpyj.xy^
