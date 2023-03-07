@@ -129,3 +129,10 @@
 .n.2.1.l50.js^
 .n.2.1.l60.js^
 ||mo.vlpyj.xy^
+.3.n.2.1.l50.js
+.3.n.2.2.l30.js
+||d1stxfv94hrhia.cloudfront^
+||aab-proxy.tld^
+||rrf.fat1domain1^
+||mm.n3w1d0ma1n^
+||youtube.local^
