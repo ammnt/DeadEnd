@@ -28,7 +28,7 @@ jobs:
           CI: true
 
       - name: Push the filter to repo
-        if: github.event_name == 'push'
+        if: ${{ github.event_name != 'pull_request' }}
         run: |
           git config --global user.name "ammnt"
           git config --global user.email "admin@msftcnsi.com"
