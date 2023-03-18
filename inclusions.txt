@@ -1153,7 +1153,10 @@
 ||gonet-ads.com^
 ||4mjlixyhcc.com^
 /tiktok-web-ads/
-||pxl.yoomoney.ru^$important
-||understatedvariation.com^$important
-||cawhisevi.pro^$important
-||cnt0.www.uz^$important
+||pxl.yoomoney.ru^
+||understatedvariation.com^
+||cawhisevi.pro^
+||cnt0.www.uz^
+||newup.bid^
+||s.pwt.soundcloud.com^
+||rl.data.ea.com^
