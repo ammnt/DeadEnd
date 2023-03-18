@@ -136,4 +136,4 @@
 ||rrf.fat1domain1^
 ||mm.n3w1d0ma1n^
 ||youtube.local^
-@@||www.reg.ru^
+||www.reg.ru^
