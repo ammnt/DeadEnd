@@ -1175,3 +1175,8 @@
 ||events.fivetran.com^
 ||gonet-ads.com^
 ||4mjlixyhcc.com^
+/tiktok-web-ads/
+||pxl.yoomoney.ru^$important
+||understatedvariation.com^$important
+||cawhisevi.pro^$important
+||cnt0.www.uz^$important
