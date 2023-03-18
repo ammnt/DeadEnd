@@ -172,3 +172,9 @@
 ||email-open.adtidy.net^
 ||email-open.adtidy.org^
 ||es.wix.com^
+||s019.radikal.ru^
+||r.radikal.ru^
+||mx.yandex.ru^
+||m.hh.ru^
+||encrypted-tbn1.gstatic.com^
+||r.mradx.net^
