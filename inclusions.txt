@@ -1160,3 +1160,7 @@
 ||newup.bid^
 ||s.pwt.soundcloud.com^
 ||rl.data.ea.com^
+||us2-rum-events-1307658285.us-west-2.elb.amazonaws.com^
+||rum-collectors.*.sumologic.com^
+||rum.sumologic.com^
+||p-rumo*.kxcdn.com^
