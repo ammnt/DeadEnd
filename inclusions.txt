@@ -1164,3 +1164,4 @@
 ||rum-collectors.*.sumologic.com^
 ||rum.sumologic.com^
 ||p-rumo*.kxcdn.com^
+||reporting.teleportinfra.sh^

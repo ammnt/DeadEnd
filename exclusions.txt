@@ -178,8 +178,9 @@
 ||m.hh.ru^
 ||encrypted-tbn1.gstatic.com^
 ||mradx.net^
-|alloha.tv^
+||alloha.tv^
 ||com.tenjin.ios.api^
 ||pgl.example0101^
 ||deploy.propellerads.comm^
 ||pls.marketo.comm^
+||click.aliexpress.com^
