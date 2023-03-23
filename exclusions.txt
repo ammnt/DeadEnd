@@ -184,3 +184,5 @@
 ||deploy.propellerads.comm^
 ||pls.marketo.comm^
 ||click.aliexpress.com^
+||msedge.net^
+||fp.msedge.net^

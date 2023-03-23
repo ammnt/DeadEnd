@@ -1165,3 +1165,6 @@
 ||rum.sumologic.com^
 ||p-rumo*.kxcdn.com^
 ||reporting.teleportinfra.sh^
+||analytics.dnsfilter.com^
+||ebayadservices.com^
+||s.luxcdn.com^
