@@ -186,3 +186,6 @@
 ||click.aliexpress.com^
 ||msedge.net^
 ||fp.msedge.net^
+||ozone.ru^
+||img1.blogblog.com^
+||*onicon*

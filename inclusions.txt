@@ -1167,3 +1167,9 @@
 ||analytics.dnsfilter.com^
 ||ebayadservices.com^
 ||s.luxcdn.com^
+||analytics-api.sky.pro^
+||kfe0mn.ru^
+||litrk.ru^
+||analytics.unixhost.pro^
+||s10.adtidy.net^
+||sc01.alicdn.com^

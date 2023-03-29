@@ -155,7 +155,7 @@
       "transformations": ["Compress"]
     },
     {
-      "name": "Internal list",
+      "name": "Internal inclusions list",
       "source": "inclusions.txt",
       "type": "adblock"
     }
