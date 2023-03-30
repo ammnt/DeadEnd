@@ -190,3 +190,5 @@
 ||img1.blogblog.com^
 ||*onicon*
 ||danuoyi.alicdn.com^
+||hubspot.net^
+||ap-southeast-1.compute.amazonaws.com^
