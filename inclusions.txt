@@ -1172,3 +1172,4 @@
 ||analytics.unixhost.pro^
 ||s10.adtidy.net^
 ||dwt.soundcloud.com^
+||rpi-imager-stats.raspberrypi.com^
