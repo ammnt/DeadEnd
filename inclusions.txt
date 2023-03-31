@@ -1173,3 +1173,4 @@
 ||s10.adtidy.net^
 ||dwt.soundcloud.com^
 ||rpi-imager-stats.raspberrypi.com^
+||insights.gridscale.io^
