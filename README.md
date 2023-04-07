@@ -11,7 +11,8 @@ This repository contains my <a href="https://github.com/ammnt/DeadEnd/raw/main/f
 - Chat, cookies and push services hosts and their subdomains🔕
 - Some adware, spyware and malware domains and their subdomains🤬
 
-You can use it any way you want. The file will be updated regularly🚀
+You can use it any way you want. The file will be updated regularly🚀 You can also use my public DNS-over-HTTPS server with this filter:
+<code>https://dns.msftcnsi.com/dns-query/2abb6344</code>
 
 # Note:
 
