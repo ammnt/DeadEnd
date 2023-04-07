@@ -1174,3 +1174,7 @@
 ||dwt.soundcloud.com^
 ||rpi-imager-stats.raspberrypi.com^
 ||insights.gridscale.io^
+||collect-analytics.hexlet.io^
+||gtmetrix.com^
+||1g46ls536.de^
+||2gg6ebbhh.de^
