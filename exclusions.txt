@@ -192,3 +192,5 @@
 ||danuoyi.alicdn.com^
 ||hubspot.net^
 ||ap-southeast-1.compute.amazonaws.com^
+||hubspot.com^
+||grafana.org^

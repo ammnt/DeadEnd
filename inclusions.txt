@@ -1178,3 +1178,4 @@
 ||gtmetrix.com^
 ||1g46ls536.de^
 ||2gg6ebbhh.de^
+||simpleanalytics.com^
