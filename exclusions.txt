@@ -194,3 +194,15 @@
 ||ap-southeast-1.compute.amazonaws.com^
 ||hubspot.com^
 ||grafana.org^
+||ttgtmedia.com^
+||academy.hubspot.com^
+||eu-west-1.compute.amazonaws.com^
+||onesignal.com^
+||cdn.onesignal.com^
+||optimizely.com^
+||cdn.cookielaw.org^
+||cookielaw.org^
+||cdn-images.mailchimp.com^
+||mailchimp.com^
+||s10.adtidy.net^
+||cdn.ttgtmedia.com^

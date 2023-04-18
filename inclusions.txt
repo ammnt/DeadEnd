@@ -1179,3 +1179,6 @@
 ||1g46ls536.de^
 ||2gg6ebbhh.de^
 ||simpleanalytics.com^
+||operate-sdk-telemetry.unity3d.com^
+||events.maps.mail.ru^
+||analytics.msk1.ru^

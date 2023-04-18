@@ -2,7 +2,6 @@
   "name": "DeadEnd",
   "description": "The compilation of filters for AdGuard Home",
   "homepage": "https://github.com/ammnt/DeadEnd",
-  "license": "GPLv3",
   "sources": [
     {
       "name": "AdGuard DNS filter",
