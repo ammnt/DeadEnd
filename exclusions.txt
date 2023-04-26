@@ -204,5 +204,5 @@
 ||cookielaw.org^
 ||cdn-images.mailchimp.com^
 ||mailchimp.com^
-||s10.adtidy.net^
 ||cdn.ttgtmedia.com^
+||info.mirantis.com^

@@ -1170,7 +1170,6 @@
 ||kfe0mn.ru^
 ||litrk.ru^
 ||analytics.unixhost.pro^
-||s10.adtidy.net^
 ||dwt.soundcloud.com^
 ||rpi-imager-stats.raspberrypi.com^
 ||insights.gridscale.io^
@@ -1182,3 +1181,5 @@
 ||operate-sdk-telemetry.unity3d.com^
 ||events.maps.mail.ru^
 ||analytics.msk1.ru^
+||js-collector.icewood.net^
+||mlssp.disqus.com^
