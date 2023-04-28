@@ -1183,3 +1183,6 @@
 ||analytics.msk1.ru^
 ||js-collector.icewood.net^
 ||mlssp.disqus.com^
+||izatcloud.net^
+||bingapis.com^
+||h-ay.com^

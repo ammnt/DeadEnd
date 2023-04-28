@@ -206,3 +206,6 @@
 ||mailchimp.com^
 ||cdn.ttgtmedia.com^
 ||info.mirantis.com^
+||ahacdn.me^
+||ro55cpi1.xhamster.com^
+||cdn13.com^
