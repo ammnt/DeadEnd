@@ -1186,3 +1186,6 @@
 ||izatcloud.net^
 ||bingapis.com^
 ||h-ay.com^
+||stat.khanate.pro^
+||reallifeforyouandme.com^
+||mirasoundisc.com^
