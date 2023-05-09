@@ -209,3 +209,6 @@
 ||ahacdn.me^
 ||ro55cpi1.xhamster.com^
 ||cdn13.com^
+||compute-1.amazonaws.com^
+||ahcdn.com^
+||redirectingat.com^
