@@ -40,7 +40,7 @@ jobs:
       - name: Install yarn and run hostlist-compiler
         if: steps.yarn-cache.outputs.cache-hit != 'true'
         run: |
-          yarn install --frozen-lockfile --prefer-offline
+          yarn install --prefer-offline
           yarn run build
         env:
           CI: true
