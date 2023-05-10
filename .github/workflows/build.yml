@@ -2,9 +2,9 @@ name: Build the filter🚀
 
 on:
   schedule:
-  - cron: '30 8 * * *'
-  push:
-    branches: ["main"]
+  - cron: '30 0 * * *'
+    # push:
+    # branches: ["main"]
 
 jobs:
   build:
@@ -39,7 +39,7 @@ jobs:
     - name: Install yarn and run hostlist-compiler
       if: steps.yarn-cache.outputs.cache-hit != 'true'
       run: |
-        yarn install --frozen-lockfile --prefer-offline
+        yarn install --prefer-offline
         yarn run build
       env:
         CI: true
@@ -49,6 +49,6 @@ jobs:
       run: |
         git config --global user.name "ammnt"
         git config --global user.email "admin@msftcnsi.com"
-        git add filter.txt
+        git add filter.txt yarn.lock
         git commit -m "build: regular update"
         git push
