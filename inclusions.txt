@@ -1191,3 +1191,4 @@
 ||mirasoundisc.com^
 ||1k2n7a28s.de^
 ||analytics.linuxjournal.com^
+||analytics.githubassets.com^

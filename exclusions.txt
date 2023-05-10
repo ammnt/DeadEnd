@@ -213,3 +213,4 @@
 ||ahcdn.com^
 ||redirectingat.com^
 ||netlify.com^
+||cdn.cookielaw.org^
