@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
   - cron: '30 0 * * *'
-    push:
+  push:
     branches: ["main"]
 
 jobs:
