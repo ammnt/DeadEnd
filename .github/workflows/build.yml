@@ -23,6 +23,9 @@ jobs:
       uses: actions/setup-node@v3.6.0
       with:
         node-version: 18
+        cache: 'npm'
+
+
 
     - name: Install yarn and run hostlist-compiler
       run: |
