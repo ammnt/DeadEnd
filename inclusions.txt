@@ -1192,3 +1192,5 @@
 ||1k2n7a28s.de^
 ||analytics.linuxjournal.com^
 ||analytics.githubassets.com^
+||personal-tracks-api.skyeng.ru^
+||counter.drom.ru^
