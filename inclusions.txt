@@ -1194,3 +1194,5 @@
 ||analytics.githubassets.com^
 ||personal-tracks-api.skyeng.ru^
 ||counter.drom.ru^
+||bandar-logger.prezi.com^
+||qonversion.io^
