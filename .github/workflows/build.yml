@@ -2,8 +2,8 @@ name: Build the filter🚀
 
 on:
   workflow_dispatch:
-  # schedule:
-  # - cron: '30 0 * * *'
+  schedule:
+  - cron: '30 21 * * 6'
   push:
     branches: ["main"]
 
@@ -29,7 +29,7 @@ jobs:
       id: yarn-cache-dir
       run: echo "dir=$(yarn cache dir)" >> $GITHUB_OUTPUT
 
-    - uses: actions/cache@v3.3.0
+    - uses: actions/cache@v3.3.1
       id: yarn-cache
       with:
         path: ${{ steps.yarn-cache-dir.outputs.dir }}
