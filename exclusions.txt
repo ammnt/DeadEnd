@@ -215,3 +215,4 @@
 ||netlify.com^
 ||cdn.cookielaw.org^
 ||found.ee^
+||history.google.com^

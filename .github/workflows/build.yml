@@ -3,7 +3,7 @@ name: Build the filter🚀
 on:
   workflow_dispatch:
   schedule:
-  - cron: '30 21 * * 6'
+  - cron: '30 15 * * 6'
   push:
     branches: ["main"]
 

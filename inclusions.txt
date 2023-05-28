@@ -1196,3 +1196,4 @@
 ||counter.drom.ru^
 ||bandar-logger.prezi.com^
 ||qonversion.io^
+||mobile.events.data.microsoft.com^
