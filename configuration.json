@@ -152,9 +152,13 @@
       "source": "https://antipopads-re.energized.pro/formats/filter.txt",
       "type": "adblock",
       "transformations": ["Compress"]
+    },
+    {
+      "name": "Internal inclusions list",
+      "source": "inclusions.txt",
+      "type": "adblock"
     }
   ],
   "transformations": ["RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Compress", "Validate", "InsertFinalNewLine"],
-  "exclusions_sources": ["exclusions.txt"],
-  "inclusions_sources": ["inclusions.txt"]
+  "exclusions_sources": ["exclusions.txt"]
 }
