@@ -1197,3 +1197,8 @@
 ||bandar-logger.prezi.com^
 ||qonversion.io^
 ||mobile.events.data.microsoft.com^
+||media-advcycle.imgsmail.ru^
+||collector.seranking.com^
+||browser.events.data.microsoft.com^
+||self.events.data.microsoft.com^
+||s10.adtidy.net^

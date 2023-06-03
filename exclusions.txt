@@ -216,3 +216,5 @@
 ||cdn.cookielaw.org^
 ||found.ee^
 ||history.google.com^
+||monitor.azure.com^
+||r.stripe.com^
