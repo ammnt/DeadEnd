@@ -1202,3 +1202,4 @@
 ||browser.events.data.microsoft.com^
 ||self.events.data.microsoft.com^
 ||s10.adtidy.net^
+||watson.events.data.microsoft.com^
