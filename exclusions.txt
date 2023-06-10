@@ -224,3 +224,4 @@
 ||v20.vortex-win.data.microsoft.com^
 ||mobile.pipe.aria.microsoft.com^
 ||settings-win.data.microsoft.com^
+||click.discord.com^
