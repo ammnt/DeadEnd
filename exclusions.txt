@@ -225,3 +225,5 @@
 ||mobile.pipe.aria.microsoft.com^
 ||settings-win.data.microsoft.com^
 ||click.discord.com^
+||salesforce.com^
+||*intercom*
