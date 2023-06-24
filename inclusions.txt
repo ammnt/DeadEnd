@@ -1203,4 +1203,6 @@
 ||self.events.data.microsoft.com^
 ||s10.adtidy.net^
 ||watson.events.data.microsoft.com^
-||1686999647098.012ygmvd5iw3.site^
+||012ygmvd5iw3.site^
+||logs-vimbox.skyeng.ru^
+||track.noty.info^
