@@ -1206,3 +1206,13 @@
 ||012ygmvd5iw3.site^
 ||logs-vimbox.skyeng.ru^
 ||track.noty.info^
+||track.dlhgate.com^
+||apistats.rg.ru^
+||video-stats.l.google.
+||ads.brave.software^
+||ads-admin.brave.software^
+||ads.bravesoftware.com^
+||ads-serve.bravesoftware.com^
+||staradvertiser.com^
+||onecollector.cloudapp.aria.akadns.net^
+||dc3b671cce.com^
