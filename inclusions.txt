@@ -1216,3 +1216,5 @@
 ||staradvertiser.com^
 ||onecollector.cloudapp.aria.akadns.net^
 ||dc3b671cce.com^
+||metrics.esoft.digital^
+||widget.intercom.io^
