@@ -248,3 +248,4 @@
 ||phonearena.com^
 ||s.rbk.ru^
 ||ip2location.com^
+||thetacdn.net^
