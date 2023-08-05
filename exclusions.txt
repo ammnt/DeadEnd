@@ -249,3 +249,6 @@
 ||s.rbk.ru^
 ||ip2location.com^
 ||thetacdn.net^
+||mindbox.ru^
+||img01.rl0.ru^
+||img02.rl0.ru^
