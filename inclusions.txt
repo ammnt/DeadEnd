@@ -1219,3 +1219,6 @@
 ||metrics.esoft.digital^
 ||widget.intercom.io^
 ||stat.crazypanda.ru^
+||adstream.ru^
+||umwatson.events.data.microsoft.com^
+||nwgsm.ru^
