@@ -185,7 +185,6 @@
 ||pls.marketo.comm^
 ||click.aliexpress.com^
 ||msedge.net^
-||fp.msedge.net^
 ||ozone.ru^
 ||img1.blogblog.com^
 ||*onicon*
@@ -198,7 +197,6 @@
 ||academy.hubspot.com^
 ||eu-west-1.compute.amazonaws.com^
 ||onesignal.com^
-||cdn.onesignal.com^
 ||optimizely.com^
 ||cdn.cookielaw.org^
 ||cookielaw.org^
@@ -213,7 +211,6 @@
 ||ahcdn.com^
 ||redirectingat.com^
 ||netlify.com^
-||cdn.cookielaw.org^
 ||found.ee^
 ||history.google.com^
 ||monitor.azure.com^
@@ -223,7 +220,6 @@
 ||v10.vortex-win.data.microsoft.com^
 ||v20.vortex-win.data.microsoft.com^
 ||mobile.pipe.aria.microsoft.com^
-||settings-win.data.microsoft.com^
 ||click.discord.com^
 ||salesforce.com^
 ||*intercom*
@@ -253,3 +249,5 @@
 ||img01.rl0.ru^
 ||img02.rl0.ru^
 ||trbna.com^
+||yahoo.com^
+||growth-pa.googleapis.com^
