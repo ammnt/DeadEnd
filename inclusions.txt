@@ -1223,3 +1223,5 @@
 ||nwgsm.ru^
 ||stats.ioy.one^
 ||stats.habr.com^
+||pixel.zerocdn.com^
+||pixel.cloud.cdnland.in^

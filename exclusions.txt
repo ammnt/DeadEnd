@@ -251,3 +251,5 @@
 ||trbna.com^
 ||yahoo.com^
 ||growth-pa.googleapis.com^
+||wc.yahoodns.net^
+||video-api.yql.yahoo.com^
