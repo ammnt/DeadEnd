@@ -1225,3 +1225,8 @@
 ||stats.habr.com^
 ||pixel.zerocdn.com^
 ||pixel.cloud.cdnland.in^
+||skwsg0.ru^
+||04xmhp.ru^
+||sfr7ag.ru^
+||p49o7e.ru^
+||recom-ads.wildberries.ru^

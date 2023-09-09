@@ -253,3 +253,5 @@
 ||growth-pa.googleapis.com^
 ||wc.yahoodns.net^
 ||video-api.yql.yahoo.com^
+||atdmt.com^
+||accountkit.com^
