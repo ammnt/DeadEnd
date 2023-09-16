@@ -1230,3 +1230,6 @@
 ||sfr7ag.ru^
 ||p49o7e.ru^
 ||recom-ads.wildberries.ru^
+||adstat.yandex.
+||webstats.cyotek.com^
+||jenkins-matomo.do.g4v.dev^
