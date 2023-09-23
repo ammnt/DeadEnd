@@ -254,3 +254,4 @@
 ||wc.yahoodns.net^
 ||video-api.yql.yahoo.com^
 ||accountkit.com^
+||optimizely.com.edgekey.net^

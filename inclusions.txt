@@ -1233,3 +1233,6 @@
 ||adstat.yandex.
 ||webstats.cyotek.com^
 ||jenkins-matomo.do.g4v.dev^
+||stat.pravdafrance.com^
+||banner.debwebdomain.xyz^
+||stats.rip^
