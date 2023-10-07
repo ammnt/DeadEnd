@@ -1192,7 +1192,7 @@
 ||1k2n7a28s.de^
 ||analytics.linuxjournal.com^
 ||analytics.githubassets.com^
-||personal-tracks-api.skyeng.ru^
+||trandgid.com^
 ||counter.drom.ru^
 ||bandar-logger.prezi.com^
 ||qonversion.io^
@@ -1237,3 +1237,4 @@
 ||banner.debwebdomain.xyz^
 ||stats.rip^
 ||tracking.banki.ru^
+||gtm.101domain.com^

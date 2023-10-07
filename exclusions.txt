@@ -256,3 +256,4 @@
 ||accountkit.com^
 ||optimizely.com.edgekey.net^
 ||cdn.shortpixel.ai^
+||www.afternic.com^
