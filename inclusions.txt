@@ -1238,3 +1238,6 @@
 ||stats.rip^
 ||tracking.banki.ru^
 ||gtm.101domain.com^
+||stats.qwant.com^
+||hubt.pornhub.com^
+||getsdk.online^
