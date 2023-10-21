@@ -257,3 +257,7 @@
 ||optimizely.com.edgekey.net^
 ||cdn.shortpixel.ai^
 ||www.afternic.com^
+||m2.nsimg.net^
+||m1.nsimg.net^
+||beboo.ru^
+||downloadwap.com^
