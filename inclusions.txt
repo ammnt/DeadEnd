@@ -196,12 +196,10 @@
 ||adswerve.com^
 ||report.mos.ru^
 ||collector.github.com^
-||ms-ssp.tinkoff.ru^
 ||track.tinkoff.ru^
 ||wp-r.github.io^
 ||ssp.rambler.ru^
 ||fldes6fq.de^
-||ms-dsp.tinkoff.ru^
 ||salebot.pro^
 ||appsflyersdk.com^
 ||8744f707d2.com^
@@ -1260,3 +1258,6 @@
 ||teracent.net^
 ||ytsa.net^
 ||icyh3e.ru^
+||bonussale.buzz^
+||oxmqzeszyo.com^
+||079301eaff0975107716716fd1cb0dcd.com^
