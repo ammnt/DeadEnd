@@ -263,3 +263,4 @@
 ||downloadwap.com^
 ||rdtcdn.com^
 ||eporner.com^
+||elasticbeanstalk.com^
