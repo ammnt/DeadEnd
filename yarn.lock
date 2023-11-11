@@ -9,7 +9,7 @@
   dependencies:
     ajv "^6.12.0"
     ajv-errors "^1.0.1"
-    axios "^0.19.2"
+    axios "^1.6.1"
     better-ajv-errors "^0.6.7"
     consola "^2.11.3"
     lodash "^4.17.15"
@@ -79,12 +79,12 @@ ansi-styles@^4.0.0:
     "@types/color-name" "^1.1.1"
     color-convert "^2.0.1"
 
-axios@^0.19.2:
-  version "0.19.2"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.19.2.tgz#3ea36c5d8818d0d5f8a8a97a6d36b86cdc00cb27"
-  integrity sha512-fjgm5MvRHLhx+osE2xoekY70AhARk3a6hkN+3Io1jc00jtquGvxYlKlsFUhmUET0V5te6CcZI7lcv2Ym61mjHA==
+axios@^1.6.1:
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.6.1.tgz#76550d644bf0a2d469a01f9244db6753208397d7"
+  integrity sha512-vfBmhDpKafglh0EldBEbVuoe7DyAavGSLWhuSm5ZSEKQnHhBf0xAAwybbNH1IkrJNGnS/VG4I5yxig1pCEXE4g==
   dependencies:
-    follow-redirects "1.5.10"
+    follow-redirects "^1.15.0"
 
 better-ajv-errors@^0.6.7:
   version "0.6.7"
