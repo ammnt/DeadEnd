@@ -52,6 +52,6 @@ jobs:
         run: |
           git config --global user.name "ammnt"
           git config --global user.email "admin@msftcnsi.com"
-          git add filter.txt yarn.lock
+          git add filter.txt
           git commit -m "build: regular update"
           git push
