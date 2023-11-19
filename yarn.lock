@@ -10,7 +10,7 @@
     ajv "^8.12.0"
     ajv-errors "^3.0.0"
     axios "^1.6.2"
-    better-ajv-errors "^1.2.0"
+    better-ajv-errors "^0.6.7"
     consola "^3.2.3"
     lodash "^4.17.21"
     tldts "^6.0.20"
@@ -84,16 +84,18 @@ axios@^1.6.2:
     form-data "^4.0.0"
     proxy-from-env "^1.1.0"
 
-better-ajv-errors@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/better-ajv-errors/-/better-ajv-errors-1.2.0.tgz#6412d58fa4d460ff6ccbd9e65c5fef9781cc5286"
-  integrity sha512-UW+IsFycygIo7bclP9h5ugkNH8EjCSgqyFB/yQ4Hqqa1OEYDtb0uFIkYE0b6+CjkgJYVM5UKI/pJPxjYe9EZlA==
-  dependencies:
-    "@babel/code-frame" "^7.22.13"
-    "@humanwhocodes/momoa" "^2.0.2"
-    chalk "^5.3.0"
-    jsonpointer "^5.0.1"
-    leven "^4.0.0"
+better-ajv-errors@^0.6.7:
+   version "0.6.7"
+   resolved "https://registry.yarnpkg.com/better-ajv-errors/-/better-ajv-errors-0.6.7.tgz#b5344af1ce10f434fe02fc4390a5a9c811e470d1"
+   integrity sha512-PYgt/sCzR4aGpyNy5+ViSQ77ognMnWq7745zM+/flYO4/Yisdtp9wDQW2IKCyVYPUxQt3E/b5GBSwfhd1LPdlg==
+   dependencies:
+     "@babel/code-frame" "^7.22.13"
+     "@babel/runtime" "^7.23.2"
+     chalk "^5.3.0"
+     core-js "^3.33.2"
+     json-to-ast "^2.1.0"
+     jsonpointer "^5.0.1"
+     leven "^4.0.0"
 
 camelcase@^8.0.0:
   version "8.0.0"
