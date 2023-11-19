@@ -10,7 +10,7 @@
     ajv "^8.12.0"
     ajv-errors "^3.0.0"
     axios "^1.6.2"
-    better-ajv-errors "^0.6.7"
+    better-ajv-errors "^1.2.0"
     consola "^3.2.3"
     lodash "^4.17.21"
     tldts "^6.0.20"
@@ -22,7 +22,7 @@
   integrity sha512-XktuhWlJ5g+3TJXc5upd9Ks1HutSArik6jf2eAjYFyIOf4ej3RN+184cZbzDvbPnuTJIUhPKKJE3cIsYTiAT3w==
   dependencies:
     "@babel/highlight" "^7.22.13"
-    chalk "^5.3.0"
+    chalk "^2.4.1"
 
 "@babel/helper-validator-identifier@^7.22.20":
   version "7.22.20"
@@ -35,7 +35,7 @@
   integrity sha512-dkdMCN3py0+ksCgYmGG8jKeGA/8Tk+gJwSYYlFGxG5lmhfKNoAy004YpLxpS1W2J8m/EK2Ew+yOs9pVRwO89mg==
   dependencies:
     "@babel/helper-validator-identifier" "^7.22.20"
-    chalk "^5.3.0"
+    chalk "^2.4.1"
     js-tokens "^8.0.2"
 
 "@babel/runtime@^7.23.2":
@@ -84,16 +84,14 @@ axios@^1.6.2:
     form-data "^4.0.0"
     proxy-from-env "^1.1.0"
 
-better-ajv-errors@^0.6.7:
-  version "0.6.7"
-  resolved "https://registry.yarnpkg.com/better-ajv-errors/-/better-ajv-errors-0.6.7.tgz#b5344af1ce10f434fe02fc4390a5a9c811e470d1"
-  integrity sha512-PYgt/sCzR4aGpyNy5+ViSQ77ognMnWq7745zM+/flYO4/Yisdtp9wDQW2IKCyVYPUxQt3E/b5GBSwfhd1LPdlg==
+better-ajv-errors@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/better-ajv-errors/-/better-ajv-errors-1.2.0.tgz#6412d58fa4d460ff6ccbd9e65c5fef9781cc5286"
+  integrity sha512-UW+IsFycygIo7bclP9h5ugkNH8EjCSgqyFB/yQ4Hqqa1OEYDtb0uFIkYE0b6+CjkgJYVM5UKI/pJPxjYe9EZlA==
   dependencies:
     "@babel/code-frame" "^7.22.13"
-    "@babel/runtime" "^7.23.2"
-    chalk "^5.3.0"
-    core-js "^3.33.2"
-    json-to-ast "^2.1.0"
+    "@humanwhocodes/momoa" "^2.0.2"
+    chalk "^2.4.1"
     jsonpointer "^5.0.1"
     leven "^4.0.0"
 
@@ -102,10 +100,14 @@ camelcase@^8.0.0:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-8.0.0.tgz#c0d36d418753fb6ad9c5e0437579745c1c14a534"
   integrity sha512-8WB3Jcas3swSvjIeA2yvCJ+Miyz5l1ZmB6HFb9R1317dt9LCQoswg/BGrmAmkWVEszSrrg4RwmO46qIm2OEnSA==
 
-chalk@^5.3.0:
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.3.0.tgz#67c20a7ebef70e7f3970a01f90fa210cb6860385"
-  integrity sha512-dLitG79d+GV1Nb/VYcCDFivJeK1hiukt9QjRNVOsUtTy1rR1YJsmpGGTZ3qJos+uw7WmWF4wUwBd9jxjocFC2w==
+chalk@^2.4.1:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"
+  integrity sha512-Mti+f9lpJNcwF4tWV8/OrTTtF1gZi+f8FqlyAdouralcFWFQWF2+NgCHShjkCb+IFBLq9buZwE1xckQU4peSuQ==
+  dependencies:
+    ansi-styles "^6.2.1"
+    escape-string-regexp "^5.0.0"
+    supports-color "^9.4.0"
 
 cliui@^8.0.1:
   version "8.0.1"
