@@ -264,3 +264,6 @@
 ||rdtcdn.com^
 ||eporner.com^
 ||elasticbeanstalk.com^
+||www.gstatic.com^
+||gstatic.com^
+||2mdn.net^
