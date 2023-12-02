@@ -267,3 +267,5 @@
 ||www.gstatic.com^
 ||gstatic.com^
 ||2mdn.net^
+||zencdn.net^
+||smarturl.it^
