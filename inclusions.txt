@@ -1274,3 +1274,5 @@
 ||events.framer.com^
 ||cnt.worldota.net^
 ||adsinteractive.com^
+||adsbetnet.com^
+
