@@ -1275,4 +1275,5 @@
 ||cnt.worldota.net^
 ||adsinteractive.com^
 ||adsbetnet.com^
-
+||rb.slova-accordy.ru^
+||my.rbpsh.ru^
