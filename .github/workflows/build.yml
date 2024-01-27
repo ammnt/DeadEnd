@@ -31,7 +31,7 @@ jobs:
         id: yarn-cache-dir
         run: echo "dir=$(yarn cache dir)" >> $GITHUB_OUTPUT
 
-      - uses: actions/cache@v3.3.2
+      - uses: actions/cache@v4.0.0
         id: yarn-cache
         with:
           path: ${{ steps.yarn-cache-dir.outputs.dir }}
@@ -53,5 +53,5 @@ jobs:
           git config --global user.name "ammnt"
           git config --global user.email "admin@msftcnsi.com"
           git add filter.txt
-          git commit -m "build: regular update"
+          git commit -m "builded: regular filter update"
           git push

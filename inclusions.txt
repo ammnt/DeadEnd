@@ -1287,3 +1287,5 @@
 ||li.protechts.net^
 ||partnerboost.com^
 ||events.maps.vk.com^
+||arkoselabs.com^
+||mascooper.com^

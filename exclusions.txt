@@ -269,3 +269,4 @@
 ||2mdn.net^
 ||zencdn.net^
 ||smarturl.it^
+||abt.s3.yandex.net^
