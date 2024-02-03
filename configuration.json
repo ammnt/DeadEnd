@@ -17,8 +17,8 @@
     },
     {
       "name": "Peter Lowe's List",
-      "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
-      "type": "adblock",
+      "source": "https://gist.githubusercontent.com/ammnt/3a80ed4acc6fa1138da205cf03e59662/raw/067dc224599f948d43beb7c440678dd1498f1a83/adservers.txt",
+      "type": "hosts",
       "transformations": ["Compress"]
     },
     {
