@@ -44,8 +44,17 @@ jobs:
         run: |
           yarn install --prefer-offline
           yarn run build
+          hostlist-compiler --version
         env:
           CI: true
+
+      # - name: Install and run dead-domains-linter
+      #   run: |
+      #     npm i -g @adguard/dead-domains-linter
+      #     dead-domains-linter --version
+      #     dead-domains-linter -i filter.txt -a --dnscheck=true
+      #   env:
+      #     CI: true
 
       - name: Push the filter to repo
         if: ${{ github.event_name != 'pull_request' }}

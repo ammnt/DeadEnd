@@ -1289,3 +1289,5 @@
 ||events.maps.vk.com^
 ||arkoselabs.com^
 ||mascooper.com^
+||sgtm.kaspersky.
+||helpdeskeddy.com^
