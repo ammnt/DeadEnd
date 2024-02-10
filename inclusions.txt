@@ -1087,7 +1087,6 @@
 ||dmp.omnichannel.ru^
 ||sysstat.tildacdn.com^
 ||aemetrics.aliexpress.ru^
-||ustore.bz^
 ||pltraffic*.com^
 ||edna.ru^
 ||wilafhhbdyewgbd.xyz^
@@ -1269,7 +1268,6 @@
 ||tflixxscdn*.xyz^
 ||y1zoxngxp.com^
 ||events.ivi.ru^
-||3fdg45stoiydgme2lgjy8.store^
 ||kevents.auth.gid.ru^
 ||events.framer.com^
 ||cnt.worldota.net^

@@ -17,8 +17,8 @@
     },
     {
       "name": "Peter Lowe's List",
-      "source": "https://gist.githubusercontent.com/ammnt/3a80ed4acc6fa1138da205cf03e59662/raw/067dc224599f948d43beb7c440678dd1498f1a83/adservers.txt",
-      "type": "hosts",
+      "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
+      "type": "adblock",
       "transformations": ["Compress"]
     },
     {
@@ -127,6 +127,12 @@
       "name": "hpHosts - Ad and Tracking",
       "source": "https://raw.githubusercontent.com/p-mng/hosts-file-backup/master/ad_servers.txt",
       "type": "hosts",
+      "transformations": ["Compress"]
+    },
+    {
+      "name": "AdGuard CNAME disguised ads list",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt",
+      "type": "adblock",
       "transformations": ["Compress"]
     },
     {

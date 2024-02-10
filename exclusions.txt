@@ -270,3 +270,5 @@
 ||zencdn.net^
 ||smarturl.it^
 ||abt.s3.yandex.net^
+||list.ru^
+||qip.ru^
