@@ -272,3 +272,9 @@
 ||abt.s3.yandex.net^
 ||list.ru^
 ||qip.ru^
+||0.tcp.jp.ngrok.io^
+||mirtesen.ru^
+||rol.ru^
+||ublock.org^
+||www.ublock.org^
+||ping.ublock.org^
