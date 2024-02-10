@@ -274,6 +274,7 @@
 ||qip.ru^
 ||0.tcp.jp.ngrok.io^
 ||mirtesen.ru^
+||services.rol.ru^
 ||rol.ru^
 ||ublock.org^
 ||www.ublock.org^
