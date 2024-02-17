@@ -275,7 +275,11 @@
 ||0.tcp.jp.ngrok.io^
 ||mirtesen.ru^
 ||services.rol.ru^
-||rol.ru^
+||www.rol.ru^
 ||ublock.org^
 ||www.ublock.org^
 ||ping.ublock.org^
+||clck.yandex.by^
+||clck.yandex.com.tr^
+||clck.yandex.kz^
+||clck.yandex.ua^
