@@ -464,3 +464,12 @@
 ||158.247.208.
 ||23.109.82.
 ||23.109.87.
+://mine.torrent.pw^
+||starfieldtech.com^
+||condenastdigital.com^
+||www.condenastdigital.com^
+||mywot.com^
+||www.mywot.com^
+||joyreactor.cc^
+||www.joyreactor.cc^
+||app.link^

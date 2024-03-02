@@ -1309,3 +1309,8 @@
 ||sportframe*.org^
 ||r.reklam*.com^
 ||say.ac^
+||api.vigo.one^
+||al-adtech.com^
+||stat.okko.tv^
+||2f31fe3l1.de^
+||log-report.rtcplus.com^
