@@ -521,3 +521,6 @@ vkcdnservice.appspot.com^
 ||onedmp.com.^
 ||cpng.lol.^
 ||10.10.34.^
+|c.blue.*.com^|
+||onetrust.com^
+||exponea.com^
