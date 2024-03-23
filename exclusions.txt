@@ -524,3 +524,7 @@ vkcdnservice.appspot.com^
 |c.blue.*.com^|
 ||onetrust.com^
 ||exponea.com^
+@@||api.personaclick.com^|
+||debugbear.com^
+||www.debugbear.com^
+||rebrand.ly^

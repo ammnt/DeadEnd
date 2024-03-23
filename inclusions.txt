@@ -1347,3 +1347,4 @@
 ||c.blue.*.com^
 ||eu-office.events.data.microsoft.com^
 ||report.zvuk.com^
+||urlstats.platformaofd.ru^
