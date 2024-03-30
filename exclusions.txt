@@ -523,8 +523,9 @@ vkcdnservice.appspot.com^
 ||10.10.34.^
 |c.blue.*.com^|
 ||onetrust.com^
-||exponea.com^
 @@||api.personaclick.com^|
 ||debugbear.com^
 ||www.debugbear.com^
 ||rebrand.ly^
+@@||obituaries.therecord.com^|
+||000webhostapp.com^
