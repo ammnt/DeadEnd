@@ -1348,3 +1348,6 @@
 ||eu-office.events.data.microsoft.com^
 ||report.zvuk.com^
 ||urlstats.platformaofd.ru^
+||app-analytics-services.com^
+||external-events-api.plus.yandex.
+||events.plus.yandex.
