@@ -1351,3 +1351,5 @@
 ||app-analytics-services.com^
 ||external-events-api.plus.yandex.
 ||events.plus.yandex.
+||tksua4.ru^
+||stmtag.ru^
