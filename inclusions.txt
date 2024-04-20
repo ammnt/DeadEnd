@@ -1353,3 +1353,6 @@
 ||events.plus.yandex.
 ||tksua4.ru^
 ||stmtag.ru^
+||adx-*.rayjump.com^
+||events.check-in.ru^
+||event.playground.ru^
