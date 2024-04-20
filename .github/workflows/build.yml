@@ -53,5 +53,5 @@ jobs:
           git config --global user.name "ammnt"
           git config --global user.email "admin@msftcnsi.com"
           git add filter.txt
-          git commit -m "builded: regular filter update"
+          git commit -m "build: regular filter update"
           git push
