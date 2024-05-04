@@ -1367,3 +1367,4 @@
 ||headway-widget.net^
 ||chat-effect.ru^
 ||vocalize.ru^
+||ads.prod.webservices.mozgcp.net^
