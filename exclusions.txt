@@ -539,3 +539,4 @@ vkcdnservice.appspot.com^
 /^23\.109\.73\.\d{3}/
 -adx-*.rayjump.com^
 ||xhamsterx.com^
+||ff.kis.v2.scr.kaspersky-labs.com^

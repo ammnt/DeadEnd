@@ -47,8 +47,8 @@
     },
     {
       "name": "d3Host List by d3ward",
-      "source": "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt",
-      "type": "hosts",
+      "source": "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock",
+      "type": "adblock",
       "transformations": ["Compress"]
     },
     {

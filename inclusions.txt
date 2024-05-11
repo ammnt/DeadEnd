@@ -1368,3 +1368,7 @@
 ||chat-effect.ru^
 ||vocalize.ru^
 ||ads.prod.webservices.mozgcp.net^
+||redukcenter.ru^
+||telemetry.transcend.io^
+||site-chat.me^
+||stat.dns.sb^
