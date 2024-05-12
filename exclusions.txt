@@ -540,3 +540,4 @@ vkcdnservice.appspot.com^
 -adx-*.rayjump.com^
 ||xhamsterx.com^
 ||ff.kis.v2.scr.kaspersky-labs.com^
+||rewardsplatform.microsoft.com^
