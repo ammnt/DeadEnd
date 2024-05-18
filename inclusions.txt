@@ -1372,3 +1372,4 @@
 ||telemetry.transcend.io^
 ||site-chat.me^
 ||stat.dns.sb^
+||5dhnv8.ru^
