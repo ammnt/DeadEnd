@@ -1365,7 +1365,6 @@
 ||s8hm223a.de^
 ||lead.rt.ru^
 ||headway-widget.net^
-||chat-effect.ru^
 ||vocalize.ru^
 ||ads.prod.webservices.mozgcp.net^
 ||redukcenter.ru^
@@ -1373,3 +1372,12 @@
 ||site-chat.me^
 ||stat.dns.sb^
 ||5dhnv8.ru^
+||metrics-*.*.hihonorcloud.com^
+||pixel.id.x5.ru^
+||logservice-*.*.hihonorcloud.com^
+||stats.rustore.ru^
+||spocs.getpocket.com^
+||crash-stats.mozilla.org^
+||events.httptoolkit.tech^
+||nw-umwatson.events.data.microsoft.com^
+||startup.mobile.yandex.

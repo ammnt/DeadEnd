@@ -18,7 +18,7 @@ jobs:
       id-token: write
 
     steps:
-      - name: Checkout codecode📦
+      - name: Checkout code📦
         uses: actions/checkout@v4.1.5
 
       - name: Install NodeJS🧱

@@ -23,7 +23,6 @@
 ||reg.ru^
 ||t.co^
 ||ip-api.com^
-||startup.mobile.yandex.net^
 ||arc.msn.com^
 ||syndication.twitter.com^
 ||yandex.st^
@@ -541,3 +540,5 @@ vkcdnservice.appspot.com^
 ||xhamsterx.com^
 ||ff.kis.v2.scr.kaspersky-labs.com^
 ||rewardsplatform.microsoft.com^
+||stun.services.mozilla.com^
+||idiagnostics.apple.com^
