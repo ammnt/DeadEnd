@@ -1088,7 +1088,6 @@
 ||sysstat.tildacdn.com^
 ||aemetrics.aliexpress.ru^
 ||pltraffic*.com^
-||edna.ru^
 ||wilafhhbdyewgbd.xyz^
 ||hg-statsd.setapp.com^
 ||statsd.hostedgraphite.com^
@@ -1381,3 +1380,4 @@
 ||events.httptoolkit.tech^
 ||nw-umwatson.events.data.microsoft.com^
 ||startup.mobile.yandex.
+||kapetracking.com^

@@ -542,3 +542,5 @@ vkcdnservice.appspot.com^
 ||rewardsplatform.microsoft.com^
 ||stun.services.mozilla.com^
 ||idiagnostics.apple.com^
+@@||secureimage.securedataimages.com^|
+||bat.bing.com^
