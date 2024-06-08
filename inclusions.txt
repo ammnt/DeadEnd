@@ -1381,3 +1381,6 @@
 ||nw-umwatson.events.data.microsoft.com^
 ||startup.mobile.yandex.
 ||kapetracking.com^
+||mb9pzp.ru^
+||2oicgc7kk.de^
+||*-logserver-*.*.*.*.sbercloud.ru^
