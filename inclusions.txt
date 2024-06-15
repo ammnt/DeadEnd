@@ -1384,3 +1384,5 @@
 ||mb9pzp.ru^
 ||2oicgc7kk.de^
 ||*-logserver-*.*.*.*.sbercloud.ru^
+||vk-analytics.ru^
+|events.data.microsoft.com^|
