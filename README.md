@@ -1,7 +1,7 @@
 <p align="center"><img alt="DeadEnd sign logo" src="https://raw.githubusercontent.com/ammnt/DeadEnd/main/logo.png" /></div></p>
 
 [![Build the filter🚀](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml/badge.svg)](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml)
-![version](https://img.shields.io/badge/version-1.5f-blue)
+![version](https://img.shields.io/badge/version-1.7-blue)
 [![GitHub issues open](https://img.shields.io/github/issues/ammnt/DeadEnd.svg)](https://github.com/ammnt/DeadEnd/issues)
 
 ***

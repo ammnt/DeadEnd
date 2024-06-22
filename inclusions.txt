@@ -1386,3 +1386,13 @@
 ||*-logserver-*.*.*.*.sbercloud.ru^
 ||vk-analytics.ru^
 |events.data.microsoft.com^|
+@@|stats.gc.apple.com^|
+||tapulsads.ru^
+||eulatracking-public-service-*.ol.epicgames.com^
+/bugsnag/
+||advt.pro^
+||stat.vto.jewelry^
+||equippro.xyz^
+||aj2615.bid^
+||getshop.tv^
+||cbndjsla.win^
