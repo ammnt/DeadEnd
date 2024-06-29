@@ -675,7 +675,6 @@
 ||retailrocket.ru^
 ||28p5qq8mm.de^
 ||cake025.ru^
-||redirector.googlevideo.com^
 ||leadgenic.ru^
 ||google--analytics-com.cdn.ampproject.org^
 ||zestat.ru^
@@ -1394,5 +1393,8 @@
 ||stat.vto.jewelry^
 ||equippro.xyz^
 ||aj2615.bid^
-||getshop.tv^
 ||cbndjsla.win^
+||polyfill.io^
+||kuurza.com^
+||googie-anaiytics.com^
+||path3.xtracloud.net^

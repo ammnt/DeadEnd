@@ -548,3 +548,6 @@ vkcdnservice.appspot.com^
 ||api2.branch.io^$dnsrewrite=0.0.0.0
 ||viqeo.tv^
 @@||linka.page^|
+||linksynergy.com^
+||click.linksynergy.com^
+||redirector.googlevideo.com^

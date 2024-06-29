@@ -17,6 +17,8 @@ This repository contains my <a href="https://github.com/ammnt/DeadEnd/raw/main/f
 
 You can use it any way you want. The file will be updated regularly🚀 You can also use my public DNS-over-HTTPS server with this filter:<br>
 <code>https://dns.msftcnsi.com/dns-query/fbd15f6c</code>
+or:
+<code>sdns://AgEAAAAAAAAADTEwNC4yMS44OC4xNDYAEGRucy5tc2Z0Y25zaS5jb20TL2Rucy1xdWVyeS9mYmQxNWY2Yw</code>
 
 # Note:
 
