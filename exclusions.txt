@@ -551,3 +551,4 @@ vkcdnservice.appspot.com^
 ||linksynergy.com^
 ||click.linksynergy.com^
 ||redirector.googlevideo.com^
+@@||sax.sina.com.cn^|

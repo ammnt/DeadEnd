@@ -1411,3 +1411,8 @@
 ||xhsbpza.com^
 ||macoms.la^
 ||newcrbpc.com^
+||error-tracking.reddit.com^
+||superfunads.ru^
+||minnit.chat^
+||hbevents.mz.unity3d.com^
+||event-api.apptimism.com^
