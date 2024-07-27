@@ -1416,3 +1416,5 @@
 ||minnit.chat^
 ||hbevents.mz.unity3d.com^
 ||event-api.apptimism.com^
+||bidease.com^
+||bidmachine.io^

@@ -4,10 +4,8 @@ on:
   workflow_dispatch:
   # schedule:
   #  - cron: "00 17 * * SAT"
-  push:
-    branches: ["main"]
-  pull_request:
-    branches-ignore: ["main"]
+  # push:
+  #   branches: ["main"]
 
 jobs:
   build:
