@@ -552,3 +552,10 @@ vkcdnservice.appspot.com^
 ||click.linksynergy.com^
 ||redirector.googlevideo.com^
 @@||sax.sina.com.cn^|
+serve.bussyhunter.com^
+serve.everydayporn.co^
+serve.yourporngod.com^
+||www.qualcomm.cn^
+||a.shifen.com^
+/^139\.45\.197\.2(4[0-9]|5[0-4]):/
+/^94\.242\.247\.(2[0-9]|3[0-2]):/
