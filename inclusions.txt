@@ -659,7 +659,6 @@
 ||cdnads.geeksforgeeks.org^
 ||insent.ai^
 ||shazam-beacon.shazamcloud.com^
-||sovetnik.market.yandex.ru^
 ||jivo.ru^
 ||freegeoip.live^
 ||herb2warn.com^
@@ -1470,3 +1469,13 @@
 ||log.tiktokv.us^
 ||nlog.commerce.naver.com^
 ||logger*.playablefactory.app^
+||analytics.controld.com^
+||zoe.sng.link^
+||d.digital.hermes^
+||image.e.colonybrands.com^
+||image.e.ashro.com^
+||clk.dbrk.it^
+||dd.stopandshop.com^
+||www.famous-mall.pro^
+||creative.kumcams.com^
+||image.email-giantfood.com^
