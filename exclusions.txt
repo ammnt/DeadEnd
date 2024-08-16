@@ -559,3 +559,4 @@ serve.yourporngod.com^
 ||a.shifen.com^
 /^139\.45\.197\.2(4[0-9]|5[0-4]):/
 /^94\.242\.247\.(2[0-9]|3[0-2]):/
+||settings.data.microsoft.com^

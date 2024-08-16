@@ -11,7 +11,7 @@
 This repository contains my <a href="https://github.com/ammnt/DeadEnd/raw/main/filter.txt">extended filter</a> - the compilation of filters for AdGuard Home that blocks:
 - Advertising, CPA and banner domains and their subdomains💩
 - Tracking and telemetry hosts and their subdomains📡
-- CNAME cloacking, analytics and metric domains and their subdomains🕵
+- CNAME cloaking, analytics and metric domains and their subdomains🕵
 - Chat, cookies and push services hosts and their subdomains🔕
 - Some adware, spyware and malware domains and their subdomains🤬
 
