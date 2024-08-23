@@ -11,6 +11,12 @@
       "transformations": ["Compress"]
     },
     {
+      "name": "AdGuard DNS Popup Hosts filter",
+      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt",
+      "type": "adblock",
+      "transformations": ["Compress"]
+    },
+    {
       "name": "AdAway Default Blocklist",
       "source": "https://adaway.org/hosts.txt",
       "type": "hosts",

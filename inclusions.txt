@@ -1484,3 +1484,10 @@
 ||vtrk.dv.tech^
 ||trk.dmica.xyz^
 ||startopxl.com^
+||adscale.com^
+||adstargets.net^
+||ads.microsoft.com^
+||pixelscan.net^
+||mkttag.ebay.com^
+||wtb-tag.swaven.com^
+||admile.xyz^
