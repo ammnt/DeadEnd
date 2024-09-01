@@ -2,8 +2,8 @@ name: Build the filter🚀
 
 on:
   workflow_dispatch:
-  # schedule:
-  #  - cron: "00 17 * * SAT"
+  schedule:
+    - cron: "00 22 1 * *"
   # push:
   #   branches: ["main"]
 
