@@ -1510,3 +1510,7 @@
 ||csp.yandex.
 ||p36botrk.com^
 ||trk.cheilmedia.com^
+||rocket.ivi.ru^
+||ccss.play.king.com^
+||xml-v4.fstsrv15.com^
+||stellarlabs.ai^

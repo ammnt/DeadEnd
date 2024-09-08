@@ -562,3 +562,7 @@ serve.yourporngod.com^
 ||settings.data.microsoft.com^
 ||xhamster.com^
 ||lb.production-public.tubi.io^
+||opera.com^
+||rewardsprod.trafficmanager.net^
+||d1zgderxoe1a.cloudfront.net^
+||wshifen.com^
