@@ -1,6 +1,6 @@
 {
   "name": "deadend-filter",
-  "version": "1.7",
+  "version": "1.8",
   "description": "The compilation of filters for AdGuard Home",
   "repository": "https://github.com/ammnt/DeadEnd",
   "author": "ammnt",

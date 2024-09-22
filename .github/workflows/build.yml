@@ -23,19 +23,19 @@ jobs:
         uses: actions/setup-node@v4.0.3
         with:
           node-version: 20
-      #         cache: "npm"
+          cache: "npm"
 
-      # - name: Get yarn cache directory🗑️
-      #   id: yarn-cache-dir
-      #   run: echo "dir=$(yarn cache dir)" >> $GITHUB_OUTPUT
+      - name: Get yarn cache directory🗑️
+        id: yarn-cache-dir
+        run: echo "dir=$(yarn cache dir)" >> $GITHUB_OUTPUT
 
-      # - uses: actions/cache@v4.0.2
-      #   id: yarn-cache
-      #   with:
-      #     path: ${{ steps.yarn-cache-dir.outputs.dir }}
-      #     key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-      #     restore-keys: |
-      #       ${{ runner.os }}-yarn-
+      - uses: actions/cache@v4.0.2
+        id: yarn-cache
+        with:
+          path: ${{ steps.yarn-cache-dir.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
 
       - name: Install yarn and run hostlist-compiler⛓️
         # if: steps.yarn-cache.outputs.cache-hit != 'true'

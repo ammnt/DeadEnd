@@ -1,7 +1,7 @@
 <p align="center"><img alt="DeadEnd sign logo" src="https://raw.githubusercontent.com/ammnt/DeadEnd/main/logo.png" /></div></p>
 
 [![Build the filter🚀](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml/badge.svg)](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml)
-![version](https://img.shields.io/badge/version-1.7-blue)
+![version](https://img.shields.io/badge/version-1.8-blue)
 [![GitHub issues open](https://img.shields.io/github/issues/ammnt/DeadEnd.svg)](https://github.com/ammnt/DeadEnd/issues)
 
 ***
@@ -17,9 +17,7 @@ This repository contains my <a href="https://github.com/ammnt/DeadEnd/raw/main/f
 
 You can use it any way you want. The file will be updated regularly🚀 You can also use my public DNS-over-HTTPS server with this filter:<br>
 <code>https://dns.msftcnsi.com/dns-query/fbd15f6c</code></p>
-or:</p>
-<code>sdns://AgEAAAAAAAAADTEwNC4yMS44OC4xNDYAEGRucy5tc2Z0Y25zaS5jb20TL2Rucy1xdWVyeS9mYmQxNWY2Yw</code>
 
 # Note:
 
-This filter is optimized for use <b>ONLY</b> in AdGuard Home🛡Feel free to <a href="https://github.com/ammnt/DeadEnd/issues/new">contact me</a> with false positive blocks and more domains which need to be blocked🙋
+This filter is optimized for use <b>ONLY</b> in AdGuard Home🛡️Feel free to <a href="https://github.com/ammnt/DeadEnd/issues/new">contact me</a> with false positive blocks and more domains which need to be blocked🙋
