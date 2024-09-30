@@ -568,3 +568,5 @@ serve.yourporngod.com^
 ||wshifen.com^
 ||typekit.net^
 ||voxmedia.com^
+||xml.opera.com^
+@@||res.ads.nicovideo.jp^|
