@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout code📦
-        uses: actions/checkout@v4.1.7
+        uses: actions/checkout@v4.2.0
 
       - name: Install NodeJS🧱
         uses: actions/setup-node@v4.0.4
