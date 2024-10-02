@@ -1369,7 +1369,6 @@
 ||*-logserver-*.*.*.*.sbercloud.ru^
 ||vk-analytics.ru^
 |events.data.microsoft.com^|
-@@|stats.gc.apple.com^|
 ||tapulsads.ru^
 ||eulatracking-public-service-*.ol.epicgames.com^
 /bugsnag/
