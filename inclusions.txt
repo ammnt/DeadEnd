@@ -1541,3 +1541,4 @@
 ||stats.enoki.nz^
 ||pulseinsights.com^
 ||offerpc-cpa.com^
+||metrics.kapa.ai^
