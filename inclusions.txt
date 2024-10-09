@@ -1542,3 +1542,4 @@
 ||pulseinsights.com^
 ||offerpc-cpa.com^
 ||metrics.kapa.ai^
+||metrics.*.sberdevices.ru^
