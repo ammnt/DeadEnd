@@ -1543,3 +1543,4 @@
 ||offerpc-cpa.com^
 ||metrics.kapa.ai^
 ||metrics.*.sberdevices.ru^
+||webgains.team^
