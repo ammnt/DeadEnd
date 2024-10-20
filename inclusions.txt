@@ -1544,3 +1544,6 @@
 ||metrics.kapa.ai^
 ||metrics.*.sberdevices.ru^
 ||webgains.team^
+||appmetrica.yango.com^
+||stats.securebrowser.com^
+||telemetry.broadcom.com^
