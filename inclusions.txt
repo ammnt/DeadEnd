@@ -1547,3 +1547,8 @@
 ||appmetrica.yango.com^
 ||stats.securebrowser.com^
 ||telemetry.broadcom.com^
+||stat*.russianfood.com^
+||app-analytics-services-att.com^
+||ssp.disqus.com^
+||*-hit.my.games^
+||dsp.mpartner.digital^
