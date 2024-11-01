@@ -1552,3 +1552,4 @@
 ||ssp.disqus.com^
 ||*-hit.my.games^
 ||dsp.mpartner.digital^
+||analytics.cloudspinx.com^
