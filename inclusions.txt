@@ -1553,3 +1553,4 @@
 ||*-hit.my.games^
 ||dsp.mpartner.digital^
 ||analytics.cloudspinx.com^
+||metrics.manjaro.org^
