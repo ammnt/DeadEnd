@@ -1554,3 +1554,5 @@
 ||dsp.mpartner.digital^
 ||analytics.cloudspinx.com^
 ||metrics.manjaro.org^
+||ads.rustore.ru^
+||dmp.wi-fi.ru^
