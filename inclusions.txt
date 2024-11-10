@@ -182,7 +182,6 @@
 ||stats.highload.today^
 ||owox.com^
 ||adswerve.com^
-||report.mos.ru^
 ||collector.github.com^
 ||track.tinkoff.ru^
 ||wp-r.github.io^
@@ -1556,3 +1555,4 @@
 ||metrics.manjaro.org^
 ||ads.rustore.ru^
 ||dmp.wi-fi.ru^
+||antibotcloud.com^
