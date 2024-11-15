@@ -1556,3 +1556,4 @@
 ||ads.rustore.ru^
 ||dmp.wi-fi.ru^
 ||antibotcloud.com^
+||error-report.com^
