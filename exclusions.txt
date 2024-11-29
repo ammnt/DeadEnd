@@ -564,7 +564,6 @@ serve.yourporngod.com^
 ||lb.production-public.tubi.io^
 ||opera.com^
 ||rewardsprod.trafficmanager.net^
-||d1zgderxoe1a.cloudfront.net^
 ||wshifen.com^
 ||typekit.net^
 ||voxmedia.com^
@@ -583,3 +582,4 @@ serve.yourporngod.com^
 @@||f-gear.ec-optimizer.com^|
 ||brightcove.net^
 ||html-load.com^
+@@||action.metaffiliation.com^|
