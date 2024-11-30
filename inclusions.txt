@@ -1557,3 +1557,4 @@
 ||dmp.wi-fi.ru^
 ||antibotcloud.com^
 ||error-report.com^
+||hawk-tracker.ru^
