@@ -1558,3 +1558,14 @@
 ||antibotcloud.com^
 ||error-report.com^
 ||hawk-tracker.ru^
+||metogofour.com^
+||aj2676.bid^
+||pronsy.com^
+@@||app.adgust.*^$important
+||analytics.freetubeapp.io^
+||yandexmetrica.com^
+||ssp.rutube.ru^
+||beacons*.gvt2.com^
+||beacons*.*.gvt2.com^
+||banners-bt.wildberries.ru^
+||user-banner.wb.ru^
