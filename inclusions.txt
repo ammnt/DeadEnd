@@ -1569,3 +1569,6 @@
 ||beacons*.*.gvt2.com^
 ||banners-bt.wildberries.ru^
 ||user-banner.wb.ru^
+||apptracer.ru^
+||stats.artixlinux.org^
+||ads-matresh.ru^
