@@ -583,3 +583,5 @@ serve.yourporngod.com^
 ||brightcove.net^
 ||html-load.com^
 @@||action.metaffiliation.com^|
+||gvt2.com^
+||d2.shared.global.fastly.net^
