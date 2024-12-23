@@ -1572,3 +1572,6 @@
 ||apptracer.ru^
 ||stats.artixlinux.org^
 ||ads-matresh.ru^
+||metrics.selectel.ru^
+||analytics.cloudnative.quest^
+||aj2635.bid^
