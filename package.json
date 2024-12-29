@@ -1,6 +1,6 @@
 {
   "name": "deadend-filter",
-  "version": "1.8",
+  "version": "1.9",
   "description": "The compilation of filters for AdGuard Home",
   "repository": "https://github.com/ammnt/DeadEnd",
   "author": "ammnt",
@@ -9,6 +9,6 @@
     "build": "hostlist-compiler -c configuration.json -o filter.txt"
   },
   "dependencies": {
-    "@adguard/hostlist-compiler": "^1.0.29"
+    "@adguard/hostlist-compiler": "^1.0.33"
   }
 }
