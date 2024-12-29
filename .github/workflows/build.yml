@@ -45,6 +45,10 @@ jobs:
         env:
           CI: true
 
+      # - name: Migration to NG filter➡️
+      #   run: |
+      #     cp filter-ng.txt filter.txt
+
       - name: Push the filter to repo✅
         if: ${{ github.event_name != 'pull_request' }}
         run: |
