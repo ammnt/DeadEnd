@@ -1575,3 +1575,4 @@
 ||metrics.selectel.ru^
 ||analytics.cloudnative.quest^
 ||aj2635.bid^
+||rum.speedvitals.com^
