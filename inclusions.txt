@@ -1561,7 +1561,7 @@
 ||metogofour.com^
 ||aj2676.bid^
 ||pronsy.com^
-@@||app.adgust.*^$important
+@@||app.adjust.*^$important
 ||analytics.freetubeapp.io^
 ||yandexmetrica.com^
 ||ssp.rutube.ru^
