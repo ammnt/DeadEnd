@@ -2,7 +2,7 @@
   "name": "DeadEnd",
   "description": "The compilation of filters for AdGuard Home",
   "homepage": "https://github.com/ammnt/DeadEnd",
-  "version": "1.9",
+  "version": "1.9ng",
   "sources": [
     {
       "name": "AdGuard DNS filter",

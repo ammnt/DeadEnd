@@ -2,15 +2,15 @@ name: Build the filter🚀
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "00 7 * * SAT"
+  # schedule:
+  # - cron: "00 15 * * 1"
   # push:
   #   branches: ["main"]
 
 jobs:
   build:
     if: github.actor == 'ammnt'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
       id-token: write
@@ -23,6 +23,7 @@ jobs:
         uses: actions/setup-node@v4.1.0
         with:
           node-version: 20
+          check-latest: true
           cache: "npm"
 
       - name: Get yarn cache directory🗑️
@@ -45,15 +46,11 @@ jobs:
         env:
           CI: true
 
-      # - name: Migration to NG filter➡️
-      #   run: |
-      #     cp filter-ng.txt filter.txt
-
       - name: Push the filter to repo✅
         if: ${{ github.event_name != 'pull_request' }}
         run: |
           git config --global user.name "ammnt"
           git config --global user.email "admin@msftcnsi.com"
           git add filter.txt
-          git commit -m "build: regular filter update"
+          git commit -m "build: regular filter and dependencies update"
           git push

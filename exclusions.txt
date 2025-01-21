@@ -585,3 +585,12 @@ serve.yourporngod.com^
 @@||action.metaffiliation.com^|
 ||gvt2.com^
 ||d2.shared.global.fastly.net^
+||tadst.com^
+@@||vcentry2.valuecommerce.ne.jp^|
+||107.167.16.*.gif
+||107.167.22.*.gif
+||121.204.246.*.gif
+||38.33.15.*.gif
+||67.21.92.*.gif
+||cdn.ziffstatic.com^
+@@||cl.link-ag.net^|
