@@ -1595,3 +1595,4 @@
 ||telemetry.dzen.ru^
 ||tags.currenttime.tv^
 ||collector-prod.*.epoch8.ru^
+||twinredads.com^
