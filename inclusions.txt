@@ -1596,3 +1596,7 @@
 ||tags.currenttime.tv^
 ||collector-prod.*.epoch8.ru^
 ||twinredads.com^
+||adspector.io^
+||dsp.tigra.dev^
+||udsp.io^
+||ads*.newmedia.az^
