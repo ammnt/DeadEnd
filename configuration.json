@@ -162,7 +162,7 @@
     },
     {
       "name": "antipopads:re",
-      "source": "https://antipopads-re.energized.pro/formats/filter.txt",
+      "source": "https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/filter.txt",
       "type": "adblock",
       "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
