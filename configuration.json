@@ -8,171 +8,171 @@
       "name": "AdGuard DNS filter",
       "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "AdGuard DNS Popup Hosts filter",
       "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "AdAway Default Blocklist",
       "source": "https://adaway.org/hosts.txt",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "Peter Lowe's List",
       "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "Steven Black's ad-hoc list",
       "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "Lightswitch05's Ads & Tracking Extended",
       "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "NoTracking",
       "source": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "NoTrack Tracker Blocklist",
       "source": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "d3Host List by d3ward",
       "source": "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "Dan Pollock's List",
       "source": "https://someonewhocares.org/hosts/zero/hosts",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "MVPS HOSTS",
       "source": "https://winhelp2002.mvps.org/hosts.txt",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "Disconnect Simple Ads",
       "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "Disconnect Simple Tracking",
       "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "Disconnect Simple Malvertising",
       "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "Hello, Goodbye",
       "source": "https://raw.githubusercontent.com/bcye/Hello-Goodbye/master/pihole.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "add.2o7Net",
       "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "UncheckyAds",
       "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "onlineConsultantBlocker",
       "source": "https://raw.githubusercontent.com/pafnuty/onlineConsultantBlocker/master/hosts",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "CallbackWidgetsBlocker - Sites Callbacks Blocker",
       "source": "https://raw.githubusercontent.com/acuna-public/CallbackWidgetsBlocker/master/callbacks.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "The Block List Project - Ads List",
       "source": "https://blocklistproject.github.io/Lists/ads.txt",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "The Block List Project - Tracking List",
       "source": "https://blocklistproject.github.io/Lists/tracking.txt",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "hpHosts - Ad and Tracking",
       "source": "https://raw.githubusercontent.com/p-mng/hosts-file-backup/master/ad_servers.txt",
       "type": "hosts",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "AdGuard CNAME disguised ads list",
       "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "AdGuard CNAME disguised trackers list",
       "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "NextDNS CNAME Cloaking Blocklist",
       "source": "https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "orwell1984.today CNAME list",
       "source": "https://gist.githubusercontent.com/ammnt/8b3d07a0ecdb48fe0f7e289525a11446/raw/4ff2818cc1aa12b5e9da2aeeb467cdc2fe8197f4/orwell1984.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "antipopads:re",
       "source": "https://antipopads-re.energized.pro/formats/filter.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "Internal inclusions list",
       "source": "inclusions.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     }
   ],
-  "transformations": ["RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Compress", "Validate", "InsertFinalNewLine"],
+  "transformations": ["RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Compress", "Validate", "InsertFinalNewLine", "ConvertToAscii"],
   "exclusions_sources": ["exclusions.txt"]
 }
