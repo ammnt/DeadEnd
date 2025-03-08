@@ -2,17 +2,18 @@
 # yarn lockfile v1
 
 
-"@adguard/hostlist-compiler@^1.0.35":
-  version "1.0.35"
-  resolved "https://registry.yarnpkg.com/@adguard/hostlist-compiler/-/hostlist-compiler-1.0.35.tgz#39b0d84ea21f1549e72d29cf2dc5aacebfa84035"
-  integrity sha512-EveBdBmS8wgqwtUqsP4g6GBR+2KUtCR9XdVImzvs79dyFCloPkrizaEpaXPWbbeTLrtJQ5N3t5KPlwPq4FX/Gg==
+"@adguard/hostlist-compiler@^1.0.38":
+  version "1.0.38"
+  resolved "https://registry.yarnpkg.com/@adguard/hostlist-compiler/-/hostlist-compiler-1.0.38.tgz#675bd6a476d68a6a22d798d0a2d58be2871383da"
+  integrity sha512-ujoSHikVoaQsKloTZIlMsG5P+HULp+h2gYYBk6KXePqdQGEdJ+3RLXD8m3Pm/Sh08lEp0fNGh2aaeL4BFgB0bQ==
   dependencies:
+    "@adguard/filters-downloader" "^2.3.0"
     ajv "^6.12.0"
     ajv-errors "^1.0.1"
-    axios "^0.19.2"
+    axios "^1.8.2"
     better-ajv-errors "^0.6.7"
     consola "^2.11.3"
-    lodash "^4.17.15"
+    lodash "^4.17.19"
     tldts "^5.6.10"
     yargs "^15.3.0"
 
@@ -79,10 +80,10 @@ ansi-styles@^4.0.0:
     "@types/color-name" "^1.1.1"
     color-convert "^2.0.1"
 
-axios@^0.28.0:
-  version "0.28.1"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.28.1.tgz#2a7bcd34a3837b71ee1a5ca3762214b86b703e70"
-  integrity sha512-iUcGA5a7p0mVb4Gm/sy+FSECNkPFT4y7wt6OM/CDpO/OnNCvSs3PoMG8ibrC9jRoGYU0gUK5pXVC4NPXq6lHRQ==
+axios@^1.8.2:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.8.2.tgz#fabe06e241dfe83071d4edfbcaa7b1c3a40f7979"
+  integrity sha512-ls4GYBm5aig9vWx8AWDSGLpnpDQRtWAfrjU+EuytuODrFBkqesN2RkOQCBzrA1RQNHw1SmRMSDDDSwzNAYQ6Rg==
   dependencies:
     follow-redirects "^1.15.6"
     form-data "^4.0.0"

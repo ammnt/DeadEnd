@@ -1615,3 +1615,6 @@
 ||viewevo.ru^
 ||bespoke-analytics.razerapi.com^
 ||count.cnblogs.com^
+||vstat.rtr-vesti.ru^
+||techtarget.com^
+||facct.ru^
