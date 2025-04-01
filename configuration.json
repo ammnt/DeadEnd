@@ -71,24 +71,6 @@
       "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
-      "name": "Disconnect Simple Ads",
-      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
-      "name": "Disconnect Simple Tracking",
-      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
-      "name": "Disconnect Simple Malvertising",
-      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
       "name": "Hello, Goodbye",
       "source": "https://raw.githubusercontent.com/bcye/Hello-Goodbye/master/pihole.txt",
       "type": "adblock",
