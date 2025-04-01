@@ -156,7 +156,7 @@
     },
     {
       "name": "orwell1984.today CNAME list",
-      "source": "https://gist.githubusercontent.com/ammnt/8b3d07a0ecdb48fe0f7e289525a11446/raw/4ff2818cc1aa12b5e9da2aeeb467cdc2fe8197f4/orwell1984.txt",
+      "source": "https://gist.githubusercontent.com/ammnt/8b3d07a0ecdb48fe0f7e289525a11446/raw/d4173a99436d641b2e0e72297c8a7e3630ffcffc/orwell1984.txt",
       "type": "adblock",
       "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },

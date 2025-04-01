@@ -1618,3 +1618,9 @@
 ||vstat.rtr-vesti.ru^
 ||techtarget.com^
 ||facct.ru^
+||metrics.*.ubi.com^
+||metrics-a.wbx2.com^
+||analytics.chita.ru^
+||collector-*.hsprotect.net^
+||transpond.io^
+||telemetry.domclick.ru^

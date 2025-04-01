@@ -600,3 +600,6 @@ serve.yourporngod.com^
 @@|www.daraz.pk^|
 @@|daraz.com^|
 @@||sbs.demdex.net^|
+||cdn.nsimg.net^
+@@||click.avs.io^|
+@@||get.neofinancial.com^|
