@@ -1624,3 +1624,15 @@
 ||collector-*.hsprotect.net^
 ||transpond.io^
 ||telemetry.domclick.ru^
+||tracking.amazinghiring.com^
+||analytics.comalatech.io^
+||analytics.awesome-it.de^
+||events.7tv.io^
+||events.getpostman.com^
+||rojknob.win^
+||telemetry.zoom.us^
+||sntr.lifehacker.ru^
+||gpmdata.ru^
+||metrics.*.sberdevices.ru^
+||metrics.*.hihonorcloud.com^
+||pixel.cloud.obrut.stream^
