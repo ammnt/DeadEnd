@@ -1636,3 +1636,12 @@
 ||metrics.*.sberdevices.ru^
 ||metrics.*.hihonorcloud.com^
 ||pixel.cloud.obrut.stream^
+||darmancerinelil.com^
+||telemetry.kde.org^
+||analytics.enisa.europa.eu^
+||analytics.detectify.com^
+||mobile-metrica.cabconnect.org^
+||ads.taxiaid.org^
+||google-adsense.apk.watch^
+||pixel.clickslogistics.com^
+||consumer.entitlement.skype.com^
