@@ -1645,3 +1645,6 @@
 ||google-adsense.apk.watch^
 ||pixel.clickslogistics.com^
 ||consumer.entitlement.skype.com^
+||adstag0102.xyz^
+||adscdn.coub.tv^
+||aiso.live^

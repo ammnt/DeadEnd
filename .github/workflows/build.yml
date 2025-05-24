@@ -2,10 +2,10 @@ name: Build the filter🚀
 
 on:
   workflow_dispatch:
-  # schedule:
-  # - cron: "00 15 * * 1"
-  # push:
-  #   branches: ["main"]
+  schedule:
+    - cron: "0 4 */2 * *"
+  push:
+    branches: ["main"]
 
 jobs:
   build:
@@ -51,6 +51,7 @@ jobs:
         run: |
           git config --global user.name "ammnt"
           git config --global user.email "admin@msftcnsi.com"
+          cp filter-ng.txt filter.txt
           git add filter.txt
           git commit -m "build: regular filter and dependencies update"
           git push
