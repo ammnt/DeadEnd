@@ -1648,3 +1648,12 @@
 ||adstag0102.xyz^
 ||adscdn.coub.tv^
 ||aiso.live^
+||mc.yango.com^
+||telemetry.signoz.cloud^
+||stat.tildaapi.com^
+||tags.severreal.org^
+||myqtfjndnj.com^
+||analytics.iportal.ru^
+||metrics.etagi.com^
+||autofaq.ai^
+||digitalcaramel.com^

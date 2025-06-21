@@ -52,6 +52,7 @@ jobs:
           git config --global user.name "ammnt"
           git config --global user.email "admin@msftcnsi.com"
           sed -i "6s/.*/\! Last modified: $(date -u +'%Y-%m-%dT%H:%M:%S.%3NZ')/" filter-ng.txt
+          cat filter.txt | grep '@'
           cp filter-ng.txt filter.txt
           git add filter.txt
           git commit -m "build: regular filter and dependencies update"
