@@ -1657,3 +1657,8 @@
 ||metrics.etagi.com^
 ||autofaq.ai^
 ||digitalcaramel.com^
+||widget.yourgood.app^
+||datstat.ws^
+||fes-analysis.ssc-app-services.com^
+||otm-r.ru^
+||umami-analytics.ruan.dev^
