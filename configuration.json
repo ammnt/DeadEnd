@@ -61,7 +61,7 @@
     },
     {
       "name": "Dan Pollock's List",
-      "source": "https://someonewhocares.org/hosts/zero/hosts",
+      "source": "https://someonewhocares.org/hosts/hosts",
       "type": "hosts",
       "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
