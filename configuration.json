@@ -61,7 +61,7 @@
     },
     {
       "name": "Dan Pollock's List",
-      "source": "https://someonewhocares.org/hosts/hosts",
+      "source": "https://gist.githubusercontent.com/ammnt/7cd70e9415391f12c53fca4794ef0fee/raw/69d9a5a8ee8d5c0ee052a08a4ae3229a24cb9a2a/hosts.txt",
       "type": "hosts",
       "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
