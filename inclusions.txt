@@ -1662,3 +1662,6 @@
 ||fes-analysis.ssc-app-services.com^
 ||otm-r.ru^
 ||umami-analytics.ruan.dev^
+||zallj.com^
+||hvp45z.ru^
+||consentmanager.net^
