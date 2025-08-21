@@ -1633,7 +1633,6 @@
 ||telemetry.zoom.us^
 ||sntr.lifehacker.ru^
 ||gpmdata.ru^
-||metrics.*.sberdevices.ru^
 ||metrics.*.hihonorcloud.com^
 ||pixel.cloud.obrut.stream^
 ||darmancerinelil.com^
@@ -1665,3 +1664,7 @@
 ||zallj.com^
 ||hvp45z.ru^
 ||consentmanager.net^
+||stat.dev.risaksson.com^
+||analytics.seemann.io^
+||rugfrfji.win^
+||aitd.one^

@@ -54,6 +54,6 @@ jobs:
           sed -i "6s/.*/\! Last modified: $(date -u +'%Y-%m-%dT%H:%M:%S.%3NZ')/" filter-ng.txt
           cat filter.txt | grep '@'
           cp filter-ng.txt filter.txt
-          git add filter.txt
+          git add filter.txt filter-ng.txt
           git commit -m "build: regular filter and dependencies update"
           git push
