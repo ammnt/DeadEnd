@@ -1668,3 +1668,8 @@
 ||analytics.seemann.io^
 ||rugfrfji.win^
 ||aitd.one^
+||telemetry.*.githubcopilot.com^
+||admetr.ru^
+||vnadsrv.com^
+||log.video.cloud.yandex.
+||metrics.imdb.com^
