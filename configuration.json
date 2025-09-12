@@ -150,20 +150,8 @@
       "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
-      "name": "Disconnect Simple Ads",
-      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
-      "name": "Disconnect Simple Tracking",
-      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
-      "name": "Disconnect Simple Malvertising",
-      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
+      "name": "Disconnect Simple lists",
+      "source": "https://gist.githubusercontent.com/ammnt/676a0e380127515b23bcb5bdeb5e4105/raw/32f93fafc1168c539dd054de221d9088a9da6043/simple_disconnect.txt",
       "type": "adblock",
       "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
