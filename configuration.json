@@ -3,7 +3,7 @@
   "description": "Enhanced and optimized DNS filter for AdGuard Home",
   "homepage": "https://github.com/ammnt/DeadEnd",
   "license": "https://github.com/ammnt/DeadEnd/blob/main/LICENSE",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "sources": [
     {
       "name": "AdGuard DNS filter",
@@ -150,8 +150,26 @@
       "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
-      "name": "Disconnect Simple lists",
-      "source": "https://gist.githubusercontent.com/ammnt/676a0e380127515b23bcb5bdeb5e4105/raw/32f93fafc1168c539dd054de221d9088a9da6043/simple_disconnect.txt",
+      "name": "Disconnect Simple Ads",
+      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+      "type": "adblock",
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
+    },
+    {
+      "name": "Disconnect Simple Tracking",
+      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
+      "type": "adblock",
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
+    },
+    {
+      "name": "Disconnect Simple Malvertising",
+      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
+      "type": "adblock",
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
+    },
+    {
+      "name": "HaGeZi's DNS Rebind Protection",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adguard/dns-rebind-protection.txt",
       "type": "adblock",
       "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },

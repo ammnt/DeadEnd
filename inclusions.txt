@@ -1673,3 +1673,4 @@
 ||vnadsrv.com^
 ||log.video.cloud.yandex.
 ||metrics.imdb.com^
+||dd.qwant.com^
