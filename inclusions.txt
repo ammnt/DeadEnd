@@ -1640,4 +1640,3 @@
 ||log.video.cloud.yandex.
 ||metrics.imdb.com^
 ||dd.qwant.com^
-||test1.msftcnsi.com^
