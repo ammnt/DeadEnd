@@ -24,7 +24,7 @@ jobs:
         with:
           node-version: 20
           check-latest: true
-          cache: "npm"
+          # cache: "npm"
 
       # - name: Get yarn cache directory🗑️
       #   id: yarn-cache-dir
