@@ -27,7 +27,7 @@ jobs:
 
       - name: Install yarn and run hostlist-compiler⛓️
         run: |
-          yarn install --frozen-lockfile --check-files
+          yarn install --check-files
           yarn run build
           yarn cache clean
           yarn audit --level high --no-cache || true
@@ -38,7 +38,7 @@ jobs:
         if: ${{ github.event_name != 'pull_request' }}
         run: |
           git config --global user.name "ammnt"
-          git config --global user.email "admin@msftcnsi.com"
+          git config --global user.email "happyzomb@ya.ru"
           echo "${{ secrets.GPG_PRIVATE_KEY }}" | base64 --decode | gpg --import --batch --yes
           KEY_ID=$(gpg --list-secret-keys --keyid-format LONG | grep sec | awk '{print $2}' | cut -d'/' -f2)
           git config user.signingkey $KEY_ID
