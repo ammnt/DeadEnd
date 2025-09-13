@@ -41,14 +41,11 @@ jobs:
       - name: Install yarn and run hostlist-compiler⛓️
         # if: steps.yarn-cache.outputs.cache-hit != 'true'
         run: |
-          yarn install --prefer-offline
+          yarn install --frozen-lockfile
           yarn run build
-          cat yarn.lock
+          yarn audit --level high
         env:
           CI: true
-
-      - name: Run Yarn Audit
-        run: yarn audit --level high
 
       - name: Push the filter to repo✅
         if: ${{ github.event_name != 'pull_request' }}
