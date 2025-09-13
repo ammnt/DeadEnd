@@ -238,7 +238,6 @@
 ||aan.amazon.
 ||aax-us-iad.amazon.
 ||ads.amazon.
-||advertising.amazon.
 ||advertising-*.amazon.
 ||amazon-adsystem.amazon.
 ||ape-dyad-service-eu.amazon.
@@ -571,7 +570,6 @@
 ||count.worldstats.
 ||adfstat.yandex.
 ||adsdk.yandex.
-||advertising.yandex.
 ||an.yandex.
 ||api-metrika.yandex.
 ||appmetrica.yandex.
@@ -629,13 +627,6 @@
 ||tracks.www.zazzle.
 ||dii2.zoobee.
 ||dii2.zoohit.
-||dii2.zooplus.
-||dii2.shpp.ext.zooplus.
-||marketing.net.zooplus.
-||partner.zooplus.
-||pictures.zooplus.
-||proxy.prod.zooplus.
-||zootopia-tracking.prod.zooplus.
 ||zymerget.
 ||media-stat.mail.ru^
 ||relap.info^
@@ -652,15 +643,12 @@
 ||insights-collector.gog.com^
 ||reports.protonmail.com^
 ||shazam-insights.cdn-apple.com^
-||adserv.ontek.com.tr^
 ||axiabanners.exodus.gr^
 ||an.mail.ru^
-||adtech.yahooinc.com^
 ||webim.ru^
 ||sbbe.group-ib.ru^
 ||retailrocket.ru^
 ||28p5qq8mm.de^
-||cake025.ru^
 ||leadgenic.ru^
 ||google--analytics-com.cdn.ampproject.org^
 ||zestat.ru^
@@ -710,7 +698,6 @@
 ||metrics.ubi.com^
 ||dmp-profiles.sbermarketing.ru^
 ||bfds.sberbank.ru^
-||dmp.sbermarketing.ru^
 ||visor.sberbank.ru^
 ||metrics.domclick.ru^
 ||clckdata.ru^
@@ -747,7 +734,6 @@
 ||hw-web-player-tracker.biliapi.net^
 ||w3-reporting.reddit.com^
 ||frontlog.tutu.ru^
-||adsrv.hh.ru^
 ||directadvert2.ru^
 ||weborama-tech.ru^
 ||adv-cloudfilse.azureedge.net^
@@ -766,7 +752,6 @@
 ||analytics.cypix.ru^
 ||parking.reg.ru^
 ||2d6g0ag5l.de^
-||cake017.ru^
 ||analytics.keepassxc.org^
 ||tags.f5.com^
 ||1mrmsp0ki.de^
@@ -778,7 +763,6 @@
 ||aplaut.io^
 ||riseup-inpp-code.com^
 ||cpamotor.ru^
-||aj2396.online^
 ||evlsn.com^
 ||ads.vk.com^
 ||badgerstat.com^
@@ -882,7 +866,6 @@
 ||stats.windscribe.com^
 ||dmp.one^
 ||nqn7la7.de^
-||heatmap.openresty.com^
 /heatmap/
 ||cpa.hh.ru^
 ||web.vortex.data.trafficmanager.net^
@@ -917,7 +900,6 @@
 ||rum.*.amazonaws.com^
 ||trk.crozdesk.com^
 ||googleadservices.com^
-||5471782.fls.doubleclick.net^
 ||79423.analytics.edgekey.net^
 ||a.adwolf.ru^
 ||a.sellpoint.net^
@@ -932,15 +914,12 @@
 ||ads.tdbank.com^
 ||ads.tvb.com^
 ||adsterra.com^
-||advert.kf5.com^
 ||affiliates.adsterra.com^
 ||afi-b.com^
 ||analytics.amplitude.com^
 ||anwb.webpower.eu^
 ||api-v*.trbo.com^
 ||app-advertise.zhihuishu.com^
-||app.appsflyer.com^
-||app.crazyegg.com^
 ||artifactory.appodeal.com^
 ||awin1.com^
 ||bcicl.*.evergage.com^
@@ -952,7 +931,6 @@
 ||cdnbc-wup.hsbc.com.hk^
 ||cindyholbrook.lpages.co^
 ||citiintl.122.2o7.net^
-||cj.dotomi.com^
 ||classliving.lpages.co^
 ||click.appcast.io^
 ||click.simba.taobao.com^
@@ -965,11 +943,9 @@
 ||cm-beacon.nakanohito.jp^
 ||cm-widget.nakanohito.jp^
 ||contents*.00110.citi.com^
-||core.crazyegg.com^
 ||cs.silverpop.com^
 ||daikoku.ebis.ne.jp^
 ||envato.market^
-||eum-blue-saas.instana.io^
 ||feed.adrelayer.com^
 ||go.scorptec.com.au^
 ||googleadapis.l.google.com^
@@ -986,20 +962,17 @@
 ||link.morningbrew.com^
 ||links.e.theatlantic.com^
 ||links.getblueshift.com^
-||log.mmstat.com^
 ||logentries.com^
 ||ma135-r.analytics.edgekey.net^
 ||marketing.net.idealo-partner.com^
 ||mc.*.exacttarget.com^
 ||metric.gstatic.com^
 ||netatmo.commander1.com^
-||nineto5mac-d.openx.net^
 ||oa.tr.line.me^
 ||official.paymaya.com^
 ||omniture.walmart.com^
 ||omsc.kpn.com^
 ||oneline.nextday.media^
-||pagead.l.doubleclick.net^
 ||partners.adsterra.com^
 ||promo.gramedia.com^
 ||proto2ad.durasite.net^
@@ -1008,12 +981,10 @@
 ||r.sascdn.com^
 ||radiofrance.targetspot.com^
 ||redir.tradedoubler.com^
-||stash.roistat.com^
 ||static-v*.trbo.com^
 ||str.hit.gemius.pl^
 ||support-beacon.nakanohito.jp^
 ||support-widget.nakanohito.jp^
-||tags.crwdcntrl.net^
 ||thumbnail.thench.net^
 ||tlaol.com^
 ||torimochi.line-apps.com^
@@ -1024,7 +995,6 @@
 ||jdoqocy.com^
 ||rssad.jp^
 ||febrare.ru^
-||adserver.html.it^
 ||pay4results24.eu^
 ||ya-distrib.ru^
 ||yadistr.ru^
@@ -1093,7 +1063,6 @@
 ||matureroute.com^
 ||analytics.72.ru^
 ||videocdnmetrika.com^
-||logging.getgo.com^
 ||marketing-core-track-hits.skyengschool.com^
 ||event-analytics-backend.skyeng.ru^
 ||logging-aor.services.goto.com^
@@ -1221,7 +1190,6 @@
 ||trck.coomeet.com^
 ||static.smi2.net^
 ||admeld.com^
-||admob.com^
 ||adometry.com^
 ||adwords.google.
 ||cc-dt.com^
@@ -1300,7 +1268,6 @@
 ||vipko.ru^
 ||ay.delivery^
 ||bbelements.com^
-||doublepimp.com^
 ||adonweb.ru^
 ||allalla.com^
 ||cpa1.ru^
@@ -1317,7 +1284,6 @@
 ||analytics-*.aasaam.com^
 ||charlestownwyllie.oaklawnnonantum.com^
 ||vkcdnservice.appspot.com^
-||logging.nextmedia.com^
 ||telemetry.officeapps.live.com.mcas.ms^
 ||telemetry.officeapps.live.com^
 ||tracker.biliapi.net^
