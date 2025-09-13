@@ -55,9 +55,8 @@ jobs:
           KEY_ID=$(gpg --list-secret-keys --keyid-format LONG | grep sec | awk '{print $2}' | cut -d'/' -f2)
           git config user.signingkey $KEY_ID
           git config commit.gpgsign true
-          ls -la
           sed -i '/^!/d' filter.txt
           sort -Vu filter.txt -o filter.txt
           git add filter.txt
-          git commit -m "build: regular filter and dependencies update"
+          git commit -S -m "build: regular filter and dependencies update"
           git push
