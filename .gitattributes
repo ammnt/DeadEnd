@@ -1,0 +1,13 @@
+# Format
+*.txt linguist-language=adblock linguist-detectable
+*.json linguist-language=JSON linguist-detectable
+*.md linguist-language=Markdown linguist-detectable
+*.png linguist-language=Image linguist-detectable
+
+# Package files
+package.json linguist-language=JSON linguist-detectable
+yarn.lock linguist-language=YAML linguist-detectable
+configuration.json linguist-language=JSON linguist-detectable
+
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
