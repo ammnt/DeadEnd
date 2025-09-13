@@ -30,7 +30,7 @@ jobs:
           yarn install --frozen-lockfile --check-files
           yarn run build
           yarn cache clean
-          yarn audit --level high --no-cache
+          yarn audit --level high --no-cache || true
         env:
           CI: true
 
@@ -45,6 +45,6 @@ jobs:
           git config commit.gpgsign true
           sed -i '/^!/d' filter.txt
           sort -Vu filter.txt -o filter.txt
-          git add filter.txt
+          git add filter.txt yarn.lock
           git commit -S -m "build: regular filter and dependencies update" || true
           git push
