@@ -42,7 +42,7 @@ jobs:
         run: |
           yarn install --frozen-lockfile --check-files
           yarn run build
-          yarn audit --level high || true
+          yarn audit --level high --no-cache || true
         env:
           CI: true
 
