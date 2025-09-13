@@ -46,6 +46,9 @@ jobs:
         env:
           CI: true
 
+      - name: Run Yarn Audit
+        run: yarn audit --level high
+
       - name: Push the filter to repo✅
         if: ${{ github.event_name != 'pull_request' }}
         run: |
@@ -58,5 +61,5 @@ jobs:
           sed -i '/^!/d' filter.txt
           sort -Vu filter.txt -o filter.txt
           git add filter.txt
-          git commit -S -m "build: regular filter and dependencies update"
+          git commit -S -m "build: regular filter and dependencies update" || true
           git push
