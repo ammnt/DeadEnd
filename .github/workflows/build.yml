@@ -57,7 +57,7 @@ jobs:
           git config commit.gpgsign true
           sed -i '/^!/d' filter.txt
           sort -Vu filter.txt -o filter.txt
-          sed -i "1i! Last modified: $(date -u +'%Y-%m-%dT%H:%M:%S.%3NZ')\n" f filter.txt
+          sed -i "1i! Last modified: $(date -u +'%Y-%m-%dT%H:%M:%S.%3NZ')\n" filter.txt
           git add filter.txt
           git commit -S -m "build: regular filter and dependencies update"
           git push
