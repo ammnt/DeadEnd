@@ -221,7 +221,6 @@
 ||mobile.pipe.aria.microsoft.com^
 ||click.discord.com^
 ||salesforce.com^
-||*intercom*
 ||speeddials.opera.com^
 ||zombo.com^
 ||webmd.com^

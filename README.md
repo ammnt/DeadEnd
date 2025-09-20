@@ -1,4 +1,4 @@
-<p align="center"><img alt="DeadEnd sign logo" src="https://raw.githubusercontent.com/ammnt/DeadEnd/main/logo.png" /></div></p>
+<p align="center"><img alt="DeadEnd sign logo" src="logo.png" /></div></p>
 
 [![Build the filter🚀](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml/badge.svg)](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml)
 ![version)](https://img.shields.io/github/v/release/ammnt/DeadEnd)
@@ -10,7 +10,7 @@
 
 # Description:
 
-This repository contains the enhanced AdGuard Home <a href="https://github.com/ammnt/DeadEnd/raw/main/filter.txt">filter</a> that blocks:
+This repository contains the enhanced AdGuard Home <a href="filter.txt">filter</a> that blocks:
 - Advertising, CPA and banner domains and their subdomains💩
 - Tracking and telemetry hosts and their subdomains📡
 - CNAME cloaking, analytics and metric domains and their subdomains🕵

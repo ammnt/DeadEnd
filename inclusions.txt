@@ -1640,3 +1640,5 @@
 ||log.video.cloud.yandex.
 ||metrics.imdb.com^
 ||dd.qwant.com^
+||rum.dzen.ru^
+||stat-api.meteofor.com^
