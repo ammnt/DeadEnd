@@ -1645,3 +1645,4 @@
 ||js.intercomcdn.com^
 ||*ad.durasite.net^
 ||ad.durasite.net^
+||pxl.*.altkraft.com^
