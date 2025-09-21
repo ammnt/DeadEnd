@@ -1643,3 +1643,5 @@
 ||track.wfolio.ru^
 ||ctjmf3j.de^
 ||js.intercomcdn.com^
+||*ad.durasite.net^
+||ad.durasite.net^
