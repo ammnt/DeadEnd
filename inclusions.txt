@@ -210,7 +210,6 @@
 ||ssp.gosuslugi.ru^
 ||widgets.mango-office.ru^
 ||stat-api-yndx.cloud.gismeteo.net^
-||mindbox.ru^
 ||launchdarkly.com^
 ||mstat.mos.ru^
 ||uxfeedback.ru^
@@ -1442,7 +1441,6 @@
 ||admile.xyz^
 ||beesads.com^
 ||tenads.link^
-||tadst.com^
 ||chongdaads.com^
 ||myadsget.com^
 ||adsmediasendoff.com^
@@ -1642,3 +1640,6 @@
 ||dd.qwant.com^
 ||rum.dzen.ru^
 ||stat-api.meteofor.com^
+||track.wfolio.ru^
+||ctjmf3j.de^
+||js.intercomcdn.com^
