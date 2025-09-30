@@ -974,7 +974,6 @@
 ||oneline.nextday.media^
 ||partners.adsterra.com^
 ||promo.gramedia.com^
-||proto2ad.durasite.net^
 ||pt.afl.rakuten.co.jp^
 ||publishers.adsterra.com^
 ||r.sascdn.com^
@@ -1278,8 +1277,6 @@
 ||tovarro.com^
 ||tpm.pw^
 ||webhop.net^
-||ad.durasite.net^
-||*ad.durasite.net^
 ||analytics-*.aasaam.com^
 ||charlestownwyllie.oaklawnnonantum.com^
 ||vkcdnservice.appspot.com^
@@ -1643,6 +1640,10 @@
 ||track.wfolio.ru^
 ||ctjmf3j.de^
 ||js.intercomcdn.com^
-||*ad.durasite.net^
-||ad.durasite.net^
 ||pxl.*.altkraft.com^
+||creative.freakhub.net^
+||wrzujfwoxnoi.com^
+||egypxwseuiqahr.com^
+||divisiondrearilyunfiled.com^
+||analytics.php.net^
+||analytics-php-net.ax4z.com^
