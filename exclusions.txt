@@ -596,3 +596,4 @@ register.appsflyersdk.com^
 ||mmcdn.com^
 @@||prod.impartner.live^|
 @@||news.warhammer.com^|
+||gamedl.ru^

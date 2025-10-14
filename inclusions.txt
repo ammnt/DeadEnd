@@ -1331,7 +1331,6 @@
 ||vk-analytics.ru^
 |events.data.microsoft.com^|
 ||tapulsads.ru^
-||eulatracking-public-service-*.ol.epicgames.com^
 /bugsnag/
 ||advt.pro^
 ||stat.vto.jewelry^
@@ -1647,3 +1646,7 @@
 ||divisiondrearilyunfiled.com^
 ||analytics.php.net^
 ||analytics-php-net.ax4z.com^
+||engine.vdpass.com^
+||stats.losst.pro^
+||ads-api.x.com^
+||pixel.rustore.ru^
