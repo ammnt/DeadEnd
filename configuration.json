@@ -10,48 +10,6 @@
       "source": "https://raw.githubusercontent.com/ammnt/DeadEnd/main/filter.txt",
       "type": "adblock",
       "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
-      "name": "AdGuard DNS Popup Hosts filter",
-      "source": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
-      "name": "AdGuard CNAME disguised ads list",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
-      "name": "AdGuard CNAME disguised clickthroughs list",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
-      "name": "AdGuard CNAME disguised microsites list",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
-      "name": "AdGuard CNAME disguised trackers list",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
-      "name": "AdGuard CNAME disguised mail_trackers list",
-      "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_mail_trackers.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
-      "name": "Internal inclusions list",
-      "source": "inclusions.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     }
   ],
   "transformations": ["RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Compress", "Validate", "InsertFinalNewLine", "ConvertToAscii"],
