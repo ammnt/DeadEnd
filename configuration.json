@@ -1,6 +1,6 @@
 {
   "name": "DeadEnd",
-  "description": "Enhanced and optimized DNS filter for AdGuard Home",
+  "description": "The enhanced and optimized DNS filter for AdGuard Home",
   "homepage": "https://github.com/ammnt/DeadEnd",
   "license": "https://github.com/ammnt/DeadEnd/blob/main/LICENSE",
   "version": "2.1.0",
