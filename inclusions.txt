@@ -1650,3 +1650,6 @@
 ||stats.losst.pro^
 ||ads-api.x.com^
 ||pixel.rustore.ru^
+||analytics.netmanageit.com^
+||telemetry.deeparc.net^
+||vnmfvnkd.win^
