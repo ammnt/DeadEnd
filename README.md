@@ -1,24 +1,28 @@
-<p align="center"><img alt="DeadEnd sign logo" src="logo.png" /></div></p>
+<p align="center">
+  <img alt="DeadEnd sign logo" src="logo.png" />
+</p>
 
 [![Build the filter🚀](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml/badge.svg)](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml)
-![version)](https://img.shields.io/github/v/release/ammnt/DeadEnd)
+![Version](https://img.shields.io/github/v/release/ammnt/DeadEnd)
 [![GitHub issues open](https://img.shields.io/github/issues/ammnt/DeadEnd.svg)](https://github.com/ammnt/DeadEnd/issues)
-![GitHub Maintained](https://img.shields.io/badge/open%20source-yes-orange)
-![GitHub Maintained](https://img.shields.io/badge/maintained-yes-yellow)
+![Open Source](https://img.shields.io/badge/open%20source-yes-orange)
+![Maintained](https://img.shields.io/badge/maintained-yes-yellow)
 
 ***
 
-# Description:
+## Description
 
-This repository contains the enhanced AdGuard Home <a href="filter.txt">filter</a> that blocks:
-- Advertising, CPA and banner domains and their subdomains💩
-- Tracking and telemetry hosts and their subdomains📡
-- CNAME cloaking, analytics and metric domains and their subdomains🕵
-- Chat, cookies and push services hosts and their subdomains🔕
-- Some adware, spyware and malware domains and their subdomains🤬
+This repository contains an enhanced DNS filter designed specifically for AdGuard Home. The [**filter.txt**](filter.txt) file provides comprehensive blocking of various unwanted domains and their subdomains, including:
 
-You can use it any way you want. The file will be updated regularly🚀
+- **Advertising, CPA, and banner networks** 💩
+- **Tracking and telemetry services** 📡
+- **CNAME cloaking techniques, analytics, and metrics collection** 🕵️
+- **Chat widgets, cookie consent, and push notification services** 🔕
+- **Selected adware, spyware, and malware domains** 🤬
 
-# Note:
+You are free to use this filter in any way you see fit. The list is regularly updated and maintained to ensure ongoing effectiveness. 🚀
 
-This filter is optimized for use <b>ONLY</b> in AdGuard Home🛡️Report false positives or suggest new blocks via <a href="https://github.com/ammnt/DeadEnd/issues/new">Issues</a>🙋
+## Note
+
+This filter is specifically optimized for use **ONLY** with **AdGuard Home** 🛡️
+If you encounter any false positives or would like to suggest additional domains for blocking, please feel free to [open a new Issue](https://github.com/ammnt/DeadEnd/issues/new). 🙋♂️

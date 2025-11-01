@@ -597,3 +597,4 @@ register.appsflyersdk.com^
 @@||prod.impartner.live^|
 @@||news.warhammer.com^|
 ||gamedl.ru^
+||email-link.adtidy.info^

@@ -1653,3 +1653,6 @@
 ||analytics.netmanageit.com^
 ||telemetry.deeparc.net^
 ||vnmfvnkd.win^
+||konget.ru^
+||pxl.mirdigital.pro^
+||analytics.vgtimes.ru^
