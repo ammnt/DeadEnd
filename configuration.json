@@ -6,12 +6,6 @@
   "version": "2.1.0",
   "sources": [
     {
-      "name": "AdGuard DNS filter",
-      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-      "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
-    },
-    {
       "name": "DeadEnd",
       "source": "https://raw.githubusercontent.com/ammnt/DeadEnd/main/filter.txt",
       "type": "adblock",
