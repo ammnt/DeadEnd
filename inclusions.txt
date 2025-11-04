@@ -1656,3 +1656,5 @@
 ||konget.ru^
 ||pxl.mirdigital.pro^
 ||analytics.vgtimes.ru^
+||gator.volces.com^
+||ai-up.ru^
