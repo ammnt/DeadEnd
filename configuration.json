@@ -3,7 +3,7 @@
   "description": "The enhanced and optimized DNS filter for AdGuard Home",
   "homepage": "https://github.com/ammnt/DeadEnd",
   "license": "https://github.com/ammnt/DeadEnd/blob/main/LICENSE",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "sources": [
     {
       "name": "DeadEnd",
