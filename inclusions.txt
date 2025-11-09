@@ -1658,3 +1658,5 @@
 ||analytics.vgtimes.ru^
 ||gator.volces.com^
 ||ai-up.ru^
+||stats.boredconsultant.com^
+||freevisitorcounters.com^
