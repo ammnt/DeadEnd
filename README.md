@@ -2,7 +2,7 @@
   <img alt="DeadEnd sign logo" src="logo.png" />
 </p>
 
-[![Build🚀](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml/badge.svg)](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml)
+[![CI/CD](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml/badge.svg)](https://github.com/ammnt/DeadEnd/actions/workflows/build.yml)
 ![Version](https://img.shields.io/github/v/release/ammnt/DeadEnd)
 [![GitHub stars](https://img.shields.io/github/stars/ammnt/DeadEnd.svg)](https://github.com/ammnt/DeadEnd/stargazers)
 [![GitHub stars](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/ammnt/DeadEnd/blob/main/CONTRIBUTING.md)

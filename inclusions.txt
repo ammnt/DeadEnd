@@ -1660,3 +1660,4 @@
 ||ai-up.ru^
 ||stats.boredconsultant.com^
 ||freevisitorcounters.com^
+||pixel.udpauto.ru^
