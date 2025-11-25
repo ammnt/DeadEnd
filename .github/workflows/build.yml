@@ -17,10 +17,10 @@ jobs:
 
     steps:
       - name: Checkout code📦
-        uses: actions/checkout@v5.0.0
+        uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3
 
       - name: Install NodeJS🧱
-        uses: actions/setup-node@v6.0.0
+        uses: actions/setup-node@2028fbc5c25fe9cf00d9f06a71cc4710d4507903
         with:
           node-version: 20
           check-latest: true
@@ -30,7 +30,7 @@ jobs:
         id: yarn-cache-dir
         run: echo "dir=$(yarn cache dir)" >> $GITHUB_OUTPUT
 
-      - uses: actions/cache@v4.3.0
+      - uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830
         id: yarn-cache
         with:
           path: ${{ steps.yarn-cache-dir.outputs.dir }}
