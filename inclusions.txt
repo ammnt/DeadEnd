@@ -1661,3 +1661,6 @@
 ||stats.boredconsultant.com^
 ||freevisitorcounters.com^
 ||pixel.udpauto.ru^
+||telemetry.stepsecurity.io^
+||stat*.entouaedon.com^
+||verify.ai^
