@@ -1664,3 +1664,4 @@
 ||telemetry.stepsecurity.io^
 ||stat*.entouaedon.com^
 ||verify.ai^
+||webstat.spbu.ru^
