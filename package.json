@@ -6,7 +6,7 @@
   "author": "ammnt",
   "license": "GPL-3.0",
   "scripts": {
-    "build": "hostlist-compiler -c configuration.json -o filter.txt --verbose"
+    "build": "hostlist-compiler -c configuration.json -o filter-test.txt --verbose"
   },
   "dependencies": {
     "@adguard/hostlist-compiler": "^1.0.39"
