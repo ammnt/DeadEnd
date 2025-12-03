@@ -115,7 +115,7 @@
     },
     {
       "name": "hpHosts - Ad and Tracking",
-      "source": "https://raw.githubusercontent.com/p-mng/hosts-file-backup/master/ad_servers.txt",
+      "source": "https://raw.githubusercontent.com/MrWaste/Malwarebytes-hpHosts-Full-Lists/master/hosts-file.net%20Full%20Backups/hpHosts_ATS",
       "type": "hosts",
       "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
     },
