@@ -237,7 +237,6 @@
 ||tvpassport.com^
 ||bluebillywig.com^
 ||channeladvisor.com^
-||business.opera.com^
 ||phonearena.com^
 ||s.rbk.ru^
 ||ip2location.com^
