@@ -1665,3 +1665,5 @@
 ||stat*.entouaedon.com^
 ||verify.ai^
 ||webstat.spbu.ru^
+||analytics.ableton.com^
+||metrics.tricolor.ru^
