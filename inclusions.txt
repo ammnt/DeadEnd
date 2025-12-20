@@ -1667,3 +1667,5 @@
 ||webstat.spbu.ru^
 ||analytics.ableton.com^
 ||metrics.tricolor.ru^
+||4leb0e.ru^
+||helios.g2a.com^
