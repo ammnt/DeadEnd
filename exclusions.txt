@@ -599,3 +599,5 @@ register.appsflyersdk.com^
 ||email-link.adtidy.info^
 ||a4.tl2^
 ||cs44.pikabu.ru^
+||api.picsart.com^
+||players.brightcove.net^

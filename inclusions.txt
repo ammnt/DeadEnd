@@ -1526,7 +1526,6 @@
 ||yandexmetrica.com^
 ||ssp.rutube.ru^
 ||beacons*.gvt2.com^
-||beacons*.*.gvt2.com^
 ||banners-bt.wildberries.ru^
 ||user-banner.wb.ru^
 ||apptracer.ru^
@@ -1669,3 +1668,4 @@
 ||metrics.tricolor.ru^
 ||4leb0e.ru^
 ||helios.g2a.com^
+||*-mobile.events.data.microsoft.com^
