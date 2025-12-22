@@ -1669,3 +1669,4 @@
 ||4leb0e.ru^
 ||helios.g2a.com^
 ||*-mobile.events.data.microsoft.com^
+||campaigns.movavika.ru^
