@@ -4,8 +4,14 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+    target-branch: "main"
     open-pull-requests-limit: 50
+    assignees:
+      - "ammnt"
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "monthly"
+    target-branch: "main"
+    assignees:
+      - "ammnt"
