@@ -1672,3 +1672,5 @@
 ||campaigns.movavika.ru^
 ||1qe791nj7.de^
 ||track.tbank.ru^
+||analytics.nimbusws.com^
+||6dp0i7.ru^
