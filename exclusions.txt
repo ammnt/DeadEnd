@@ -601,3 +601,4 @@ register.appsflyersdk.com^
 ||cs44.pikabu.ru^
 ||api.picsart.com^
 ||players.brightcove.net^
+||taplink.cc^
