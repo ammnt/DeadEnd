@@ -1674,3 +1674,4 @@
 ||track.tbank.ru^
 ||analytics.nimbusws.com^
 ||6dp0i7.ru^
+||analytics.inmotionhosting.com^
