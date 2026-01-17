@@ -602,3 +602,4 @@ register.appsflyersdk.com^
 ||api.picsart.com^
 ||players.brightcove.net^
 ||taplink.cc^
+||p.typekit.net^

@@ -1677,3 +1677,5 @@
 ||analytics.inmotionhosting.com^
 ||umnico.com^
 ||stats.exoscale.com^
+||analytics.wpmucdn.com^
+||wpmu-analytics.b-cdn.net^
