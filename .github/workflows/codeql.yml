@@ -1,63 +1,54 @@
-name: CI/CD📦
+name: CodeQL Advanced🪄
 
 on:
-  workflow_dispatch:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
   schedule:
-    - cron: "0 4 */2 * *"
-  # push:
-  #   branches: ["main"]
+    - cron: "30 1 1 * *"
 
 jobs:
-  build:
-    if: github.actor == 'ammnt'
-    runs-on: ubuntu-24.04
+  analyze:
+    name: Analyze (${{ matrix.language }})
+    runs-on: ${{ (matrix.language == 'swift' && 'macos-latest') || 'ubuntu-latest' }}
     permissions:
-      contents: write
-      id-token: write
+      security-events: write
+
+      packages: read
+
+      actions: read
+      contents: read
+
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - language: actions
+            build-mode: none
 
     steps:
-      - name: Checkout code📦
+      - name: Checkout repository
         uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8
 
-      - name: Install NodeJS🧱
-        uses: actions/setup-node@395ad3262231945c25e8478fd5baf05154b1d79f
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@cdefb33c0f6224e58673d9004f47f7cb3e328b89
         with:
-          node-version: 20
-          check-latest: true
-          cache: "npm"
+          languages: ${{ matrix.language }}
+          build-mode: ${{ matrix.build-mode }}
 
-      - name: Get yarn cache directory🗑️
-        id: yarn-cache-dir
-        run: echo "dir=$(yarn cache dir)" >> $GITHUB_OUTPUT
+      - name: Run manual build steps
+        if: matrix.build-mode == 'manual'
+        shell: bash
+        run: |
+          echo 'If you are using a "manual" build mode for one or more of the' \
+            'languages you are analyzing, replace this with the commands to build' \
+            'your code, for example:'
+          echo '  make bootstrap'
+          echo '  make release'
+          exit 1
 
-      - uses: actions/cache@8b402f58fbc84540c8b491a91e594a4576fec3d7
-        id: yarn-cache
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@cdefb33c0f6224e58673d9004f47f7cb3e328b89
         with:
-          path: ${{ steps.yarn-cache-dir.outputs.dir }}
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-yarn-
-
-      - name: Install yarn and run hostlist-compiler⛓️
-        run: |
-          yarn install --frozen-lockfile --check-files
-          yarn run build
-          yarn audit --level high --no-cache || true
-        env:
-          CI: true
-
-      - name: Push the filter to repo✅
-        if: ${{ github.event_name != 'pull_request' }}
-        run: |
-          git config --global user.name "ammnt"
-          git config --global user.email "happyzomb@ya.ru"
-          echo "${{ secrets.GPG_PRIVATE_KEY }}" | base64 --decode | gpg --import --batch --yes
-          KEY_ID=$(gpg --list-secret-keys --keyid-format LONG | grep sec | awk '{print $2}' | cut -d'/' -f2)
-          git config user.signingkey $KEY_ID
-          git config commit.gpgsign true
-          sed -i '/^!/d' filter.txt
-          sort -Vu filter.txt -o filter.txt
-          sed -i "1i! Last modified: $(date -u +'%Y-%m-%dT%H:%M:%S.%3NZ')\n" filter.txt
-          git add filter.txt
-          git commit -S -m "build: regular filter and dependencies update"
-          git push
+          category: "/language:${{matrix.language}}"
