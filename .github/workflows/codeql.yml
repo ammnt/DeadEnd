@@ -1,4 +1,4 @@
-name: CodeQL Advanced🪄
+name: CodeQL Advanced🔎
 
 on:
   workflow_dispatch:
@@ -6,8 +6,8 @@ on:
     branches: ["main"]
   pull_request:
     branches: ["main"]
-  schedule:
-    - cron: "30 1 * * 0"
+  # schedule:
+  #   - cron: "30 1 * * 0"
 
 jobs:
   analyze:
