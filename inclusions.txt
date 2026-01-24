@@ -1680,3 +1680,5 @@
 ||analytics.wpmucdn.com^
 ||wpmu-analytics.b-cdn.net^
 ||log.enterprise.api-maps.yandex.
+||stat.fpc-rzd.ru^
+||stats.makandra.de^
