@@ -1682,3 +1682,5 @@
 ||log.enterprise.api-maps.yandex.
 ||stat.fpc-rzd.ru^
 ||stats.makandra.de^
+||telemetry.cloud.com^
+||dc-telemetry.net^
