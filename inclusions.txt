@@ -1684,3 +1684,5 @@
 ||stats.makandra.de^
 ||telemetry.cloud.com^
 ||dc-telemetry.net^
+||newsoftfiles.ru^
+||logsanalytics.net^
