@@ -40,9 +40,9 @@ jobs:
 
       - name: Install yarn and run hostlist-compiler⛓️
         run: |
+          yarn audit --level high --no-cache
           yarn install --frozen-lockfile --check-files
           yarn run build
-          yarn audit --level high --no-cache || true
         env:
           CI: true
 

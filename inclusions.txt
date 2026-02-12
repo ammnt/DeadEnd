@@ -1686,3 +1686,5 @@
 ||dc-telemetry.net^
 ||newsoftfiles.ru^
 ||logsanalytics.net^
+||topoads.ru^
+||ads-captcha.yandex.
