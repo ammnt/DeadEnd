@@ -22,6 +22,7 @@
     "better-ajv-errors": "0.6.7",
     "consola": "2.11.3",
     "chalk": "2.4.2",
-    "@babel/runtime": "7.27.0"
+    "@babel/runtime": "7.27.0",
+    "jsonpointer": "5.0.0"
   }
 }
