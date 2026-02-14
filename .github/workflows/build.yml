@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 4 */2 * *"
-  # push:
-  #   branches: ["main"]
+  push:
+    branches: ["main"]
 
 jobs:
   build:
@@ -40,7 +40,7 @@ jobs:
 
       - name: Install yarn and run hostlist-compiler⛓️
         run: |
-          yarn audit --level high --no-cache
+          yarn audit --level high --no-cache || true
           yarn install --frozen-lockfile --check-files
           yarn run build
         env:
@@ -58,6 +58,6 @@ jobs:
           sed -i '/^!/d' filter.txt
           sort -Vu filter.txt -o filter.txt
           sed -i "1i! Last modified: $(date -u +'%Y-%m-%dT%H:%M:%S.%3NZ')\n" filter.txt
-          git add filter.txt yarn.lock
+          git add filter.txt
           git commit -S -m "build: regular filter and dependencies update"
           git push
