@@ -1,6 +1,6 @@
 {
   "name": "deadend-filter",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "The enhanced and optimized DNS filter for AdGuard Home",
   "repository": "https://github.com/ammnt/DeadEnd",
   "author": "ammnt",

@@ -1688,3 +1688,4 @@
 ||logsanalytics.net^
 ||topoads.ru^
 ||ads-captcha.yandex.
+||bigo.sg^
