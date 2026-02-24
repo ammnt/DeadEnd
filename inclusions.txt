@@ -1698,3 +1698,7 @@
 ||socks.imolive2.com^
 ||frontmetrics.tutu.ru^
 ||analytics.netim.net^
+||trpixs.com^
+||gjv7fg.ru^
+||smartplacement.io^
+||webecyzo.com^
