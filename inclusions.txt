@@ -1695,3 +1695,6 @@
 ||martin-way-six.com^
 ||maxclientstatapi.com^
 ||analytics.click-or-die.ru^
+||socks.imolive2.com^
+||frontmetrics.tutu.ru^
+||analytics.netim.net^
