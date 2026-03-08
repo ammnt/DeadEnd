@@ -1705,3 +1705,8 @@
 ||beacon.radiantcompasshub.com^
 ||texadlist.com^
 ||purradspple.com^
+||acp-stats.appspot.com^
+||widgets.risoma.ru^
+||log.api-maps.yandex.
+||acollector.wb.ru^
+||banners-website.wildberries.ru^
