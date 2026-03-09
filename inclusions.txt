@@ -1710,3 +1710,5 @@
 ||log.api-maps.yandex.
 ||acollector.wb.ru^
 ||banners-website.wildberries.ru^
+||ads.x5media.ru^
+||market-baobab.yandex.
