@@ -1712,3 +1712,11 @@
 ||banners-website.wildberries.ru^
 ||ads.x5media.ru^
 ||market-baobab.yandex.
+||profilepxl.ru^
+||pixel.data-leads.ru^
+||rupertino.ru^
+||pixel.hot-wifi.ru^
+||topvisit.ru^
+||pixel.detmir.ru^
+||abcdata-pxl.tech^
+||cfv4.com^
