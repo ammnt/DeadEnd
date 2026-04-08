@@ -1687,7 +1687,6 @@
 ||logsanalytics.net^
 ||topoads.ru^
 ||ads-captcha.yandex.
-||bigo.sg^
 ||atb-im-stats.ukyuh.tech^
 ||metrics.dt.dbankcloud.ru^
 ||bvddfghxdsfd.top^
