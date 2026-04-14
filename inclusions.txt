@@ -1719,3 +1719,4 @@
 ||abcdata-pxl.tech^
 ||cfv4.com^
 ||rubinproject.com^
+||sgtm.eficode.com^
