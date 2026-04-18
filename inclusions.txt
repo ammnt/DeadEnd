@@ -933,7 +933,6 @@
 ||click.appcast.io^
 ||click.simba.taobao.com^
 ||click.trafficguard.ai^
-||click.virt.exacttarget.com^
 ||click.virt.s*.exacttarget.com^
 ||clj.valuecommerce.com^
 ||clk*.tradedoubler.com^
@@ -1010,7 +1009,6 @@
 ||m8cia5k5.de^
 ||df782abg.de^
 ||g7a556lf.de^
-||analytics.ahrefs.com^
 ||analytics-scripts.*.amazonaws.com^
 ||6j296m8k.de^
 ||8kj1ldt1.de^
