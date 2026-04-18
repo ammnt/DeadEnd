@@ -1721,3 +1721,5 @@
 ||rubinproject.com^
 ||sgtm.eficode.com^
 ||stat.firstvds.ru^
+||video-analytics.google.com^
+||ogads-pa.clients6.google.com^
