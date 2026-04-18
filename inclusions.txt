@@ -933,7 +933,6 @@
 ||click.appcast.io^
 ||click.simba.taobao.com^
 ||click.trafficguard.ai^
-||click.virt.s*.exacttarget.com^
 ||clj.valuecommerce.com^
 ||clk*.tradedoubler.com^
 ||cloud.notification-naviextras.com^
