@@ -1722,3 +1722,6 @@
 ||ogads-pa.clients6.google.com^
 ||mediation.goog^
 ||ads-media.wildberries.ru^
+||stats.weidev.nl^
+||skyyads.ru^
+||adgoogle.net^
