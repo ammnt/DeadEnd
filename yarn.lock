@@ -20,18 +20,18 @@
     crypto-js "^4.2.0"
 
 "@adguard/hostlist-compiler@latest":
-  version "1.0.39"
-  resolved "https://registry.yarnpkg.com/@adguard/hostlist-compiler/-/hostlist-compiler-1.0.39.tgz#3182385a65f8be591887041931aec09be32e4dc1"
-  integrity sha512-UC3Tpn8k9/KhNVostajPoTFceTqqq1lHVInFv1eGBI/v/r8ydhulOzhxRERClzZ0F23Cl6+DPEqUbtGwzbvnMQ==
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@adguard/hostlist-compiler/-/hostlist-compiler-2.1.0.tgz#75d528ba267531652fde8c1c542c0fc5480e3b49"
+  integrity sha512-b7nrrRclMb5Zy7TeTpe4ULupAf+bsS3l1fmBQW2TOHzddr+Q412uCeMtP3LF1fkrgzwn3RvZz+IOc9sK08/YnQ==
   dependencies:
     "@adguard/filters-downloader" "^2.3.1"
     ajv "^6.12.0"
     ajv-errors "^1.0.1"
-    axios "^0.19.2"
+    axios "^1.15.0"
     better-ajv-errors "^0.6.7"
     consola "^2.11.3"
     lodash "^4.17.15"
-    tldts "^5.6.10"
+    tldts "7.0.28"
     yargs "^15.3.0"
 
 "@babel/code-frame@^7.0.0":
@@ -102,7 +102,7 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==
 
-axios@1.15.0, axios@1.6.2, axios@^0.19.2:
+axios@1.15.0, axios@1.6.2, axios@^1.15.0:
   version "1.15.0"
   resolved "https://registry.yarnpkg.com/axios/-/axios-1.15.0.tgz#0fcee91ef03d386514474904b27863b2c683bf4f"
   integrity sha512-wWyJDlAatxk30ZJer+GeCWS209sA42X+N5jU2jy6oHTp7ufw8uzUTVFBX9+wTfAlhiJXGS0Bq7X6efruWjuK9Q==
@@ -541,17 +541,17 @@ supports-color@^5.3.0:
   dependencies:
     has-flag "^3.0.0"
 
-tldts-core@^5.7.8:
-  version "5.7.8"
-  resolved "https://registry.npmjs.org/tldts-core/-/tldts-core-5.7.8.tgz"
-  integrity sha512-F0A6r4fGkAdyPpTWN3elMVMsflmJGs26v9KzUCM1M7ZzMPiwQ2uk7VgiQHO+ge8WVgSSx96jFn9h30Vqeci8Ig==
+tldts-core@^7.0.28:
+  version "7.0.29"
+  resolved "https://registry.yarnpkg.com/tldts-core/-/tldts-core-7.0.29.tgz#c3806f5af57b0351ed9415899be2a8dafa3f56dc"
+  integrity sha512-W99NuU7b1DcG3uJ3v9k9VztCH3WialNbBkBft5wCs8V8mexu0XQqaZEYb9l9RNNzK8+3EJ9PKWB0/RUtTQ/o+Q==
 
-tldts@^5.6.10:
-  version "5.7.8"
-  resolved "https://registry.npmjs.org/tldts/-/tldts-5.7.8.tgz"
-  integrity sha512-2/VUpIQi9DbkewZytQZycA4xbo5dIHBgSTr93B1NZSkyHF3+gonOuC/0adesjOcCgrq0UEZ/Hh8yPgBxhan9cg==
+tldts@7.0.28:
+  version "7.0.28"
+  resolved "https://registry.yarnpkg.com/tldts/-/tldts-7.0.28.tgz#5a5bb26ef3f70008d88c6e53ff58cd59ed8d4c68"
+  integrity sha512-+Zg3vWhRUv8B1maGSTFdev9mjoo8Etn2Ayfs4cnjlD3CsGkxXX4QyW3j2WJ0wdjYcYmy7Lx2RDsZMhgCWafKIw==
   dependencies:
-    tldts-core "^5.7.8"
+    tldts-core "^7.0.28"
 
 which-module@^2.0.0:
   version "2.0.0"
