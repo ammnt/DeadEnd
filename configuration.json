@@ -9,13 +9,13 @@
       "name": "DeadEnd",
       "source": "https://raw.githubusercontent.com/ammnt/DeadEnd/main/filter.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "InsertFinalNewLine", "ConvertToAscii"]
     },
     {
       "name": "Internal inclusions list",
       "source": "inclusions.txt",
       "type": "adblock",
-      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Validate", "InsertFinalNewLine", "ConvertToAscii"]
+      "transformations": ["Compress", "RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "InsertFinalNewLine", "ConvertToAscii"]
     }
   ],
   "transformations": ["RemoveComments", "RemoveModifiers", "RemoveEmptyLines", "TrimLines", "Deduplicate", "Compress", "Validate", "InsertFinalNewLine", "ConvertToAscii"],

@@ -15,7 +15,6 @@
     "@adguard/hostlist-compiler": "latest",
     "@adguard/filters-downloader": "latest",
     "@adguard/diff-builder": "latest",
-    "ajv": "8.18.0",
     "axios": "1.15.0",
     "follow-redirects": "1.16.0",
     "debug": "3.1.0",
