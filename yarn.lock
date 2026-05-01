@@ -19,7 +19,7 @@
     axios "1.15.0"
     crypto-js "4.2.0"
 
-"@adguard/hostlist-compiler@^2.1.0":
+"@adguard/hostlist-compiler@latest":
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@adguard/hostlist-compiler/-/hostlist-compiler-2.1.0.tgz#75d528ba267531652fde8c1c542c0fc5480e3b49"
   integrity sha512-b7nrrRclMb5Zy7TeTpe4ULupAf+bsS3l1fmBQW2TOHzddr+Q412uCeMtP3LF1fkrgzwn3RvZz+IOc9sK08/YnQ==
