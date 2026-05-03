@@ -604,3 +604,4 @@ register.appsflyersdk.com^
 ||taplink.cc^
 ||p.typekit.net^
 ||rb.gy^
+||uhf.microsoft.com^
