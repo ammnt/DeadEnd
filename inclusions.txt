@@ -1725,3 +1725,6 @@
 ||stats.weidev.nl^
 ||skyyads.ru^
 ||adgoogle.net^
+||tracker.codeby.school^
+||telemetry-*.a.run.app^
+||fin-banners-bt.wildberries.ru^
