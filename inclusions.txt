@@ -1718,8 +1718,8 @@
 ||rubinproject.com^
 ||sgtm.eficode.com^
 ||stat.firstvds.ru^
-||video-analytics.google.com^
-||ogads-pa.clients6.google.com^
+||video-analytics.google.
+||ogads-pa.clients6.google.
 ||mediation.goog^
 ||ads-media.wildberries.ru^
 ||stats.weidev.nl^
