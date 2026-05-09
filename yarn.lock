@@ -10,7 +10,7 @@
     commander "^11.1.0"
     crypto-js "^4.2.0"
 
-"@adguard/filters-downloader@^2.3.1":
+"@adguard/filters-downloader@2.4.4", "@adguard/filters-downloader@^2.3.1":
   version "2.4.4"
   resolved "https://registry.yarnpkg.com/@adguard/filters-downloader/-/filters-downloader-2.4.4.tgz#5813f8eb47a225491f57663004eb2727842d4b92"
   integrity sha512-fW1aH8nFHM17OO+TfTtOG5ioMq0JX5KbdB03Pvynx3Rw1b9f4Y5sdg0mjGciLbtu+2amUOXAJ0qN4l4U/ktCvw==
@@ -19,7 +19,7 @@
     axios "1.15.0"
     crypto-js "4.2.0"
 
-"@adguard/hostlist-compiler@latest":
+"@adguard/hostlist-compiler@2.1.0":
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@adguard/hostlist-compiler/-/hostlist-compiler-2.1.0.tgz#75d528ba267531652fde8c1c542c0fc5480e3b49"
   integrity sha512-b7nrrRclMb5Zy7TeTpe4ULupAf+bsS3l1fmBQW2TOHzddr+Q412uCeMtP3LF1fkrgzwn3RvZz+IOc9sK08/YnQ==
