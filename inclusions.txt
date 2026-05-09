@@ -944,7 +944,6 @@
 ||envato.market^
 ||feed.adrelayer.com^
 ||go.scorptec.com.au^
-||googleadapis.l.google.com^
 ||grp07.ias.rakuten.co.jp^
 ||gs.statcounter.com^
 ||h-sdk.online-metrix.net^
@@ -1728,3 +1727,4 @@
 ||tracker.codeby.school^
 ||telemetry-*.a.run.app^
 ||fin-banners-bt.wildberries.ru^
+||analytics.mediadash.ru^
