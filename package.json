@@ -1,6 +1,6 @@
 {
   "name": "deadend-filter",
-  "version": "2.2.1",
+  "version": "2.3.1",
   "description": "The enhanced and optimized DNS filter for AdGuard Home",
   "repository": "https://github.com/ammnt/DeadEnd",
   "author": "ammnt",
@@ -12,9 +12,9 @@
     "@adguard/hostlist-compiler": "latest"
   },
   "resolutions": {
-    "@adguard/hostlist-compiler": "latest",
-    "@adguard/filters-downloader": "latest",
-    "@adguard/diff-builder": "latest",
+    "@adguard/hostlist-compiler": "2.1.0",
+    "@adguard/filters-downloader": "2.4.4",
+    "@adguard/diff-builder": "3.2.9",
     "jsonpointer": "5.0.0",
     "axios": "1.15.2"
   }

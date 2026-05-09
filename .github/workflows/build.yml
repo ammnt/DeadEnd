@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: "0 4 */2 * *"
   push:
-    branches: [ "main" ]
+    branches: ["main"]
 
 jobs:
   build:
@@ -22,7 +22,7 @@ jobs:
       - name: Install NodeJS🧱
         uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e
         with:
-          node-version: 20
+          node-version: latest
           check-latest: true
           cache: "npm"
 
@@ -38,13 +38,19 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-yarn-
 
-      - name: Install yarn and run hostlist-compiler⛓️
-        run: |
-          yarn audit --level high --no-cache || true
-          yarn install --force --check-files
-          yarn run build
+      - name: Security audit (informational)🛡️
+        continue-on-error: true
         env:
           CI: true
+        run: |
+          yarn audit --level high
+
+      - name: Install yarn and run hostlist-compiler⛓️
+        env:
+          CI: true
+        run: |
+          yarn install --check-files
+          yarn run build
 
       - name: Push the filter to repo✅
         if: ${{ github.event_name != 'pull_request' }}
