@@ -14,7 +14,7 @@
   "resolutions": {
     "@adguard/hostlist-compiler": "2.1.0",
     "@adguard/filters-downloader": "2.4.4",
-    "@adguard/diff-builder": "3.2.9",
+    "@adguard/diff-builder": "1.1.4",
     "jsonpointer": "5.0.0",
     "axios": "1.15.2"
   }
