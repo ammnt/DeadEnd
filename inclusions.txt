@@ -1850,3 +1850,5 @@
 ||webstats.gov.cn^
 ||webstats.gov.sg^
 ||webstats.govt.nz^
+||trace-flow.ru^
+||*-metrics.5horizons.net^
