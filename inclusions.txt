@@ -1852,3 +1852,4 @@
 ||webstats.govt.nz^
 ||trace-flow.ru^
 ||*-metrics.5horizons.net^
+||analytics.guangdiankeji.com^
