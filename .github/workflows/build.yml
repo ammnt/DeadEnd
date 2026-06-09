@@ -57,7 +57,7 @@ jobs:
         run: |
           npm i -g @adguard/dead-domains-linter
           npm update -g @adguard/dead-domains-linter
-          dead-domains-linter -i inclusions.txt --dnscheck=false
+          dead-domains-linter -i inclusions.txt --show --dnscheck=false
 
       - name: Push the filter to repo✅
         if: ${{ github.event_name != 'pull_request' }}
