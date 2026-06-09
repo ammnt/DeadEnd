@@ -52,6 +52,13 @@ jobs:
           yarn install --check-files
           yarn run build
 
+      - name: Install and run Dead Domains Linter🔎
+        continue-on-error: true
+        run: |
+          npm i -g @adguard/dead-domains-linter
+          npm update -g @adguard/dead-domains-linter
+          dead-domains-linter -i inclusions.txt --dnscheck=false
+
       - name: Push the filter to repo✅
         if: ${{ github.event_name != 'pull_request' }}
         run: |
