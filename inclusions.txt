@@ -1730,3 +1730,5 @@
 ||stat.nic.at^
 ||224oai83p.de^
 ||25gsr18e6.de^
+||1sjcco7od.de^
+||errors.katemobile.ru^
