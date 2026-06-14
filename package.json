@@ -16,6 +16,8 @@
     "@adguard/filters-downloader": "2.4.4",
     "@adguard/diff-builder": "1.1.4",
     "jsonpointer": "5.0.0",
-    "axios": "1.16.0"
+    "**/axios": "1.16.0",
+    "@adguard/filters-downloader/axios": "1.16.0",
+    "@adguard/hostlist-compiler/axios": "1.16.0"
   }
 }
