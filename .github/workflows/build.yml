@@ -45,13 +45,6 @@ jobs:
         run: |
           yarn audit --level high
 
-      - name: Install yarn and run hostlist-compiler⛓️
-        env:
-          CI: true
-        run: |
-          yarn install --check-files
-          yarn run build
-
       - name: Install and run Dead Domains Linter🔎
         run: |
           npm i -g @adguard/dead-domains-linter
@@ -60,9 +53,16 @@ jobs:
 
       - name: Install and run AGLint tool🔎
         run: |
-          npm install -D @adguard/aglint
+          yarn add -D @adguard/aglint
           npx aglint ./inclusions.txt
           npx aglint ./filter.txt
+
+      - name: Install yarn and run hostlist-compiler⛓️
+        env:
+          CI: true
+        run: |
+          yarn install --check-files --force
+          yarn run build
 
       - name: Push the filter to repo✅
         if: ${{ github.event_name != 'pull_request' }}
