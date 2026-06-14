@@ -53,11 +53,16 @@ jobs:
           yarn run build
 
       - name: Install and run Dead Domains Linter🔎
-        continue-on-error: true
         run: |
           npm i -g @adguard/dead-domains-linter
           npm update -g @adguard/dead-domains-linter
           dead-domains-linter -i inclusions.txt --show --dnscheck=false
+
+      - name: Install and run AGLint tool🔎
+        run: |
+          npm install -D @adguard/aglint
+          npx aglint ./inclusions.txt
+          npx aglint ./filter.txt
 
       - name: Push the filter to repo✅
         if: ${{ github.event_name != 'pull_request' }}

@@ -1734,3 +1734,4 @@
 ||errors.katemobile.ru^
 ||beacondb.net^
 ||site24x7rum.eu^
+||stats.dbeaver.com^

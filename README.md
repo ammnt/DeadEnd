@@ -34,6 +34,7 @@ DeadEnd/
 ├── 📝 .editorconfig                     # EditorConfig for consistent coding styles
 ├── ✅ exclusions.txt                    # Explicit domains to never block (false positives)
 ├── 🧹 filter.txt                        # Auto-generated blocklist for AdGuard Home
+├── 🔎.aglintrc.yaml                     # Generated config for AGLint tool
 ├── 🔧 .gitattributes                    # Git attributes for language detection
 ├── 🗂️ .github/                          # GitHub-specific configuration
 │   ├── 🤖 dependabot.yml                # Automated dependency update rules
