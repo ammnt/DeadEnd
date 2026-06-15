@@ -24442,6 +24442,7 @@
 ||ad.virtualave.com^
 ||ad.virtual-nights.com^
 ||ad.vi-tag.net^
+||ad.vk.com^
 ||ad.vkoolzzz.net^
 ||ad.vkool.net^
 ||ad.vol.at^
@@ -38052,6 +38053,7 @@
 ||api-marketolog.mts.ru^
 ||api-master.netsparkmobile.com^
 ||api-meta.mercelsantos.com.br^
+||api-metric.gosweb.gosuslugi.ru^
 ||api-metrika.yandex.
 ||api-mobile-pipex-gw.k4.b2bmktg.com^
 ||api-ms.cobainaja.id^
