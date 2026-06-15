@@ -1,4 +1,4 @@
-! Last modified: 2026-06-14T12:32:17.524Z
+! Last modified: 2026-06-15T04:53:32.304Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -24442,9 +24442,9 @@
 ||ad.virtualave.com^
 ||ad.virtual-nights.com^
 ||ad.vi-tag.net^
-||ad.vk.com^
 ||ad.vkoolzzz.net^
 ||ad.vkool.net^
+||ad.vk.com^
 ||ad.vol.at^
 ||ad.vonna.com^
 ||ad.vo-media.ru^
