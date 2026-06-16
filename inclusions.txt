@@ -1737,3 +1737,4 @@
 ||stats.dbeaver.com^
 ||ad.vk.com^
 ||api-metric.gosweb.gosuslugi.ru^
+||stats.ds33.fr^
