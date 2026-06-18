@@ -19734,6 +19734,7 @@
 ||adsmanager.truecaller.com^
 ||adsmarch.online^
 ||adsmarketgroup.com^
+||adsmarketingweb*-pa.clients6.google.
 ||adsmarket.com^
 ||adsmarket.es^
 ||adsmartracker.com^
@@ -64075,6 +64076,7 @@
 ||bonus365.site^
 ||bonusaward.life^
 ||bonusbitcoin.co^
+||bonuscake.ru^
 ||bonuscasinobay.com^
 ||bonuscomplex.com^
 ||bonuscontract.com^
@@ -122990,6 +122992,7 @@
 ||dsparking.com^
 ||dspck.hiido.com^
 ||dspentesting4328759382475.net^
+||dspgate.ru^
 ||dspil.jcp.com^
 ||dsply.com^
 ||dspmega.com^
@@ -144871,6 +144874,7 @@
 ||eventtekk.co.uk^
 ||eventticketguru.com^
 ||eventtown.online^
+||eventtrace.ru^
 ||eventtracker.elitedaily.com^
 ||eventualise.uk^
 ||eventuallybraid.com^
@@ -338838,6 +338842,7 @@
 ||rmervvomroovw.top^
 ||rmesbftdc.com^
 ||rmetgarrpiouttmwqtuajcnzgesgozrihrzwmjlpxvcnmdqath.com^
+||rmetrics.ru^
 ||rmetrix.superbid.net^
 ||rmfbrz.icu^
 ||rmf-company.com^
@@ -466868,6 +466873,7 @@
 ||yafxrwoclkcbu.com^
 ||yaganatural.com^
 ||yagcaumz.com^
+||yagla.ru^
 ||yagoeallanaadegaltda.sellsyourhome.org^
 ||yagomilenio.ddns.net^
 ||yagoodgirlfriend.com^

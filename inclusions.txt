@@ -1738,3 +1738,9 @@
 ||ad.vk.com^
 ||api-metric.gosweb.gosuslugi.ru^
 ||stats.ds33.fr^
+||yagla.ru^
+||bonuscake.ru^
+||dspgate.ru^
+||eventtrace.ru^
+||rmetrics.ru^
+||adsmarketingweb*-pa.clients6.google.
