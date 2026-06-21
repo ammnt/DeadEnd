@@ -84963,6 +84963,7 @@
 ||clientzip.no-ip.org^
 ||client-analytics.braintreegateway.com^
 ||client-analytics.mts.ru^
+||client-analytics.vtb.tips^
 ||client-events-ingress.bookbub.com^
 ||client-events.bookbub.com^
 ||client-event-reporter.twitch.tv^
@@ -395476,6 +395477,7 @@
 ||tes.trdnewstory.link^
 ||tes.witprogram.xyz^
 ||tet2023.shop^
+||tet9kpgq.de^
 ||tetamuz.online^
 ||tetanus.tech^
 ||tetd.disapo.de^
