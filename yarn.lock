@@ -45,10 +45,10 @@
   resolved "https://registry.npmjs.org/@adguard/css-tokenizer/-/css-tokenizer-1.2.0.tgz"
   integrity sha512-cUj5j/AU5z/T4//5M6KnIJBpykAY4QbDsoiQ2DaWX/r2XkepMkTb8DhIbUHJD/QLGEyLeQLpi+nlxAgf4NTRRQ==
 
-"@adguard/diff-builder@1.1.4":
-  version "1.1.4"
-  resolved "https://registry.npmjs.org/@adguard/diff-builder/-/diff-builder-1.1.4.tgz"
-  integrity sha512-QccjhVenfU4rNA4NR8yxKi1BneZe7/Nc54CSA1FzURA4VrcpkqDhi/tfmqOkbzYwrcv1eRbRJBdYuYr+j90Qaw==
+"@adguard/diff-builder@1.1.4", "@adguard/diff-builder@1.1.6":
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/@adguard/diff-builder/-/diff-builder-1.1.6.tgz#37bdbb90782cd4c619c8f3c58f836fc25e04788b"
+  integrity sha512-9ofhpICkS54uFDxSFltkiOb+/nIxMrDcZMtuCtE5Zm/OKVdR/asq9WwxII8osEAh40tcOn0L2aWy9kw/A+Klvg==
   dependencies:
     commander "^11.1.0"
     crypto-js "^4.2.0"
