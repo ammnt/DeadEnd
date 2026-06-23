@@ -61,7 +61,6 @@
 /^([a-z0-9\-]+\.)?(localhost|localdomain|ip6-localhost)$/
 /^::1$/
 /^::$/
-@@||app.adjust.*^$important
 |events.data.microsoft.com^|
 ||0a0atz2sh.top^
 ||0a0d-d3l1vr.b-cdn.net^
@@ -320524,7 +320523,6 @@
 ||pstimes.com^
 ||pstlrxjdwo.com^
 ||pstmqnplyzqahq.com^
-||pstmrk.it^
 ||pstnmhftix.xyz^
 ||pstopman.duckdns.org^
 ||pstradingnyc.com^

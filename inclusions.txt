@@ -1410,7 +1410,6 @@
 ||hawk-tracker.ru^
 ||metogofour.com^
 ||pronsy.com^
-@@||app.adjust.*^$important
 ||analytics.freetubeapp.io^
 ||yandexmetrica.com^
 ||ssp.rutube.ru^

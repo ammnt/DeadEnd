@@ -735,3 +735,4 @@ register.appsflyersdk.com^
 ||xxxl-blog.com^
 ||xyz-tr.xyz^
 ||z-growninppcode.com^
+||pstmrk.it^
