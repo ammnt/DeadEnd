@@ -1,4 +1,4 @@
-! Last modified: 2026-06-25T16:09:44.905Z
+! Last modified: 2026-06-25T17:26:09.745Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -297163,8 +297163,8 @@
 ||oteclvhymr.com^
 ||otefauks.link^
 ||otekmnyfcv.com^
-||otel.gitkraken.com^
 ||otelhatemoglu.com^
+||otel.gitkraken.com^
 ||oteralabs.net^
 ||oterolucas.no-ip.biz^
 ||oteruiowert.ddns.net^
@@ -406371,9 +406371,9 @@
 ||tracking.iol.co.za^
 ||tracking.ipermission.net^
 ||tracking.ipermit.net^
-||tracking.isappcloud.com^
 ||tracking.iras.gov.sg^
 ||tracking.ird.govt.nz^
+||tracking.isappcloud.com^
 ||tracking.italiamobilesrl.it^
 ||tracking.ivoyageco.com^
 ||tracking.iwhop.cn^
