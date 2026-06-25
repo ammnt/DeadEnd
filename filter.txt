@@ -297163,6 +297163,7 @@
 ||oteclvhymr.com^
 ||otefauks.link^
 ||otekmnyfcv.com^
+||otel.gitkraken.com^
 ||otelhatemoglu.com^
 ||oteralabs.net^
 ||oterolucas.no-ip.biz^
@@ -406370,6 +406371,7 @@
 ||tracking.iol.co.za^
 ||tracking.ipermission.net^
 ||tracking.ipermit.net^
+||tracking.isappcloud.com^
 ||tracking.iras.gov.sg^
 ||tracking.ird.govt.nz^
 ||tracking.italiamobilesrl.it^
