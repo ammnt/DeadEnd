@@ -1745,3 +1745,9 @@
 ||adsmarketingweb*-pa.clients6.google.
 ||tet9kpgq.de^
 ||client-analytics.vtb.tips^
+||ads.honor.com^
+||tracking-data-*.platform.hihonorcloud.com^
+||cpitrack.melodong.com^
+||stat.vk.ru^
+||event-logger-bff.svc.reg.cloud^
+||log-*.platform.hihonorcloud.com^

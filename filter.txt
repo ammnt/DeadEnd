@@ -21050,6 +21050,7 @@
 ||ads.home.net^
 ||ads.home.vn^
 ||ads.honestpartners.com^
+||ads.honor.com^
 ||ads.hopla.to^
 ||ads.hornypharaoh.com^
 ||ads.horsehero.com^
@@ -94222,6 +94223,7 @@
 ||cpihrinfo.cpihr.com^
 ||cpiibb.top-office.com^
 ||cpiseamtape.com^
+||cpitrack.melodong.com^
 ||cpitraffic.com^
 ||cpiyz.com^
 ||cpi.nqproduct.com^
@@ -144902,6 +144904,7 @@
 ||event-dot-procolor-backend.appspot.com^
 ||event-hce-eu.fujifilm.com^
 ||event-listener.air.tv^
+||event-logger-bff.svc.reg.cloud^
 ||event-logger-bff.svc.reg.ru^
 ||event-logger.tagboard.com.herokudns.com^
 ||event-logger.tagboard.com^
@@ -244782,6 +244785,7 @@
 ||log-video.baotintuc.vn^
 ||log-vietnamplus-vn.cdn.ampproject.org^
 ||log-*.epicdn.me^
+||log-*.platform.hihonorcloud.com^
 ||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||log.1vn.app^
@@ -381727,6 +381731,7 @@
 ||stat.valica.it^
 ||stat.vidcore.tv^
 ||stat.vimedbarn.se^
+||stat.vk.ru^
 ||stat.vocus.com^
 ||stat.vto.jewelry^
 ||stat.v.baidu.com^
@@ -405748,6 +405753,7 @@
 ||tracking-capitalbank-jo-877029.p06.elqsandbox.com^
 ||tracking-comm.swiggy.com^
 ||tracking-config-service.glority.com^
+||tracking-data-*.platform.hihonorcloud.com^
 ||tracking-dhl.de239506.laforma.co.za^
 ||tracking-dpd-polska.ddns.mobi^
 ||tracking-driver.staging.goshare.co^
