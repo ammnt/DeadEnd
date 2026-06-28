@@ -1753,3 +1753,5 @@
 ||log-*.platform.hihonorcloud.com^
 ||tracking.isappcloud.com^
 ||otel.gitkraken.com^
+||fmsnsr.xyz^
+||televisor.tlgrm.dev^

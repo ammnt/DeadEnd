@@ -155610,6 +155610,7 @@
 ||fmsdpzg.org^
 ||fmsjh.sugarmedical.com^
 ||fmskcm.maswwo.xyz^
+||fmsnsr.xyz^
 ||fmsrvcs.net^
 ||fmssly.pets4homes.co.uk^
 ||fmstigat.online^
@@ -394171,6 +394172,7 @@
 ||televisions2compare.com^
 ||television.searchwho.com^
 ||televison7.no-ip.info^
+||televisor.tlgrm.dev^
 ||televiziaslovan.world^
 ||televizia.store^
 ||televon.co^
