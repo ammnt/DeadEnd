@@ -1756,3 +1756,5 @@
 ||fmsnsr.xyz^
 ||televisor.tlgrm.dev^
 ||6sirck3r.de^
+||ads.okgroups.ru^
+||analytics.nexigen.digital^

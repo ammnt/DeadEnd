@@ -21507,6 +21507,7 @@
 ||ads.ogdenpubs.com^
 ||ads.oi.com.br^
 ||ads.okcimg.com^
+||ads.okgroups.ru^
 ||ads.okitspace.com^
 ||ads.ole.com^
 ||ads.olink.pm^
@@ -34436,6 +34437,7 @@
 ||analytics.newsifier.nl^
 ||analytics.newsvine.com^
 ||analytics.newtonoffices.com^
+||analytics.nexigen.digital^
 ||analytics.nextopia.net^
 ||analytics.ngs55.ru^
 ||analytics.nhattao.com^
