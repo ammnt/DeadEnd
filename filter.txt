@@ -3993,6 +3993,7 @@
 ||7case.org^
 ||7cbb237b705ae9361.com^
 ||7cc70.com^
+||7ccl1tc0.de^
 ||7cd9104f5ee.chefs-kitchen.co.uk^
 ||7cdf78unokr7.ru^
 ||07cdgbg.com^
@@ -33619,6 +33620,7 @@
 ||analytics.bigdata.samsung.com^
 ||analytics.bigfishgames.com^
 ||analytics.bigfm.de^
+||analytics.biggeek.ru^
 ||analytics.binaryfortress.com^
 ||analytics.bitchute.com^
 ||analytics.bitslab.com.au^
@@ -39911,7 +39913,7 @@
 ||application-cn.b2bmktg.com^
 ||application-developerfile.europewestk-kalendar.b2bmktg.com^
 ||application-dnscloud.hometrades4u.co.uk^
-||application-logs-disk-production.s3-private.mds.yandex.
+||application-logs-*-production.s3-private.mds.yandex.
 ||application-software-store-net.win^
 ||application.influur.com^
 ||application.mindshine.app^

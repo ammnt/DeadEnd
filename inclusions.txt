@@ -1724,7 +1724,7 @@
 ||trace-flow.ru^
 ||*-metrics.5horizons.net^
 ||analytics.guangdiankeji.com^
-||application-logs-disk-production.s3-private.mds.yandex.
+||application-logs-*-production.s3-private.mds.yandex.
 ||stat.tld-box.at^
 ||stat.nic.at^
 ||224oai83p.de^
@@ -1758,3 +1758,5 @@
 ||6sirck3r.de^
 ||ads.okgroups.ru^
 ||analytics.nexigen.digital^
+||analytics.biggeek.ru^
+||7ccl1tc0.de^
