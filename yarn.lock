@@ -60,10 +60,10 @@
   dependencies:
     css-tree "^2.3.1"
 
-"@adguard/filters-downloader@2.4.4", "@adguard/filters-downloader@^2.3.1":
-  version "2.4.4"
-  resolved "https://registry.yarnpkg.com/@adguard/filters-downloader/-/filters-downloader-2.4.4.tgz#5813f8eb47a225491f57663004eb2727842d4b92"
-  integrity sha512-fW1aH8nFHM17OO+TfTtOG5ioMq0JX5KbdB03Pvynx3Rw1b9f4Y5sdg0mjGciLbtu+2amUOXAJ0qN4l4U/ktCvw==
+"@adguard/filters-downloader@2.4.5", "@adguard/filters-downloader@^2.3.1":
+  version "2.4.5"
+  resolved "https://registry.yarnpkg.com/@adguard/filters-downloader/-/filters-downloader-2.4.5.tgz#4b05964f2d33397abfdde99d8176790560bd33cb"
+  integrity sha512-+zCeqFfcNGTUKU9KzHIe+Rr/OHjlLzLgV8ZMpbQEyu42LdibrzhEVkyQ1VLAGT9r2VG4nLCjp2NLB8TWPx/H7Q==
   dependencies:
     "@adguard/diff-builder" "1.1.4"
     axios "1.15.0"
