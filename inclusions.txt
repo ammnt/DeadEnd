@@ -1761,3 +1761,6 @@
 ||analytics.biggeek.ru^
 ||7ccl1tc0.de^
 ||ngcj589s.de^
+||ads.vk.ru^
+||events.maps.vk.ru^
+||ad.vk.ru^

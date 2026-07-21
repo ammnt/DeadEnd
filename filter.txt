@@ -22095,6 +22095,7 @@
 ||ads.vkool.info^
 ||ads.vkushti.tv^
 ||ads.vk.com^
+||ads.vk.ru^
 ||ads.vlr.vn^
 ||ads.vnhell.com^
 ||ads.vnumedia.com^
@@ -24449,6 +24450,7 @@
 ||ad.vkoolzzz.net^
 ||ad.vkool.net^
 ||ad.vk.com^
+||ad.vk.ru^
 ||ad.vol.at^
 ||ad.vonna.com^
 ||ad.vo-media.ru^
@@ -144790,6 +144792,7 @@
 ||events.mapbox.com^
 ||events.maps.mail.ru^
 ||events.maps.vk.com^
+||events.maps.vk.ru^
 ||events.marquee-cdn.net^
 ||events.matterport.com^
 ||events.mbrl.ae^
