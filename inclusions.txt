@@ -1764,3 +1764,5 @@
 ||ads.vk.ru^
 ||events.maps.vk.ru^
 ||ad.vk.ru^
+||stats.isorf.ru^
+||stats.biggeek.ru^
