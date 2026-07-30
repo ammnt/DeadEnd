@@ -1,4 +1,4 @@
-! Last modified: 2026-07-29T06:36:08.316Z
+! Last modified: 2026-07-30T17:26:23.212Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -7692,6 +7692,7 @@
 ||266.in^
 ||268efb.com^
 ||268stephe5en3king.com^
+||269sj7k62.de^
 ||273o4d5660.wicp.vip^
 ||273.in-group.xyz^
 ||274a717d311ac90f.com^
@@ -9031,7 +9032,6 @@
 ||2680.wf^
 ||2683.wf^
 ||2694f0eeb6.com^
-||269sj7k62.de^
 ||2712f45c0bb0d67d710.com^
 ||2726fecdfde157bdcd.com^
 ||2762.ddns.net^
