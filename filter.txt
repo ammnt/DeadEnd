@@ -1804,6 +1804,7 @@
 ||2mpekrveulopj9y.rest^
 ||2n0abuse.xyz^
 ||2n007.no-ip.info^
+||2n1302asc.de^
 ||2ndchancefoods.com^
 ||2ndp1hpa3meaquv-p.adktrack82.xyz^
 ||2ndpartyaudits.com^
@@ -380226,6 +380227,7 @@
 ||stats.forensicanalytical.com^
 ||stats.forest-school.am^
 ||stats.foxyapps.co^
+||stats.framasoft.org^
 ||stats.frankfurterneuepresse.de^
 ||stats.franklincovey.com^
 ||stats.frantic.im^
