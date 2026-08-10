@@ -1,4 +1,4 @@
-! Last modified: 2026-08-09T05:10:57.114Z
+! Last modified: 2026-08-10T17:43:46.843Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -1897,9 +1897,9 @@
 ||2rush.net^
 ||2ryan12345.no-ip.biz^
 ||2s2enegt0.de^
-||2s97637r6.de^
 ||2s02keqc1.com^
 ||2s11.com^
+||2s97637r6.de^
 ||2sajitsolu.com^
 ||2satz.no-ip.org^
 ||2sdbfjsdf2322.monster^
@@ -118189,8 +118189,8 @@
 ||dm530px.com^
 ||dm568354.xyz^
 ||dmabpmokxcgm.com^
-||dmads.dailymotion.com^
 ||dmadehimalowb.com^
+||dmads.dailymotion.com^
 ||dmajmrejzqhsb.space^
 ||dmakingbyth.com^
 ||dman20.duckdns.org^
