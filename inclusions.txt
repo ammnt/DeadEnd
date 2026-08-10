@@ -1771,3 +1771,7 @@
 ||29h5njkcr.de^
 ||stats.framasoft.org^
 ||2n1302asc.de^
+||bid-analytics.bidtune.workers.dev^
+||dmads.dailymotion.com^
+||2s97637r6.de^
+||2qofnotid.de^

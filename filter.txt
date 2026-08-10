@@ -1871,6 +1871,7 @@
 ||2qh27f5ukxvxiexk6zev.cfd^
 ||2qj7mq3w4uxe.com^
 ||2qny57hvbzze2b77r6mhr2wrqefnkpvy.cyou^
+||2qofnotid.de^
 ||2quality.de^
 ||2qzmd9ycwbcx8ti-p.adkoffer.fr^
 ||2q.news-subscribe.com^
@@ -1896,6 +1897,7 @@
 ||2rush.net^
 ||2ryan12345.no-ip.biz^
 ||2s2enegt0.de^
+||2s97637r6.de^
 ||2s02keqc1.com^
 ||2s11.com^
 ||2sajitsolu.com^
@@ -58744,6 +58746,7 @@
 ||bidv-transfermoney.weebly.com^
 ||bidzzbjzx.com^
 ||bid-algorix.com^
+||bid-analytics.bidtune.workers.dev^
 ||bid.adx.yumimobi.com^
 ||bid.axiatraders.com^
 ||bid.essens.no^
@@ -118186,6 +118189,7 @@
 ||dm530px.com^
 ||dm568354.xyz^
 ||dmabpmokxcgm.com^
+||dmads.dailymotion.com^
 ||dmadehimalowb.com^
 ||dmajmrejzqhsb.space^
 ||dmakingbyth.com^
