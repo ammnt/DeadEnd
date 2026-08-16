@@ -1,4 +1,4 @@
-! Last modified: 2026-08-15T04:36:26.775Z
+! Last modified: 2026-08-16T20:39:43.508Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -424096,9 +424096,9 @@
 ||user-clicks.com^
 ||user-data.tfgapps.com^
 ||user-daum-center.pe.hu^
+||user-events-notifier.dns-shop.ru^
 ||user-event-log.aminer.cn^
 ||user-event-tracker-prod.us-east-1.elasticbeanstalk.com^
-||user-events-notifier.dns-shop.ru^
 ||user-experience.space^
 ||user-grey.com^
 ||user-id1070.pro^
