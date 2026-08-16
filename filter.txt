@@ -1878,6 +1878,7 @@
 ||2q.poland-invest.fun^
 ||2r1jqii2c.com^
 ||2r3dz80.no-ip.biz^
+||2r3gman34.de^
 ||2r69dkb1a.com^
 ||2raja147.no-ip.biz^
 ||2randomrat.no-ip.org^
@@ -144617,6 +144618,7 @@
 ||eventlog.inspsearchapi.com^
 ||eventlog.inspsearch.com^
 ||eventlog.jackpot.de^
+||eventlog.setka.ru^
 ||eventlog.willow.tv^
 ||eventlqvn.com^
 ||eventoptimize.com^
@@ -144925,6 +144927,7 @@
 ||event-logger.tagboard.com.herokudns.com^
 ||event-logger.tagboard.com^
 ||event-portal.dailyinnovation.biz^
+||event-relay.yoomoney.ru^
 ||event-reporting-dot-webylytics.appspot.com^
 ||event-resources.pathable.com^
 ||event-router.chime.com^
@@ -424095,6 +424098,7 @@
 ||user-daum-center.pe.hu^
 ||user-event-log.aminer.cn^
 ||user-event-tracker-prod.us-east-1.elasticbeanstalk.com^
+||user-events-notifier.dns-shop.ru^
 ||user-experience.space^
 ||user-grey.com^
 ||user-id1070.pro^

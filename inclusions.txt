@@ -1775,3 +1775,7 @@
 ||dmads.dailymotion.com^
 ||2s97637r6.de^
 ||2qofnotid.de^
+||2r3gman34.de^
+||eventlog.setka.ru^
+||event-relay.yoomoney.ru^
+||user-events-notifier.dns-shop.ru^
