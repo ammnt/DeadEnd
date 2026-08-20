@@ -1754,6 +1754,7 @@
 ||2kmovie.org^
 ||2kn40j226.de^
 ||2kusdasd12.monster^
+||2l6ddsmnm.de^
 ||2ld8mx979a.com^
 ||2learnmoreinenglish.ca^
 ||2lebkuchen.no-ip.org^
@@ -381511,6 +381512,7 @@
 ||stat.alibaba.com^
 ||stat.alltforforaldrar.se^
 ||stat.altalex.com^
+||stat.amediateka.ru^
 ||stat.api.2gis.ru^
 ||stat.aporntv.com^
 ||stat.aport.ru^

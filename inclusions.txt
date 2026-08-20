@@ -1779,3 +1779,5 @@
 ||eventlog.setka.ru^
 ||event-relay.yoomoney.ru^
 ||user-events-notifier.dns-shop.ru^
+||2l6ddsmnm.de^
+||stat.amediateka.ru^
