@@ -20181,6 +20181,7 @@
 ||ads-live-lbs-1947742752.us-west-1.elb.amazonaws.com^
 ||ads-live.cmgdigital.com^
 ||ads-lot.ru^
+||ads-m.rustore.ru^
 ||ads-mall.com^
 ||ads-management.su^
 ||ads-marketing-vivofs.vivo.com.cn^
@@ -379690,6 +379691,7 @@
 ||stats-collector.org^
 ||stats-connect.comet.it^
 ||stats-dc1.frz.io^
+||stats-dg.rustore.ru^
 ||stats-ec2-46-137-101-227.layar.com^
 ||stats-factory.digitregroup.io^
 ||stats-ge.myer.com.au^

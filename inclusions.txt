@@ -1781,3 +1781,5 @@
 ||user-events-notifier.dns-shop.ru^
 ||2l6ddsmnm.de^
 ||stat.amediateka.ru^
+||ads-m.rustore.ru^
+||stats-dg.rustore.ru^
