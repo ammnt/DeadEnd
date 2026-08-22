@@ -84,6 +84,21 @@
     tldts "7.0.28"
     yargs "^15.3.0"
 
+"@adguard/hostlist-compiler@2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@adguard/hostlist-compiler/-/hostlist-compiler-2.1.1.tgz#fd7713a621975d2879d0b208d692e95b739189ac"
+  integrity sha512-d+4zFsYFOttaRvze6hhMcCyTRQ7mXGkJIQhth+ZQIiyLajtbNi2ND6ygc8C7gpxqOBDjZbfLA8Gkp1bI5POVzA==
+  dependencies:
+    "@adguard/filters-downloader" "^2.3.1"
+    ajv "^6.12.0"
+    ajv-errors "^1.0.1"
+    axios "^1.15.0"
+    better-ajv-errors "^0.6.7"
+    consola "^2.11.3"
+    lodash "^4.17.15"
+    tldts "7.0.28"
+    yargs "^15.3.0"
+
 "@babel/code-frame@^7.0.0":
   version "7.29.0"
   resolved "https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.29.0.tgz"

@@ -1,4 +1,4 @@
-! Last modified: 2026-08-21T04:43:26.792Z
+! Last modified: 2026-08-22T16:10:11.105Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -20181,13 +20181,13 @@
 ||ads-live-lbs-1947742752.us-west-1.elb.amazonaws.com^
 ||ads-live.cmgdigital.com^
 ||ads-lot.ru^
-||ads-m.rustore.ru^
 ||ads-mall.com^
 ||ads-management.su^
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-matresh.ru^
 ||ads-media.gameforge.com^
 ||ads-media.wildberries.ru^
+||ads-m.rustore.ru^
 ||ads-partners.coupang.com^
 ||ads-pixiv.net^
 ||ads-platform.zalo.me^
