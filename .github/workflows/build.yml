@@ -22,7 +22,7 @@ jobs:
       - name: Install NodeJS🧱
         uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020
         with:
-          node-version: latest
+          node-version: 22
           check-latest: true
           cache: "npm"
 
