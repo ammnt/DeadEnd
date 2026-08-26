@@ -1783,3 +1783,7 @@
 ||stat.amediateka.ru^
 ||ads-m.rustore.ru^
 ||stats-dg.rustore.ru^
+||wildtracker.wb.ru^
+||*.metric.gstatic.com^
+||203p7gmp4.de^
+||26sgmin39.de^
