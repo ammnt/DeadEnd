@@ -1,4 +1,4 @@
-! Last modified: 2026-08-25T04:43:33.062Z
+! Last modified: 2026-08-26T18:15:17.507Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -5729,6 +5729,7 @@
 ||26l.no-ip.info^
 ||26odinxqwefck26.bounceme.net^
 ||26q4nn691.de^
+||26sgmin39.de^
 ||26.tf^
 ||27ad1c51a5.1aa3097b7b.com^
 ||27bbww9uwoeczvptw.cfd^
@@ -7699,7 +7700,6 @@
 ||268efb.com^
 ||268stephe5en3king.com^
 ||269sj7k62.de^
-||26sgmin39.de^
 ||273o4d5660.wicp.vip^
 ||273.in-group.xyz^
 ||274a717d311ac90f.com^
