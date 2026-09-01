@@ -9,7 +9,7 @@
     "build": "hostlist-compiler -c configuration.json -o filter.txt"
   },
   "dependencies": {
-    "@adguard/hostlist-compiler": "2.1.0"
+    "@adguard/hostlist-compiler": "2.1.1"
   },
   "resolutions": {
     "@adguard/hostlist-compiler": "2.1.1",
