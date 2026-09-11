@@ -1132,7 +1132,6 @@
 ||googietagmanager.com^
 ||sberlead.ru^
 ||li.protechts.net^
-||partnerboost.com^
 ||events.maps.vk.com^
 ||mascooper.com^
 ||sgtm.kaspersky.
@@ -1787,3 +1786,5 @@
 ||*.metric.gstatic.com^
 ||203p7gmp4.de^
 ||26sgmin39.de^
+||dmpkit.lemanapro.ru^
+||aclpro.ru^

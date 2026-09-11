@@ -15414,6 +15414,7 @@
 ||aclomxokn.com^
 ||acloudimages.com^
 ||acloudvideos.com^
+||aclpro.ru^
 ||aclpumps.com^
 ||aclsqdpgeaik.com^
 ||aclwlkyzxxhn.com^
@@ -118357,6 +118358,7 @@
 ||dmpequine-ins.com^
 ||dmpgfbkxa.xyz^
 ||dmphcubeiux.com^
+||dmpkit.lemanapro.ru^
 ||dmpkit.leroymerlin.ru^
 ||dmpoz6fc4vlq5.cloudfront.net^
 ||dmpprof.com^
@@ -303290,7 +303292,6 @@
 ||partnerapp.urbanclap.com^
 ||partnerbcgame.com^
 ||partnerbitinternet.pro^
-||partnerboost.com^
 ||partnercash.com^
 ||partnercash.de^
 ||partnerco.net^
@@ -364068,7 +364069,6 @@
 ||smartpassage.com^
 ||smartpicrotation.com^
 ||smartpixnews.mystrikingly.com^
-||smartplacement.io^
 ||smartplay777.com^
 ||smartpossolutions.online^
 ||smartprofit-online.com^
@@ -404253,7 +404253,6 @@
 ||totalab.online^
 ||totalab.xyz^
 ||totalactualnewz.com^
-||totaladblock.com^
 ||totaladperformance.com^
 ||totalav.com^
 ||totalbeautysupplyco.com^

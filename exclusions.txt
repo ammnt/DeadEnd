@@ -736,3 +736,6 @@ register.appsflyersdk.com^
 ||xyz-tr.xyz^
 ||z-growninppcode.com^
 ||pstmrk.it^
+||smartplacement.io^
+||totaladblock.com^
+||partnerboost.com^
