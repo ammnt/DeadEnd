@@ -311305,6 +311305,7 @@
 ||plausibledrifthunger.com^
 ||plausibleio.workers.dev^
 ||plausiblemarijuana.com^
+||plausible-analytics.kooltechtricks.org^
 ||plausible-stats.tangodelta.media^
 ||plausible.adreform.com^
 ||plausible.affluentjay.com^
@@ -356414,6 +356415,7 @@
 ||sgtm.bastl-instruments.com^
 ||sgtm.batteriesplus.com^
 ||sgtm.bazilstore.com^
+||sgtm.beget.com^
 ||sgtm.betgorillas.bet.br^
 ||sgtm.bijubox.ro^
 ||sgtm.biocostellazioni.com^
@@ -375298,6 +375300,7 @@
 ||ssgtm.digiexpert.fr^
 ||ssgtm.dorko.hu^
 ||ssgtm.eznamka24.sk^
+||ssgtm.infineon.com^
 ||ssgtm.kichlerlightinglights.com^
 ||ssgtm.lifsonlinen.co.za^
 ||ssgtm.lightingnewyork.com^
@@ -380128,6 +380131,7 @@
 ||stats.dt-esthetique.ch^
 ||stats.duetcode.io^
 ||stats.dupress.com^
+||stats.dzen.ru^
 ||stats.dziennik.pl^
 ||stats.earlygame.com^
 ||stats.ebay.com^
@@ -380260,6 +380264,7 @@
 ||stats.galleriacortona.com^
 ||stats.gamestop.com^
 ||stats.gammacash.com^
+||stats.gastronom.ru^
 ||stats.gbc.uk^
 ||stats.gbvanalytics.com^
 ||stats.gcp.smartmailcloud.com^

@@ -1788,3 +1788,8 @@
 ||26sgmin39.de^
 ||dmpkit.lemanapro.ru^
 ||aclpro.ru^
+||stats.dzen.ru^
+||stats.gastronom.ru^
+||plausible-analytics.kooltechtricks.org^
+||ssgtm.infineon.com^
+||sgtm.beget.com^
