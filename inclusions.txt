@@ -1793,3 +1793,4 @@
 ||plausible-analytics.kooltechtricks.org^
 ||ssgtm.infineon.com^
 ||sgtm.beget.com^
+||log-stream.mvideo.ru^

@@ -244798,6 +244798,7 @@
 ||log-sdk.shopfully.tech^
 ||log-sg.capcutapi.com^
 ||log-stats.weathercn.com^
+||log-stream.mvideo.ru^
 ||log-tamnhin.kienthuc.net.vn^
 ||log-tb.sgsnssdk.com^
 ||log-upload-eur.mihoyo.com^
