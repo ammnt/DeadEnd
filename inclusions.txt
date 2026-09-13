@@ -1794,3 +1794,6 @@
 ||ssgtm.infineon.com^
 ||sgtm.beget.com^
 ||log-stream.mvideo.ru^
+||adspend.space^
+||pxl.webarchivator.com^
+||adspend.ru^

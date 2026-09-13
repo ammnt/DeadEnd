@@ -19843,6 +19843,8 @@
 ||adspector.io^
 ||adspeed.com^
 ||adspeed.net^
+||adspend.ru^
+||adspend.space^
 ||adspending01.bwnet.com.tw^
 ||adsperf.com^
 ||adspersonalagency.com^
@@ -323447,6 +323449,7 @@
 ||pxl.mirdigital.pro^
 ||pxl.reklamselfie.com^
 ||pxl.retaku.net^
+||pxl.webarchivator.com^
 ||pxl.yoomoney.ru^
 ||pxl.zapr.in^
 ||pxl.*.altkraft.com^
