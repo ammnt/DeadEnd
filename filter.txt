@@ -1,4 +1,4 @@
-! Last modified: 2026-09-13T09:19:00.179Z
+! Last modified: 2026-09-14T09:18:10.890Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -19843,9 +19843,9 @@
 ||adspector.io^
 ||adspeed.com^
 ||adspeed.net^
+||adspending01.bwnet.com.tw^
 ||adspend.ru^
 ||adspend.space^
-||adspending01.bwnet.com.tw^
 ||adsperf.com^
 ||adspersonalagency.com^
 ||adsphinx.com^
@@ -388587,7 +388587,6 @@
 ||sync-unosync-com.geodns.me^
 ||sync.3fmediagroup.com^
 ||sync.3g.qq.com^
-||sync.adspend.space^
 ||sync.apesvr.com^
 ||sync.appchecks.rr.nu^
 ||sync.app.asana.com^
