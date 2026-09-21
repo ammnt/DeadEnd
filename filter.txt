@@ -5257,6 +5257,7 @@
 ||12lian.no-ip.org^
 ||12licai.com^
 ||12lordfilm-0.xyz^
+||12lpfl5c.de^
 ||12mnkys.com^
 ||12np.tlnk.io^
 ||12oa.no-ip.biz^
@@ -13072,6 +13073,7 @@
 ||aamylisxvbmmvd.com^
 ||aam.gumtree.com.au^
 ||aam.tidesoftware.pl^
+||aan8bq.ru^
 ||aan9.2568781.com^
 ||aan2016.org^
 ||aanalytics.adelaide.edu.au^
