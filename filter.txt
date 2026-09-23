@@ -34475,6 +34475,7 @@
 ||analytics.nordea.
 ||analytics.norge.no^
 ||analytics.northernnewengland.aaa.com^
+||analytics.noted.lol^
 ||analytics.novamobili.it^
 ||analytics.nova.foxsports.com^
 ||analytics.nowresorts.com^
@@ -344347,6 +344348,7 @@
 ||s1vesta.com^
 ||s1-adfly.com^
 ||s01.bestsecret.com^
+||s1.bss.2gis.com^
 ||s1.carnext.com^
 ||s1.datasein.de^
 ||s1.download123.com^
