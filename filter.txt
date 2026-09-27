@@ -197460,6 +197460,7 @@
 ||html5adkit.plusmo.s3.amazonaws.com^
 ||html5nanovisor.
 ||html5nano-visor.
+||html5-ads.vk-apps.com^
 ||html5-templates.org^
 ||html5.gamemonetize.com^
 ||htmlads.s3.amazonaws.com^
@@ -306942,6 +306943,7 @@
 ||perkyexcitedlyscenario.com^
 ||perkyjade.com^
 ||perky-method.com^
+||perl-ads.perlhacks.com^
 ||perlaart.net^
 ||perldevs.com^
 ||perlepiete.com^
