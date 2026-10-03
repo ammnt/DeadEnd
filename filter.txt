@@ -33598,6 +33598,7 @@
 ||analytics.audioeye.com^
 ||analytics.audionow.de^
 ||analytics.australia.gov.au^
+||analytics.authoritymedia.com^
 ||analytics.autodesk.com^
 ||analytics.autoeauto.it^
 ||analytics.autozone.com^
@@ -142437,6 +142438,7 @@
 ||errorssmoked.com^
 ||errors-analyses.ddns.net^
 ||errors-analyse.ddns.net^
+||errors.coub.com^
 ||errors.house^
 ||errors.katemobile.ru^
 ||errors.perfectgonzo.com^

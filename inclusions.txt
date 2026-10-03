@@ -1804,3 +1804,5 @@
 ||4o0pnb06.de^
 ||html5-ads.vk-apps.com^
 ||perl-ads.perlhacks.com^
+||analytics.authoritymedia.com^
+||errors.coub.com^
