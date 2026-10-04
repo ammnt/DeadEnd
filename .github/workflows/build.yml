@@ -47,12 +47,14 @@ jobs:
 
       - name: Install and run Dead Domains Linter🔎
         run: |
+          set -euo pipefail
           npm i -g @adguard/dead-domains-linter
           npm update -g @adguard/dead-domains-linter
           dead-domains-linter -i inclusions.txt --show --dnscheck=false
 
       - name: Install and run AGLint tool🔎
         run: |
+          set -euo pipefail
           yarn add -D @adguard/aglint
           npx aglint ./inclusions.txt
           npx aglint ./filter.txt
@@ -61,12 +63,14 @@ jobs:
         env:
           CI: true
         run: |
+          set -euo pipefail
           yarn install --check-files --force
           yarn run build
 
       - name: Push the filter to repo✅
         if: ${{ github.event_name != 'pull_request' }}
         run: |
+          set -euo pipefail
           git config --global user.name "ammnt"
           git config --global user.email "happyzomb@ya.ru"
           echo "${{ secrets.GPG_PRIVATE_KEY }}" | base64 --decode | gpg --import --batch --yes
