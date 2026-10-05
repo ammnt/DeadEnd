@@ -1806,3 +1806,13 @@
 ||perl-ads.perlhacks.com^
 ||analytics.authoritymedia.com^
 ||errors.coub.com^
+||pixel.statsfilm.com^
+||15s4p4nth.de^
+||12aerhg6f.de^
+||adsapi.daily.dev^
+||spe79o5b.de^
+||pdngiqmg.de^
+||j31k5llk.de^
+||armf7m02.de^
+||6hk7950r.de^
+||track.firstdata.io^
