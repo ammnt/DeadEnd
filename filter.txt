@@ -619,6 +619,7 @@
 ||1d0a4a935b.com^
 ||1d3c8a1eaa.faeaeeaafa.com^
 ||1d4rkb1t.no-ip.biz^
+||1d8gt749e.de^
 ||1d9f0a85.ngrok.io^
 ||1d36ac18b1.5424351d90.com^
 ||1d36f919d8.1be795e9c2.com^
@@ -5419,6 +5420,7 @@
 ||19departed.daglarho.ru^
 ||19ff07afa33.bakerstreet.uk.com^
 ||19h52e.mszuyu.com^
+||19hmm4naa.de^
 ||19lou.org^
 ||19o8hzj117.com^
 ||19rs.myvnc.com^
