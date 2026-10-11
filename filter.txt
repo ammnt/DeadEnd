@@ -978,6 +978,7 @@
 ||1o3.yyoqt.com^
 ||1o5.no-ip.info^
 ||1o0086.freeddns.com^
+||1oasfoe92.de^
 ||1od1.store^
 ||1odi7j43c.de^
 ||01odinxqwefck01.ddns.net^
@@ -1065,6 +1066,7 @@
 ||1rhp.info^
 ||1routerlogin.net^
 ||1rt0n.news^
+||1rt914n7e.de^
 ||1rtlfor.info^
 ||1rtl.info^
 ||1rwa5e8a6.com^
