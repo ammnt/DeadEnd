@@ -1,4 +1,4 @@
-! Last modified: 2026-10-14T09:04:51.520Z
+! Last modified: 2026-10-15T08:38:13.733Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -9063,6 +9063,7 @@
 ||2838a86e6c.com^
 ||2855.wf^
 ||2857.yt^
+||2871smfsr.de^
 ||2888ky.app^
 ||2888ky.vip^
 ||2911solutions.com^
@@ -11560,7 +11561,6 @@
 ||2397623946.no-ip.biz^
 ||2468193450.ac83ccdb8f.com^
 ||002649297982.no-ip.org^
-||2871smfsr.de^
 ||2878644238.com^
 ||2945409702.no-ip.info^
 ||3123456789.no-ip.biz^
