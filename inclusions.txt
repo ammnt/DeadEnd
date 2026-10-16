@@ -1823,3 +1823,6 @@
 ||event-tracker.dion.vc^
 ||s-stats-platform-cdn.op.gg^
 ||2871smfsr.de^
+||2bbj58ns2.de^
+||clickbeat.sberdevices.ru^
+||2eb4a95jq.de^

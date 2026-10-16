@@ -1492,6 +1492,7 @@
 ||2bb46cc5f3f8477bbfd6b175a4d6f30e.sound.ag^
 ||2bbb379103988619ef.com^
 ||2bbf510e119760654.temporary.link^
+||2bbj58ns2.de^
 ||2bc3c5e4642.chefs-kitchen.co.uk^
 ||2bc533c900.com^
 ||2bd77addac.com^
@@ -1609,6 +1610,7 @@
 ||2e953787-0545-4cd6-a816-53fdbf2f99c9.random.sound.ag^
 ||02e1861931.35e5a40cf1.com^
 ||2e4388155bdfcb54b0640e5f5fe58061.ntzlo.pl^
+||2eb4a95jq.de^
 ||2eb90a649a.963885aed1.com^
 ||02eb393f536.chefs-kitchen.co.uk^
 ||2edef809.xyz^
@@ -82371,6 +82373,7 @@
 ||clickbank.
 ||clickbaza.com^
 ||clickbazzbd.com^
+||clickbeat.sberdevices.ru^
 ||clickbet88.com^
 ||clickbigo.com^
 ||clickblitzo.com^
