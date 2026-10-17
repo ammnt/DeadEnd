@@ -1681,6 +1681,7 @@
 ||2gwasbox.no-ip.biz^
 ||2gwzdkjrtb.ru^
 ||2h4els889.com^
+||2h4tnee9l.de^
 ||2h6skj2da.de^
 ||2habboretrohotel.no-ip.biz^
 ||2hackerwest1.no-ip.biz^
@@ -183294,6 +183295,7 @@
 ||gtm.googlecaches.com^
 ||gtm.gorocky.ph^
 ||gtm.gorunningtours.com^
+||gtm.gorzdrav.org^
 ||gtm.gradguard.com^
 ||gtm.gragroam.com.br^
 ||gtm.graziellyxavier.com.br^
@@ -369867,6 +369869,7 @@
 ||sntoop.ddns.net^
 ||sntr.avito.ru^
 ||sntr.lifehacker.ru^
+||sntrm.tass.ru^
 ||snuaphwdaij.com^
 ||snubsfilo.space^
 ||snuea.coopsleepgoods.com^
@@ -375678,6 +375681,7 @@
 ||ssp.rutube.ru^
 ||ssp.sellads.me^
 ||ssp.seznam.cz^
+||ssp.wink.ru^
 ||ssp.yahoo.com^
 ||ssp.ynxs.io^
 ||ssp.zf313.com^
