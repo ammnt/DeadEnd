@@ -1,4 +1,4 @@
-! Last modified: 2026-10-17T08:05:44.651Z
+! Last modified: 2026-10-18T08:22:33.412Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -369867,9 +369867,9 @@
 ||snterkslvwvaj.top^
 ||sntjim.com^
 ||sntoop.ddns.net^
+||sntrm.tass.ru^
 ||sntr.avito.ru^
 ||sntr.lifehacker.ru^
-||sntrm.tass.ru^
 ||snuaphwdaij.com^
 ||snubsfilo.space^
 ||snuea.coopsleepgoods.com^
