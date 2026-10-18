@@ -1821,7 +1821,6 @@
 ||1oasfoe92.de^
 ||1rt914n7e.de^
 ||event-tracker.dion.vc^
-||s-stats-platform-cdn.op.gg^
 ||2871smfsr.de^
 ||2bbj58ns2.de^
 ||clickbeat.sberdevices.ru^
@@ -1830,3 +1829,4 @@
 ||gtm.gorzdrav.org^
 ||ssp.wink.ru^
 ||sntrm.tass.ru^
+||dmp.programmatic.ru^

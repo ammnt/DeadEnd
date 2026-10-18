@@ -118396,6 +118396,7 @@
 ||dmp.mall.tv^
 ||dmp.omnichannel.ru^
 ||dmp.one^
+||dmp.programmatic.ru^
 ||dmp.rtbsrv.com^
 ||dmp.starbolt.io^
 ||dmp.wi-fi.ru^
@@ -389264,7 +389265,6 @@
 ||s-reporting.com^
 ||s-sccmdp-cloud01.loandepot.com^
 ||s-sitecatalyst.work.shiseido.co.jp^
-||s-stats-platform-cdn.op.gg^
 ||s-steal.kl.com.ua^
 ||s-s-enterprise.co.in^
 ||s-s.goo.gl.prx.proxywebsite.co.uk^
