@@ -17,6 +17,7 @@
     "@adguard/diff-builder": "1.1.9",
     "jsonpointer": "5.0.0",
     "axios": "1.20.0",
-    "js-yaml": "4.3.2"
+    "js-yaml": "4.3.2",
+    "follow-redirects": "1.16.1"
   }
 }
