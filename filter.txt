@@ -1928,6 +1928,7 @@
 ||2sto.online^
 ||2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud^
 ||002sv.ddns.net^
+||2t1c1ad7d.de^
 ||2t4f7g9a.de^
 ||2ta5l5rc0.de^
 ||2taa9ib4ib.com^
@@ -444530,6 +444531,7 @@
 ||webanalytics.astrogaming.com^
 ||webanalytics.biomerieux.com^
 ||webanalytics.btelligent.net^
+||webanalytics.cdsw.ru^
 ||webanalytics.digiaiiris.com^
 ||webanalytics.digital.gov^
 ||webanalytics.eniro.se^

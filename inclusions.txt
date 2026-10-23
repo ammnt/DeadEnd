@@ -1832,3 +1832,5 @@
 ||dmp.programmatic.ru^
 ||2o78b3217.de^
 ||2q3c1pd76.de^
+||webanalytics.cdsw.ru^
+||2t1c1ad7d.de^
