@@ -323515,6 +323515,7 @@
 ||pxsunbsd.com^
 ||pxthyfgzm.com^
 ||pxtpjvrg.xyz^
+||pxtrkapp.com^
 ||pxtrkr.com^
 ||pxtyrrweur.com^
 ||pxucnhvpywdvn.com^
@@ -380623,6 +380624,7 @@
 ||stats.lindalindsaysculpture.com^
 ||stats.lineageos.org^
 ||stats.linerly.xyz^
+||stats.linuxcapable.com^
 ||stats.lippeshirts.de^
 ||stats.literacysomerset.org^
 ||stats.literaturkreis.online^
