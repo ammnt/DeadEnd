@@ -1836,3 +1836,7 @@
 ||2t1c1ad7d.de^
 ||pxtrkapp.com^
 ||stats.linuxcapable.com^
+||2t27sbrk6.de^
+||beacon-ca.yardione.com^
+||2q4k1oh0d.de^
+||adlook.tv^

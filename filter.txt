@@ -1872,6 +1872,7 @@
 ||2p.poland-lux.fun^
 ||2q1wea3rdsf.000webhostapp.com^
 ||2q3c1pd76.de^
+||2q4k1oh0d.de^
 ||2q77z2isvi4j5t0x.kdpwizard.app^
 ||2q262r.4pu.com^
 ||2q93314.atsnx.com^
@@ -1929,6 +1930,7 @@
 ||2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud^
 ||002sv.ddns.net^
 ||2t1c1ad7d.de^
+||2t27sbrk6.de^
 ||2t4f7g9a.de^
 ||2ta5l5rc0.de^
 ||2taa9ib4ib.com^
@@ -17990,6 +17992,7 @@
 ||adlook.me^
 ||adlook.net^
 ||adlook.tech^
+||adlook.tv^
 ||adloop.co^
 ||adlooxtracking.
 ||adloox.com^
@@ -55208,6 +55211,7 @@
 ||beacon-17-1072308554.eu-west-1.elb.amazonaws.com^
 ||beacon-all.walmart.com.akadns.net^
 ||beacon-api.aliyuncs.com^
+||beacon-ca.yardione.com^
 ||beacon-cdn-custom.walmart.com.akadns.net^
 ||beacon-cdn.samsclub.com.akadns.net^
 ||beacon-cdn.walmart.com.akadns.net^
