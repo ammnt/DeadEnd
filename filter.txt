@@ -1,4 +1,4 @@
-! Last modified: 2026-11-02T11:44:05.581Z
+! Last modified: 2026-11-03T11:26:25.414Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -1930,8 +1930,8 @@
 ||2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud^
 ||002sv.ddns.net^
 ||2t1c1ad7d.de^
-||2t27sbrk6.de^
 ||2t4f7g9a.de^
+||2t27sbrk6.de^
 ||2ta5l5rc0.de^
 ||2taa9ib4ib.com^
 ||2tamilyogi.com^
