@@ -1842,3 +1842,6 @@
 ||adlook.tv^
 ||trackmail.reg.ru^
 ||2o8m1prd1.de^
+||logs-afina.megafon.ru^
+||mvapspdmpg.com^
+||cnt.livecam-online.com^

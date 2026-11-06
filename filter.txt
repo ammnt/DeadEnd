@@ -87369,6 +87369,7 @@
 ||cnt.in.bookmyshow.com^
 ||cnt.iol.it^
 ||cnt.likealaugh.org^
+||cnt.livecam-online.com^
 ||cnt.logoslovo.ru^
 ||cnt.mastorage.net^
 ||cnt.my^
@@ -244706,6 +244707,7 @@
 ||logstat.caixin.com^
 ||logs*.smithsonian.museum^
 ||logs*.sportslocalmedia.com^
+||logs-afina.megafon.ru^
 ||logs-api.shoprunner.com^
 ||logs-collect.ziniao.com^
 ||logs-ingress.svc.vinted.com^
@@ -273455,6 +273457,7 @@
 ||mva1.maeva.com^
 ||mvabelchpotaiy.com^
 ||mvakbserenates.review^
+||mvapspdmpg.com^
 ||mvartulidesign.com^
 ||mvasuhdpfivqh.online^
 ||mvat.com^
