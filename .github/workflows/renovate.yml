@@ -1,0 +1,24 @@
+name: Renovate🔄
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  renovate:
+    runs-on: ubuntu-26.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+
+      - name: Run Renovate
+        uses: renovatebot/github-action@266fef21329c44765ad42f9dea1f01f5d2d91084
+        with:
+          configurationFile: renovate.json
+          token: ${{ secrets.GH_TOKEN }}
+        env:
+          RENOVATE_REPOSITORIES: ${{ github.repository }}

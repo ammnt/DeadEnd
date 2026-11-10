@@ -1853,3 +1853,4 @@
 ||sod.onelink.me^
 ||2bdqa6hje.de^
 ||2ed7hhm4e.de^
+||cdn-*.gravityfield.ai^

@@ -34,7 +34,7 @@ DeadEnd/
 ├── 📝 .editorconfig                     # EditorConfig for consistent coding styles
 ├── ✅ exclusions.txt                    # Explicit domains to never block (false positives)
 ├── 🧹 filter.txt                        # Auto-generated blocklist for AdGuard Home
-├── 🔎 .aglintrc.yaml                     # Generated config for AGLint tool
+├── 🔎 .aglintrc.yaml                    # Generated config for AGLint tool
 ├── 🔧 .gitattributes                    # Git attributes for language detection
 ├── 🗂️ .github/                          # GitHub-specific configuration
 │   ├── 🤖 dependabot.yml                # Automated dependency update rules
@@ -45,13 +45,15 @@ DeadEnd/
 │   ├── 🔀 PULL_REQUEST_TEMPLATE.md      # Pull request checklist and template
 │   └── 🔄 workflows/                    # GitHub Actions CI/CD pipelines
 │       ├── 🔨 build.yml                 # Scheduled filter building and testing
-│       └── 🔒 codeql.yml                # CodeQL static security analysis
+│       ├── 🔒 codeql.yml                # CodeQL static security analysis
+│       └── ⬆️ renovate.yml              # Renovatebot workflow for dependencies update
 ├── 🙈 .gitignore                        # Git ignore rules
 ├── ➕ inclusions.txt                    # Explicit domains to block (manual additions)
 ├── ⚖️ LICENSE                           # MIT License agreement
 ├── 🎨 logo.png                          # Project logo and branding
 ├── 📦 package.json                      # Node.js dependencies and build scripts
 ├── 📖 README.md                         # Main project documentation
+├── 📖 renovate.json                     # Renovatebot configuration
 ├── 🔒 SECURITY.md                       # Security policy and vulnerability reporting
 └── 🧶 yarn.lock                         # Yarn dependency lock file
 ```

@@ -75989,6 +75989,7 @@
 ||cdnx.hotelsolpalace.com^
 ||cdnx.villaggiolabarca.it^
 ||cdn*.swaxis.com^
+||cdn-*.gravityfield.ai^
 ||cdn-0.pics.dvdcdn.com^
 ||cdn-adg-kmrb8umfh.stackpathdns.com^
 ||cdn-adn-*.rayjump.com^
