@@ -4,6 +4,7 @@
     "config:recommended",
     ":disableDependencyDashboard"
   ],
+  "gitAuthor": "ammnt <45385632+ammnt@users.noreply.github.com>",
   "enabledManagers": ["npm"],
   "npm": {
     "managerFilePatterns": ["/(^|/)package\\.json$/"]
