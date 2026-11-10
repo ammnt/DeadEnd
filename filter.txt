@@ -1,4 +1,4 @@
-! Last modified: 2026-11-09T12:14:00.736Z
+! Last modified: 2026-11-10T05:45:10.278Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -75989,7 +75989,6 @@
 ||cdnx.hotelsolpalace.com^
 ||cdnx.villaggiolabarca.it^
 ||cdn*.swaxis.com^
-||cdn-*.gravityfield.ai^
 ||cdn-0.pics.dvdcdn.com^
 ||cdn-adg-kmrb8umfh.stackpathdns.com^
 ||cdn-adn-*.rayjump.com^
@@ -76068,6 +76067,7 @@
 ||cdn-uk.cxix.com^
 ||cdn-v3.conductrics.net^
 ||cdn-widget.callpage.io^
+||cdn-*.gravityfield.ai^
 ||cdn.1vag.com^
 ||cdn.2app.lk^
 ||cdn.6c18.com^
