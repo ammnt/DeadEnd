@@ -4,7 +4,7 @@
     "config:recommended",
     ":disableDependencyDashboard"
   ],
-  "gitAuthor": "ammnt <45385632+ammnt@users.noreply.github.com>",
+  "assignees": ["ammnt"],
   "enabledManagers": ["npm"],
   "npm": {
     "managerFilePatterns": ["/(^|/)package\\.json$/"]
@@ -13,7 +13,8 @@
     {
       "matchManagers": ["npm"],
       "matchUpdateTypes": ["patch"],
-      "automerge": true
+      "automerge": true,
+      "automergeType": "branch"
     },
     {
       "matchManagers": ["npm"],
