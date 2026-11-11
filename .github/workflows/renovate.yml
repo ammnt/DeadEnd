@@ -22,3 +22,4 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
         env:
           RENOVATE_REPOSITORIES: ${{ github.repository }}
+          RENOVATE_PLATFORM_COMMIT: 'enabled'
