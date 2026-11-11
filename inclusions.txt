@@ -1854,3 +1854,5 @@
 ||2bdqa6hje.de^
 ||2ed7hhm4e.de^
 ||cdn-*.gravityfield.ai^
+||analytics.g.cachefly.net^
+||289ci1imk.de^

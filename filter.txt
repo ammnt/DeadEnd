@@ -7728,6 +7728,7 @@
 ||283.laobanfa.com^
 ||288b9-renew-ovhcloud.bordex.dk^
 ||288ky.app^
+||289ci1imk.de^
 ||289tom.com^
 ||291hkcido.de^
 ||292news.biz^
@@ -34032,6 +34033,7 @@
 ||analytics.fusepowered.com^
 ||analytics.futuro360.com^
 ||analytics.fxonlinebanking.com^
+||analytics.g.cachefly.net^
 ||analytics.gamedatacrunch.com^
 ||analytics.gameforge.de^
 ||analytics.gamesdrive.net^
