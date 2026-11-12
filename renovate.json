@@ -4,6 +4,7 @@
     "config:recommended",
     ":disableDependencyDashboard"
   ],
+  "configMigration": true,
   "assignees": ["ammnt"],
   "enabledManagers": ["npm"],
   "npm": {
