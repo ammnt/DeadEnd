@@ -1,4 +1,4 @@
-! Last modified: 2026-11-11T11:30:12.283Z
+! Last modified: 2026-11-12T11:56:49.471Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -34033,7 +34033,6 @@
 ||analytics.fusepowered.com^
 ||analytics.futuro360.com^
 ||analytics.fxonlinebanking.com^
-||analytics.g.cachefly.net^
 ||analytics.gamedatacrunch.com^
 ||analytics.gameforge.de^
 ||analytics.gamesdrive.net^
@@ -34096,6 +34095,7 @@
 ||analytics.guangdiankeji.com^
 ||analytics.gvim.mobi^
 ||analytics.gyalbraids.com^
+||analytics.g.cachefly.net^
 ||analytics.hahamobi.com^
 ||analytics.hallmark.com^
 ||analytics.hambleden-capital.com^
