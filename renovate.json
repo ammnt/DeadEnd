@@ -15,7 +15,7 @@
       "matchManagers": ["npm"],
       "matchUpdateTypes": ["patch"],
       "automerge": true,
-      "automergeType": "branch"
+      "automergeType": "pr"
     },
     {
       "matchManagers": ["npm"],
