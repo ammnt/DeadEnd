@@ -55,6 +55,7 @@ DeadEnd/
 ├── 📖 README.md                         # Main project documentation
 ├── 📖 renovate.json                     # Renovatebot configuration
 ├── 🔒 SECURITY.md                       # Security policy and vulnerability reporting
+├── 🖼️ social_preview.jpg                # Image for repository’s social media preview
 └── 🧶 yarn.lock                         # Yarn dependency lock file
 ```
 
