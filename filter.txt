@@ -55228,6 +55228,7 @@
 ||beacon.9165619.com^
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
+||beacon.alice.yandex.
 ||beacon.archonia.com^
 ||beacon.asda.com^
 ||beacon.basicrum.com^
@@ -147292,6 +147293,7 @@
 ||ezofv.gesundheit-der-frau.com^
 ||ezoic.com^
 ||ezoic.net^
+||ezoicanalytics.com^
 ||ezojs.com^
 ||ezonlinesupport.com^
 ||ezonlwiyhv.com^

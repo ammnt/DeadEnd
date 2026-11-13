@@ -1856,3 +1856,5 @@
 ||cdn-*.gravityfield.ai^
 ||analytics.g.cachefly.net^
 ||289ci1imk.de^
+||ezoicanalytics.com^
+||beacon.alice.yandex.
