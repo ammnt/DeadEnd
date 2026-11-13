@@ -5,10 +5,10 @@ on:
     - cron: "30 0 1 * *"
       timezone: "UTC"
   workflow_dispatch:
-  push:
-    branches: ["main"]
-  # pull_request:
+  # push:
   #   branches: ["main"]
+  pull_request:
+    branches: ["main"]
 
 jobs:
   analyze:
