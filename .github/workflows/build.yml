@@ -1,10 +1,9 @@
 name: CI/CD📦
 
 on:
-  schedule:
-    - cron: "30 0 * * *"
-      timezone: "UTC"
   workflow_dispatch:
+  schedule:
+    - cron: "20 10 * * *"
   # push:
   #   branches: ["main"]
 
