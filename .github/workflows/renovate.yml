@@ -2,7 +2,8 @@ name: Renovate🔄
 
 on:
   schedule:
-    - cron: "10 8 * * *"
+    - cron: "30 0 1 * *"
+      timezone: "UTC"
   workflow_dispatch:
 
 permissions:
