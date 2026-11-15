@@ -2,7 +2,7 @@ name: Renovate🔄
 
 on:
   schedule:
-    - cron: "30 0 1 * *"
+    - cron: "30 7 * * *"
       timezone: "UTC"
   workflow_dispatch:
 
@@ -24,4 +24,4 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
         env:
           RENOVATE_REPOSITORIES: ${{ github.repository }}
-          RENOVATE_PLATFORM_COMMIT: 'enabled'
+          RENOVATE_PLATFORM_COMMIT: "enabled"

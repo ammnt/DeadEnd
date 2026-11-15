@@ -2,7 +2,7 @@ name: CodeQL Advanced🔎
 
 on:
   schedule:
-    - cron: "30 0 1 * *"
+    - cron: "30 7 * * *"
       timezone: "UTC"
   workflow_dispatch:
   # push:

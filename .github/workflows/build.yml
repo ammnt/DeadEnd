@@ -2,7 +2,7 @@ name: CI/CD📦
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "30 7 * * *"
       timezone: "UTC"
   workflow_dispatch:
   # push:
