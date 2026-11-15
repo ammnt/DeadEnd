@@ -1,4 +1,4 @@
-! Last modified: 2026-11-12T11:56:49.471Z
+! Last modified: 2026-11-15T06:33:39.548Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -147291,9 +147291,9 @@
 ||ezoejkwwrv.com^
 ||ezoeyd.planetahuerto.pt^
 ||ezofv.gesundheit-der-frau.com^
+||ezoicanalytics.com^
 ||ezoic.com^
 ||ezoic.net^
-||ezoicanalytics.com^
 ||ezojs.com^
 ||ezonlinesupport.com^
 ||ezonlwiyhv.com^
