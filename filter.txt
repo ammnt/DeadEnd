@@ -28,6 +28,7 @@
 /leadia/
 /lexprofi/
 /livetex/
+/matomo/
 /mkt[0-9]{3,5}\.com/
 /mxcallback/
 /perezvoni/
@@ -40493,7 +40494,6 @@
 ||app-dynamics.com^
 ||app-effertz.bj0x6pfbnq-pxr4kgoko6gn.p.temp-site.link^
 ||app-evmos.excnenge.com^
-||app-fnsp-matomo-analytics-prod.azurewebsites.net^
 ||app-forments1-tfx55confirmstxt.ynu8nwat4s-jqp3ve9yl650.p.temp-site.link^
 ||app-g7ashhjasy28397ajh324asf.5dakwhvpnp-rz83y95m04d7.p.temp-site.link^
 ||app-gendueh8239381923haisah347.fnejbjqcyk-gok67n8v2452.p.temp-site.link^
@@ -49623,7 +49623,6 @@
 ||azlpuhoccz.com^
 ||azlwkc.cotswoldoutdoor.ie^
 ||azlyta.immowelt.de^
-||azmatomo.service.4matnetworks.com^
 ||azmdy.com^
 ||azmjosvecyye.com^
 ||azmnp.com^
@@ -116023,7 +116022,6 @@
 ||diplomasewerivory.com^
 ||diplomasolitaryflirt.com^
 ||diplomasx.com^
-||diplomatomorrow.com^
 ||diplomat-dental.online^
 ||diplomat.media^
 ||diploma.healthcare^
@@ -218072,7 +218070,6 @@
 ||jenkem.no-ip.biz^
 ||jenkincraved.com^
 ||jenkinhughes.co.uk^
-||jenkins-matomo.do.g4v.dev^
 ||jenkins.emilkubicki.pl^
 ||jenkins.findfwd.com^
 ||jenllexcosvrj.com^
@@ -256717,13 +256714,6 @@
 ||matmechanic.com^
 ||matochdryck.net^
 ||matolical001.no-ip.org^
-||matomo-cdn-bunny.ramsalt.com^
-||matomo-demo-*.amazonaws.com^
-||matomo-francia1.kleecks-stats.com^
-||matomo-germania1.kleecks-stats.com^
-||matomo-sysutv.goteborg.se^
-||matomo-tracking.fia.com^
-||matomo.
 ||matomygroup.com^
 ||matomymail.com^
 ||matomymarket.com^

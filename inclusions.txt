@@ -416,7 +416,6 @@
 ||sanalytics.makro.
 ||metrics.marksandspencer.
 ||smetrics.marksandspencer.
-||matomo.
 ||dialogue.mazda.
 ||mdws.
 ||mediacontext.
@@ -722,7 +721,6 @@
 ||frontlog.tutu.ru^
 ||weborama-tech.ru^
 ||adv-cloudfilse.azureedge.net^
-||app-fnsp-matomo-analytics-prod.azurewebsites.net^
 ||live-tfs-omnilytics.azurewebsites.net^
 ||helpukrainewinwidget.org^
 ||median-ads.com^
@@ -1083,7 +1081,6 @@
 ||recom-ads.wildberries.ru^
 ||adstat.yandex.
 ||webstats.cyotek.com^
-||jenkins-matomo.do.g4v.dev^
 ||stat.pravdafrance.com^
 ||stats.rip^
 ||tracking.banki.ru^
@@ -1859,3 +1856,4 @@
 ||ezoicanalytics.com^
 ||beacon.alice.yandex.
 ||1h2gp10t2.de^
+/matomo/
