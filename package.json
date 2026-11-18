@@ -9,11 +9,11 @@
     "build": "hostlist-compiler -c configuration.json -o filter.txt"
   },
   "dependencies": {
-    "@adguard/hostlist-compiler": "2.1.1"
+    "@adguard/hostlist-compiler": "3.0.0"
   },
   "resolutions": {
-    "@adguard/hostlist-compiler": "2.1.1",
-    "@adguard/filters-downloader": "3.0.1",
+    "@adguard/hostlist-compiler": "3.0.0",
+    "@adguard/filters-downloader": "3.1.0",
     "@adguard/diff-builder": "1.1.9",
     "jsonpointer": "5.0.1",
     "axios": "1.21.1",
