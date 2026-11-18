@@ -1,5 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "gitAuthor": "ammnt <45385632+ammnt@users.noreply.github.com>",
   "extends": [
     "config:recommended",
     ":disableDependencyDashboard"
