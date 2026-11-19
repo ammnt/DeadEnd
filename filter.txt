@@ -630,6 +630,7 @@
 ||1da19a918c.com^
 ||1darkvendor.no-ip.biz^
 ||1daychocolate.com^
+||1db821qt0.de^
 ||1db9fede5f.com^
 ||1dbag40.no-ip.biz^
 ||1dbjhsjdfbj1.monster^
@@ -5257,6 +5258,7 @@
 ||12betwin.cn^
 ||12bet.casino^
 ||12bvn.com^
+||12d2hr35i.de^
 ||12dc71b7cb820f2a.com^
 ||12dx.duckdns.org^
 ||12e53a34.bakerstreetfinance.tv^
@@ -7449,6 +7451,7 @@
 ||159vod-adaptive.akamaized.net^
 ||159.6.87.194.dynamic.dol.ru^
 ||160front.ca^
+||160o5bn0b.de^
 ||160tracker.com^
 ||160x600.exad.me^
 ||160-28.sound.ag^
@@ -7558,6 +7561,7 @@
 ||199ky.app^
 ||199.6.87.194.dynamic.dol.ru^
 ||199.ip-217-182-73.eu^
+||19kd6j1qq.de^
 ||200r.duckdns.org^
 ||200stran.ru^
 ||200summit.com^
@@ -33563,6 +33567,7 @@
 ||analytics.allas.se^
 ||analytics.allianz-travel.ch^
 ||analytics.alliedwarranty.com^
+||analytics.alloka.ru^
 ||analytics.alrajhibank.com.sa^
 ||analytics.alriyfalnajdiu.com^
 ||analytics.alshamasy.com^
@@ -72014,6 +72019,7 @@
 ||callthunderczar.com^
 ||calltome.net^
 ||calltrackingmetrics.com^
+||calltracker.pro^
 ||calltracks.com^
 ||calltrack.convirza.com^
 ||calltrack.co^
@@ -390682,6 +390688,7 @@
 ||tag-based.s3.*.amazonaws.com^
 ||tag-demo.mention-me.com^
 ||tag-india.in^
+||tag-manager.ru^
 ||tag-manager.teladoc.com^
 ||tag-unclaimed.oregon.gov^
 ||tag.120ask.com^

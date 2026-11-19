@@ -1857,3 +1857,10 @@
 ||beacon.alice.yandex.
 ||1h2gp10t2.de^
 /matomo/
+||tag-manager.ru^
+||calltracker.pro^
+||analytics.alloka.ru^
+||12d2hr35i.de^
+||160o5bn0b.de^
+||19kd6j1qq.de^
+||1db821qt0.de^
