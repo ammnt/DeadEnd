@@ -1,4 +1,4 @@
-! Last modified: 2026-11-18T15:54:40.292Z
+! Last modified: 2026-11-19T15:58:33.785Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -630,8 +630,8 @@
 ||1da19a918c.com^
 ||1darkvendor.no-ip.biz^
 ||1daychocolate.com^
-||1db821qt0.de^
 ||1db9fede5f.com^
+||1db821qt0.de^
 ||1dbag40.no-ip.biz^
 ||1dbjhsjdfbj1.monster^
 ||1dc6c5x0g2.maciejdominiak.pl^
@@ -5438,6 +5438,7 @@
 ||19ff07afa33.bakerstreet.uk.com^
 ||19h52e.mszuyu.com^
 ||19hmm4naa.de^
+||19kd6j1qq.de^
 ||19lou.org^
 ||19o8hzj117.com^
 ||19rs.myvnc.com^
@@ -7561,7 +7562,6 @@
 ||199ky.app^
 ||199.6.87.194.dynamic.dol.ru^
 ||199.ip-217-182-73.eu^
-||19kd6j1qq.de^
 ||200r.duckdns.org^
 ||200stran.ru^
 ||200summit.com^
@@ -72018,8 +72018,8 @@
 ||calls.uptownleads.com^
 ||callthunderczar.com^
 ||calltome.net^
-||calltrackingmetrics.com^
 ||calltracker.pro^
+||calltrackingmetrics.com^
 ||calltracks.com^
 ||calltrack.convirza.com^
 ||calltrack.co^
