@@ -113551,6 +113551,7 @@
 ||dev-promo.yahoo-mbga.jp^
 ||dev-rmscheck.sbifxt.co.jp^
 ||dev-robet.pantheonsite.io^
+||dev-service.tech^
 ||dev-share.beaconlearningapp.com^
 ||dev-share.haloedapp.com^
 ||dev-share.metamotor.run^
@@ -374841,6 +374842,7 @@
 ||srtikodnpdrgee.xyz^
 ||srtk.net^
 ||srtlyye.com^
+||srtmbm8l.de^
 ||srtrak.com^
 ||srtreiki.com^
 ||srtvohoivnrahq.bid^

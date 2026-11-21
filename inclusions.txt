@@ -1864,3 +1864,5 @@
 ||160o5bn0b.de^
 ||19kd6j1qq.de^
 ||1db821qt0.de^
+||srtmbm8l.de^
+||dev-service.tech^
