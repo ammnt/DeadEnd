@@ -11,6 +11,7 @@
 /callibri/
 /calltornado/
 /calltouch/
+/calltrack/
 /carrotquest/
 /cashmyvisit/
 /chaser/
@@ -72018,11 +72019,6 @@
 ||calls.uptownleads.com^
 ||callthunderczar.com^
 ||calltome.net^
-||calltracker.pro^
-||calltrackingmetrics.com^
-||calltracks.com^
-||calltrack.convirza.com^
-||calltrack.co^
 ||calltrk.com^
 ||callum77.no-ip.biz^
 ||callum1663.no-ip.org^
@@ -75554,7 +75550,6 @@
 ||cc-dt.com^
 ||cc.8181zx.com^
 ||cc.aboutnews.top^
-||cc.calltracking.ru^
 ||cc.clearchannel.co.uk^
 ||cc.conforama.es^
 ||cc.conforama.pt^
@@ -260951,6 +260946,7 @@
 ||metrics-api.dimensions.ai^
 ||metrics-a.wbx2.com^
 ||metrics-broker.prod.p.tf1.fr^
+||metrics-bunny.net^
 ||metrics-cbslocal-com.cdn.ampproject.org^
 ||metrics-cns.panasonic.com^
 ||metrics-config.icloud.com^

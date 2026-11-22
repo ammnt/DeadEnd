@@ -1866,3 +1866,5 @@
 ||1db821qt0.de^
 ||srtmbm8l.de^
 ||dev-service.tech^
+/calltrack/
+||metrics-bunny.net^
