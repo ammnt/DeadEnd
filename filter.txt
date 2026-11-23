@@ -215936,6 +215936,7 @@
 ||j4.jmooreassoc.com^
 ||j5.jinghuaqitb.com^
 ||j5.jmooreassoc.com^
+||j57m6r86.de^
 ||j05.no-ip.info^
 ||j6g3fzp.5k5.ru^
 ||j6ibkoc9l9ff68pqm2t2lfr1659.rest^
@@ -407063,6 +407064,7 @@
 ||tracking.tving.com^
 ||tracking.tv.zing.vn^
 ||tracking.twocommagrowth.com^
+||tracking.typeform.com^
 ||tracking.t.mercedes-benz.co.in^
 ||tracking.t.mercedes-benz.de^
 ||tracking.t.wao.ne.jp^

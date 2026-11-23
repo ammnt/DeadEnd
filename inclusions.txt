@@ -1868,3 +1868,5 @@
 ||dev-service.tech^
 /calltrack/
 ||metrics-bunny.net^
+||tracking.typeform.com^
+||j57m6r86.de^
