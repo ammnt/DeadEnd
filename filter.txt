@@ -1,4 +1,4 @@
-! Last modified: 2026-11-22T14:48:38.336Z
+! Last modified: 2026-11-23T18:37:22.542Z
 
 /2calls/
 /aj[0-9]{4}\.online/
@@ -72019,6 +72019,7 @@
 ||calls.uptownleads.com^
 ||callthunderczar.com^
 ||calltome.net^
+||calltracker.pro^
 ||calltrk.com^
 ||callum77.no-ip.biz^
 ||callum1663.no-ip.org^
@@ -215936,7 +215937,6 @@
 ||j4.jmooreassoc.com^
 ||j5.jinghuaqitb.com^
 ||j5.jmooreassoc.com^
-||j57m6r86.de^
 ||j05.no-ip.info^
 ||j6g3fzp.5k5.ru^
 ||j6ibkoc9l9ff68pqm2t2lfr1659.rest^
@@ -215978,6 +215978,7 @@
 ||j33xvvanl.com^
 ||j42vni.webwave.dev^
 ||j50zz.lyfd2xzauti9d8p.bapb.gdn^
+||j57m6r86.de^
 ||j83ad.speedrun.com^
 ||j87vdqof2788-a.akamaihd.net^
 ||j89a.net^
