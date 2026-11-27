@@ -272356,6 +272356,7 @@
 ||mtrack.nl^
 ||mtrack.port25251.com^
 ||mtrcss.com^
+||mtrcs.llimonix.dev^
 ||mtrcs.onlinepenshop.fr^
 ||mtrcs.popcap.com^
 ||mtrcs.redhat.com^
@@ -297237,6 +297238,7 @@
 ||otefauks.link^
 ||otekmnyfcv.com^
 ||otelhatemoglu.com^
+||otel.cline.bot^
 ||otel.gitkraken.com^
 ||oteralabs.net^
 ||oterolucas.no-ip.biz^
@@ -381649,6 +381651,7 @@
 ||stat.freetool.it^
 ||stat.fromfactory.club^
 ||stat.funshion.net^
+||stat.gallerycdn.vsassets.io^
 ||stat.gamedl.qq.com^
 ||stat.ganbox.com^
 ||stat.gc.my.games^

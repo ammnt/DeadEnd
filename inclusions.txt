@@ -1870,3 +1870,6 @@
 ||metrics-bunny.net^
 ||tracking.typeform.com^
 ||j57m6r86.de^
+||otel.cline.bot^
+||stat.gallerycdn.vsassets.io^
+||mtrcs.llimonix.dev^
